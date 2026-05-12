@@ -1,0 +1,51 @@
+### model
+model_name_or_path: Qwen/Qwen3-VL-2B-Instruct
+# image_max_pixels: 1048576   # ~1024x1024
+video_max_pixels: 400000
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_rank: 32 # 32 to 64 then back to 32
+# lora_target: all
+lora_target: q_proj,k_proj,v_proj,o_proj
+
+### dataset
+dataset: TW_full_data_training
+template: qwen3_vl_nothink
+cutoff_len: 32768  
+max_samples: 10000000
+preprocessing_num_workers: 64 
+dataloader_num_workers: 16
+
+### output
+output_dir: /home/q3vl_llamafactory/LlamaFactory/saves/lora/lora_successful_lora_32_target
+logging_steps: 10
+save_steps: 20
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: wandb  
+
+### train
+per_device_train_batch_size: 4
+gradient_accumulation_steps: 2
+learning_rate: 1.0e-5
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: false # enabling fp16 coz bf16 is giving zero loss
+fp16: true # enabling fp16 coz bf16 is giving zero loss
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+max_grad_norm: 1.0
+gradient_checkpointing: true
+
+## eval
+val_size: 0.1
+per_device_eval_batch_size: 1
+eval_strategy: steps
+eval_steps: 50
+

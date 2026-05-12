@@ -1,0 +1,57 @@
+### model
+model_name_or_path: Qwen/Qwen2.5-VL-3B-Instruct # previously was Qwen/Qwen3-VL-2B-Instruct
+video_max_pixels: 400000
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+freeze_vision_tower: true 
+freeze_multi_modal_projector: true
+freeze_language_model: false
+deepspeed: /data/shivsing/q3vl_training/q3vl_llamafactory/LlamaFactory/examples/deepspeed/ds_z2_config.json
+
+### dataset
+dataset: TW_full_data_training
+# eval_dataset: TW_full_data_eval
+template: qwen2_vl
+cutoff_len: 32768
+max_samples: 10000000
+overwrite_cache: true
+preprocessing_num_workers: 64
+dataloader_num_workers: 16
+
+### output
+output_dir: /data/shivsing/q3vl_training/q3vl_llamafactory/LlamaFactory/saves/qwen3vl_nothink/full/full_sft_q25vl3b_frozen_vit_and_projector_bf16_again
+logging_steps: 10
+save_steps: 50
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: wandb  
+
+### train
+per_device_train_batch_size: 4 
+gradient_accumulation_steps: 2
+learning_rate: 1.0e-6
+num_train_epochs: 5.0 
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: true
+fp16: false
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+max_grad_norm: 1.0 
+gradient_checkpointing: true
+
+## eval
+val_size: 0.1
+per_device_eval_batch_size: 1
+eval_strategy: steps
+eval_steps: 50
+
+### eval
+# eval_strategy: steps   # or "epoch"
+# eval_steps: 50             # every 500 training steps
+# per_device_eval_batch_size: 1

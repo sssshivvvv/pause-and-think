@@ -1,0 +1,51 @@
+### model
+model_name_or_path: Qwen/Qwen3-VL-2B-Instruct 
+video_max_pixels: 400000
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: full
+freeze_vision_tower: true #frozen
+freeze_multi_modal_projector: true #frozen 
+freeze_language_model: false
+deepspeed: /data/shivsing/q3vl_training/q3vl_llamafactory/LlamaFactory/examples/deepspeed/ds_z2_config.json
+
+### dataset
+dataset: TW_full_data_training
+template: qwen3_vl_nothink
+cutoff_len: 32768  # 32768 65536 128000
+max_samples: 10000000
+overwrite_cache: true
+preprocessing_num_workers: 64
+dataloader_num_workers: 16
+
+### output
+output_dir: /data/shivsing/q3vl_training/q3vl_llamafactory/LlamaFactory/saves/full/full_sft_q3vl2b_frozen_vit_and_projector_128000_again
+logging_steps: 10
+save_steps: 50
+plot_loss: true
+overwrite_output_dir: true
+save_only_model: false
+report_to: wandb  
+
+### train
+per_device_train_batch_size: 4 
+gradient_accumulation_steps: 2
+learning_rate: 1.0e-5 
+num_train_epochs: 4.0 
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+bf16: false
+fp16: true 
+ddp_timeout: 180000000
+resume_from_checkpoint: null
+max_grad_norm: 1.0 
+gradient_checkpointing: true
+
+## eval
+val_size: 0.1
+per_device_eval_batch_size: 1
+eval_strategy: steps
+eval_steps: 50

@@ -8,7 +8,8 @@ This repository contains the code accompanying the paper **"Pause and Think: A D
 
 - **Paper (this repo):** [`pause-and-think-arxiv-amd.pdf`](./pause-and-think-arxiv-amd.pdf)
 - **Fine-tuned checkpoint (Hugging Face):** [shivammmmm/pause-and-think-best-checkpoint-hf](https://huggingface.co/shivammmmm/pause-and-think-best-checkpoint-hf)
-- **Training / evaluation / benchmark data:** *To be released soon on Hugging Face.*
+- **Dataset clip mappings + regeneration tool:** [`dataset/`](./dataset) (see [Dataset: download & regenerate](#dataset-download--regenerate))
+- **Conversation / annotation JSONs (training + splits):** *To be released soon on Hugging Face.*
 
 ## Repository Structure
 
@@ -24,6 +25,11 @@ This repository contains the code accompanying the paper **"Pause and Think: A D
 │       ├── gemini-robotics-er-1.5/
 │       ├── qwen-3vl-235B/
 │       └── qwen-3vl-4B-finetuned_frozen_vit_and_projector_32768_250/
+│
+├── dataset/                      # Clip ↔ raw-video mappings + regeneration tool
+│   ├── mappings/                 # Six JSONs: {EK,Ego4d,Assembly}_{training,benchmark}_data_mapping.json
+│   ├── regenerate_clips.py       # Cut the clips from raw videos using the mappings
+│   └── README.md                 # Download links + step-by-step regeneration guide
 │
 ├── q3vl_llamafactory/            # Training code (fork of LLaMA-Factory)
 │   ├── train_robotics/
@@ -44,7 +50,7 @@ This release covers three components of the paper:
 2. **Benchmark inference** (`benchmarking/performance/`) — scripts to run each evaluated model (GPT-5.2, Gemini-Robotics-ER-1.5, Qwen3-VL-235B, and our fine-tuned Qwen3-VL-4B) on the 300-sample pause-and-think-B benchmark.
 3. **Automated evaluation** (`benchmarking/evaluation/`) — the GPT-5.1-based evaluator that performs binary validity scoring against ground truth, as described in Section 4.1.4 of the paper.
 
-The training, evaluation, and benchmarking **datasets** themselves will be uploaded to Hugging Face shortly — this repository will be updated with direct links once available.
+The **conversation / annotation JSONs** (the `messages` with `<thinking>` supervision, questions, and ground truth) will be uploaded to Hugging Face shortly. The **video clips** are not redistributed; instead `dataset/` provides mapping files and a tool to regenerate every clip from the original EPIC-KITCHENS / Ego4D / Assembly101 videos — see [Dataset: download & regenerate](#dataset-download--regenerate).
 
 ## Quick Start
 
@@ -89,6 +95,47 @@ bash run_lora.sh   # LoRA SFT
 ```
 
 The config used inside `run.sh` / `run_lora.sh` can be swapped to any YAML under `train_robotics/qwen3_vl/` or `train_robotics/qwen3_vl_nothink/`.
+
+## Dataset: download & regenerate
+
+Both the **training set (pause-and-think-T)** and the **benchmark (pause-and-think-B)** are built on top of clips cut from publicly available egocentric video datasets. We do **not** redistribute the clips. Instead, [`dataset/mappings/`](./dataset/mappings) ties every clip the model sees to its **raw source video** and the **wall-clock window (in seconds)** to cut, and [`dataset/regenerate_clips.py`](./dataset/regenerate_clips.py) reproduces the clips at the correct frame rate.
+
+> Timestamps in the mappings are **seconds = raw-video wall-clock time** and are **fps-invariant**. The released clips were re-encoded after downsampling, so regeneration re-encodes at the target fps below. To convert a second to a frame index: `frame = round(time_sec * fps)`.
+>
+> | Dataset | Target clip fps | Raw native fps | Raw identifier in mapping |
+> |--------|------------------|----------------|---------------------------|
+> | EPIC-KITCHENS | **15** | ~59.94 | `raw_parent_video` (e.g. `P32_05.MP4`) |
+> | Ego4D | **15** | 30 | `raw_parent_uuid` (v2 `full_scale` UUID) |
+> | Assembly101 | **30** | 60 | `raw_session_recording` + `raw_session_view` (`C10118_rgb.mp4`) |
+
+### 1. Get the conversation / annotation JSONs
+
+- **Training** (`all_training_data_alpaca_thinking.json` + scene/goal splits): released on Hugging Face (link will be added above under **Links** once live).
+- **Benchmark**: already in this repo at [`benchmarking/benchmark_300_files.json`](./benchmarking/benchmark_300_files.json).
+
+### 2. Download the raw source videos
+
+| Dataset | Download |
+|--------|----------|
+| **EPIC-KITCHENS** | https://epic-kitchens.github.io/ — official [download scripts](https://github.com/epic-kitchens/epic-kitchens-download-scripts) |
+| **Ego4D** | https://ego4d-data.org/ — request access, then `ego4d --output_directory <dir> --datasets full_scale --version v2` |
+| **Assembly101** | https://assembly-101.github.io/ — follow their access + download instructions (you need the `C10118_rgb` RGB view per recording) |
+
+### 3. Regenerate the clips (requires `ffmpeg`)
+
+```bash
+cd dataset
+
+# Run once per mapping file, pointing each dataset at its raw root and a shared --out-root.
+python regenerate_clips.py --mapping mappings/EK_training_data_mapping.json        --ek-root /path/to/EPIC-KITCHENS      --out-root /path/to/output_videos
+python regenerate_clips.py --mapping mappings/EK_benchmark_data_mapping.json       --ek-root /path/to/EPIC-KITCHENS      --out-root /path/to/output_videos
+python regenerate_clips.py --mapping mappings/Ego4d_training_data_mapping.json     --ego4d-root /path/to/ego4d/v2/full_scale --out-root /path/to/output_videos
+python regenerate_clips.py --mapping mappings/Ego4d_benchmark_data_mapping.json    --ego4d-root /path/to/ego4d/v2/full_scale --out-root /path/to/output_videos
+python regenerate_clips.py --mapping mappings/Assembly_training_data_mapping.json  --assembly-root /path/to/Assembly101  --out-root /path/to/output_videos
+python regenerate_clips.py --mapping mappings/Assembly_benchmark_data_mapping.json --assembly-root /path/to/Assembly101  --out-root /path/to/output_videos
+```
+
+The script writes clips under `--out-root` using the same relative layout as the `videos` / `video` paths in the JSONs (it strips the `pause-and-think-code/full_data/` prefix), so set `--out-root` accordingly and the paths will resolve during training/benchmarking. **Benchmark** runs cut the whole clip; **training** runs cut the `question_video` prefix shown before the model answers. Use `--dry-run` to preview the `ffmpeg` commands and `--limit N` for a quick check. Full details and the mapping schema are in [`dataset/README.md`](./dataset/README.md).
 
 ## Headline Results
 

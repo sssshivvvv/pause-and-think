@@ -127,15 +127,15 @@ Both the **training set (pause-and-think-T)** and the **benchmark (pause-and-thi
 cd dataset
 
 # Run once per mapping file, pointing each dataset at its raw root and a shared --out-root.
-python regenerate_clips.py --mapping mappings/EK_training_data_mapping.json        --ek-root /path/to/EPIC-KITCHENS      --out-root /path/to/output_videos
-python regenerate_clips.py --mapping mappings/EK_benchmark_data_mapping.json       --ek-root /path/to/EPIC-KITCHENS      --out-root /path/to/output_videos
-python regenerate_clips.py --mapping mappings/Ego4d_training_data_mapping.json     --ego4d-root /path/to/ego4d/v2/full_scale --out-root /path/to/output_videos
-python regenerate_clips.py --mapping mappings/Ego4d_benchmark_data_mapping.json    --ego4d-root /path/to/ego4d/v2/full_scale --out-root /path/to/output_videos
-python regenerate_clips.py --mapping mappings/Assembly_training_data_mapping.json  --assembly-root /path/to/Assembly101  --out-root /path/to/output_videos
-python regenerate_clips.py --mapping mappings/Assembly_benchmark_data_mapping.json --assembly-root /path/to/Assembly101  --out-root /path/to/output_videos
+python regenerate_clips.py --mapping mappings/EK_training_data_mapping.json        --ek-root /path/to/EPIC-KITCHENS      --out-root /path/to/data_root
+python regenerate_clips.py --mapping mappings/EK_benchmark_data_mapping.json       --ek-root /path/to/EPIC-KITCHENS      --out-root /path/to/data_root
+python regenerate_clips.py --mapping mappings/Ego4d_training_data_mapping.json     --ego4d-root /path/to/ego4d/v2/full_scale --out-root /path/to/data_root
+python regenerate_clips.py --mapping mappings/Ego4d_benchmark_data_mapping.json    --ego4d-root /path/to/ego4d/v2/full_scale --out-root /path/to/data_root
+python regenerate_clips.py --mapping mappings/Assembly_training_data_mapping.json  --assembly-root /path/to/Assembly101  --out-root /path/to/data_root
+python regenerate_clips.py --mapping mappings/Assembly_benchmark_data_mapping.json --assembly-root /path/to/Assembly101  --out-root /path/to/data_root
 ```
 
-The script writes clips under `--out-root` using the same relative layout as the `videos` / `video` paths in the JSONs (it strips the `pause-and-think-code/full_data/` prefix), so set `--out-root` accordingly and the paths will resolve during training/benchmarking. **Benchmark** runs cut the whole clip; **training** runs cut the `question_video` prefix shown before the model answers. Use `--dry-run` to preview the `ffmpeg` commands and `--limit N` for a quick check. Full details and the mapping schema are in [`dataset/README.md`](./dataset/README.md).
+The `videos` / `video` strings in the JSONs are **relative paths** (`videos/…`), not files you need to download. The script writes each regenerated clip to `<out-root>/videos/…` (the exact path the JSONs reference), so run training / benchmark inference from that `--out-root` and the paths resolve. **Benchmark** runs cut the whole clip; **training** runs cut the `question_video` prefix shown before the model answers. Use `--dry-run` to preview the `ffmpeg` commands and `--limit N` for a quick check. Full details and the mapping schema are in [`dataset/README.md`](./dataset/README.md).
 
 ## Headline Results
 

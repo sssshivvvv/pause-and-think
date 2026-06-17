@@ -25,7 +25,7 @@ def clean_response(response):
 
 def ask_qwen(video_path, prompt):
     API_URL = "http://localhost:8000/v1/chat/completions"
-    MODEL = "pause-and-think-code/q3vl_llamafactory/saves/q3vl2b_frozen_vit_and_projector_checkpoint/checkpoint-250"
+    MODEL = "shivammmmm/pause-and-think-best-checkpoint-hf"
     
     # Get total frame count
     cap = cv2.VideoCapture(video_path)
@@ -166,7 +166,7 @@ def process_single_video_item(item, write_lock, output_file, processed_videos_lo
 def main(max_num_workers=5):  # Reduced default workers since Qwen might be resource intensive
     """Main function with multithreading support and resume capability"""
     
-    input_file = "pause-and-think-code/benchmarking/benchmark_300_files.json"
+    input_file = "benchmarking/benchmark_300_files.json"
     output_file = '300_performance_qwen3vl4b-finetuned.json'
     
     write_lock = Lock()

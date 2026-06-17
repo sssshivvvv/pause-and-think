@@ -1,12 +1,12 @@
 [
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/133550/assembly/attempt_to_attach_bumper/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/133550/assembly/attempt_to_attach_bumper/0.8_30_360.mp4",
     "question": "I just took the grey lid off the truck. Where did I put it?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the orange truck body in their left hand and the detached grey cargo container lid in their right hand. My analysis confirms that the user has not placed the lid down on the table; they are still holding it. The lid is not on the table to their left or right, nor is it near the other parts. Therefore, the lid is still in their possession.</thinking><answer>You're still holding the grey lid in your right hand. You haven't put it down on the table yet.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/133550/assembly/attempt_to_attach_bumper/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/133550/assembly/attempt_to_attach_bumper/0.8_30_360.mp4",
         "session_id": "133550",
         "phase": "assembly",
         "high_level_goal": "attempt_to_attach_bumper",
@@ -47,13 +47,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/160657/assembly/attach_mixer_stand/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/160657/assembly/attach_mixer_stand/0.4_30_360.mp4",
     "question": "What is the small grey object on the table to my right, near the screwdriver?",
     "ground_truth": "<thinking>At the end of the video, the user is focused on the assembly task in front of them. Their right hand is near the black chassis and the yellow mixer stand, while their left hand is reaching for an object on the table. Looking at the **left side of the screen**, which corresponds to the **user's right**, I can clearly see a small, grey, cylindrical object with a flat head and a threaded shaft, positioned next to a grey and yellow screwdriver. This object is visually identifiable as a screw. My analysis confirms that the object the user is inquiring about is indeed a screw, which is a key component for the assembly they are performing. I will identify it for them.</thinking><answer>That is a small grey screw. It's located on the table to your right, right next to the screwdriver you were just using.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/160657/assembly/attach_mixer_stand/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/160657/assembly/attach_mixer_stand/0.4_30_360.mp4",
         "session_id": "160657",
         "phase": "assembly",
         "high_level_goal": "attach_mixer_stand",
@@ -126,13 +126,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/115644/assembly/attach_interior/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/115644/assembly/attach_interior/0.8_30_360.mp4",
     "question": "What is the object I'm holding in my hands right now, and what is its main function?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a partially assembled toy construction vehicle with both hands. From my third-person perspective, I can see the user's left hand is holding the black chassis and their right hand is holding the yellow excavator arm, which are connected. The toy is primarily yellow and black, with a distinct articulated arm and a bucket at the end. Based on its shape and components, it is clearly designed to be a toy excavator, which is used for digging and moving materials in play. My analysis confirms the object is a toy excavator, and its main function is for imaginative play involving construction or digging.</thinking><answer>You are holding a partially assembled toy excavator. Its main function is for play, allowing you to pretend to dig and move materials, just like a real construction vehicle.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/115644/assembly/attach_interior/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/115644/assembly/attach_interior/0.8_30_360.mp4",
         "session_id": "115644",
         "phase": "assembly",
         "high_level_goal": "attach_interior",
@@ -221,13 +221,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_roof/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_roof/0.4_30_360.mp4",
     "question": "I'm trying to secure this roof piece. Can you tell me what I'm doing with my right hand right now?",
     "ground_truth": "<thinking>At the end of the video, I see the user holding a blue toy truck cabin with their left hand and a white roof piece with their right. The user's right hand is positioned directly over the roof of the truck, and their fingers are manipulating a small, dark object, which appears to be a screw, inserting it into a hole on the white roof piece. The user is using their right index finger to twist and tighten this screw into place. My analysis confirms the user is actively fastening the roof piece to the truck cabin with a screw using their right hand.</thinking><answer>You are using your right hand to tighten a small screw into the hole on the white roof piece to secure it to the blue truck cabin.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_roof/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_roof/0.4_30_360.mp4",
         "session_id": "165955",
         "phase": "assembly",
         "high_level_goal": "attach_roof",
@@ -276,13 +276,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.8_30_360.mp4",
     "question": "What is the tool I just picked up with my right hand?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished tightening a screw on the toy car chassis and is now lifting the tool away. From my third-person perspective, I can see the user's right hand, which is on the **left side of the screen**, holding a small tool with a bright red handle and a metallic tip. Given the context of the task, which involved assembling a toy car, this tool is clearly a screwdriver. The user is asking about the tool in their right hand, which is located on the left side of my view. My analysis confirms it is a red-handled screwdriver. I will identify it for them.</thinking><answer>That is a red screwdriver. You're holding it in your right hand.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.8_30_360.mp4",
         "session_id": "142800",
         "phase": "assembly",
         "high_level_goal": "attach_engine",
@@ -347,13 +347,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/disassembly/detach_cabin/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165955/disassembly/detach_cabin/0.6_30_360.mp4",
     "question": "What is that small grey tool on the table for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the detached white and blue cabin of the toy truck in their left hand and has just picked up a small, grey, plastic tool with their right hand. The tool is resting on the white table, which is on the left side of the screen from my perspective. This means the tool is on the user's right side. The user is now using the tool to poke and interact with a component inside the cabin they are holding. Given that they are disassembling or inspecting the toy truck, and the tool has a specific shape that seems designed for prying or fitting into small slots, its function is almost certainly to help remove or adjust internal parts of the toy. My analysis confirms the tool is being used for disassembly, so I will explain its purpose based on this observation.</thinking><answer>That small grey tool is for helping you take apart the toy truck's cabin. It looks like a little pry tool, designed to fit into small gaps to help you pop out or adjust the internal components you're working on. You're using it correctly to get into the cabin.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/disassembly/detach_cabin/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165955/disassembly/detach_cabin/0.6_30_360.mp4",
         "session_id": "165955",
         "phase": "disassembly",
         "high_level_goal": "detach_cabin",
@@ -402,13 +402,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/105953/assembly/attach_turntable_top/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/105953/assembly/attach_turntable_top/0.4_30_360.mp4",
     "question": "What is the small grey object I'm holding in my right hand, and what is it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, grey, cylindrical object with a threaded shaft and a flat head in their right hand. This object is positioned directly above a yellow plastic base that they are holding steady with their left hand. The object's shape and the context of the assembly task—where the user has just inserted it into a hole on the crane arm segment—strongly indicate it is a screw. Its purpose is to fasten the grey crane arm segment securely onto the yellow base by threading it into a corresponding hole, which the user is currently doing by twisting it with their fingers. My analysis confirms the object is a screw, and its function is to join the two parts of the toy crane together.</thinking><answer>That is a small grey screw. Its purpose is to fasten the crane arm segment you're holding to the yellow base, securing them together as part of the assembly.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/105953/assembly/attach_turntable_top/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/105953/assembly/attach_turntable_top/0.4_30_360.mp4",
         "session_id": "105953",
         "phase": "assembly",
         "high_level_goal": "attach_turntable_top",
@@ -465,13 +465,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/144248/assembly/attempt_to_attach_bumper/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/144248/assembly/attempt_to_attach_bumper/0.6_30_360.mp4",
     "question": "What is the small, light blue plastic piece I'm holding in my left hand, and what is its function in the toy truck I'm assembling?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, light blue plastic piece in their left hand, which is visible on the right side of the screen. The user is also holding the main body of a partially assembled toy truck in their right hand, which is on the left side of the screen. Based on the task description, this blue piece is the front bumper. The user has been attempting to attach it to the front of the truck body, indicating its function is to be a cosmetic and structural front component of the vehicle. My analysis confirms the object on the screen-right (user-left) is the front bumper, and its purpose is to complete the front of the toy truck.</thinking><answer>That light blue piece in your left hand is the front bumper for the toy truck. Its function is to attach to the front of the truck's body, giving it a finished look and protecting the front.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/144248/assembly/attempt_to_attach_bumper/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/144248/assembly/attempt_to_attach_bumper/0.6_30_360.mp4",
         "session_id": "144248",
         "phase": "assembly",
         "high_level_goal": "attempt_to_attach_bumper",
@@ -576,13 +576,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/160657/disassembly/inspect_toy/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/160657/disassembly/inspect_toy/0.8_30_360.mp4",
     "question": "What is the small green part I just removed from the yellow toy, and what is it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, green, plastic component in their right hand, having just detached it from the larger yellow and black toy part they are holding in their left hand. The user is bringing this green piece up towards their VR headset for a closer look. From my third-person perspective, this green part is on the right side of the screen, which corresponds to the user's left hand side. Based on the context of the user assembling a toy and the shape of the object, which resembles a stand or a mount, it is likely a structural component. My analysis confirms that the user has successfully separated this piece and is now inspecting it, which suggests they are trying to understand its function in the overall assembly. I will identify the object and its probable purpose for them.</thinking><answer>That small green part you just removed is a mixer stand. It's designed to be attached to the yellow toy body, likely to hold a mixing bowl or other accessory as part of the toy's function.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/160657/disassembly/inspect_toy/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/160657/disassembly/inspect_toy/0.8_30_360.mp4",
         "session_id": "160657",
         "phase": "disassembly",
         "high_level_goal": "inspect_toy",
@@ -655,13 +655,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165228/assembly/attempt_to_attach_engine_cover/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165228/assembly/attempt_to_attach_engine_cover/0.6_30_360.mp4",
     "question": "What is the small blue part I'm holding in my left hand, and what is it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, blue, plastic component in their left hand and the main chassis of a toy car in their right hand. From my third-person perspective, the small blue part is on the right side of the screen, which corresponds to the user's left hand. The user has just attempted to fit this blue part onto the chassis, first on top and then on the underside, suggesting it is a cover or a functional component designed to attach to the main body. Given the context of assembling a toy car, this blue part is most likely the engine cover, intended to be placed on top of the chassis to complete the car's body. My analysis confirms the object's identity and purpose based on its appearance and the user's actions.</thinking><answer>That small blue part in your left hand is the engine cover for the toy car. Its purpose is to snap onto the top of the main chassis you're holding in your right hand to complete the car's body.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165228/assembly/attempt_to_attach_engine_cover/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165228/assembly/attempt_to_attach_engine_cover/0.6_30_360.mp4",
         "session_id": "165228",
         "phase": "assembly",
         "high_level_goal": "attempt_to_attach_engine_cover",
@@ -726,13 +726,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164844/disassembly/detach_interior/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/164844/disassembly/detach_interior/0.4_30_360.mp4",
     "question": "What is the small orange tool I'm holding in my right hand, and what is it for?",
     "ground_truth": "<thinking>At the end of the video, the user is seated at a white table, holding a black, rectangular object (the chassis) in their left hand and a small, bright orange tool in their right hand. The user is actively manipulating the chassis with the tool. From my third-person perspective, the orange tool is in the user's right hand, which is on the left side of the screen. The tool has a flat, wedge-like tip, which is consistent with a pry tool or spudger used for opening electronic devices without causing damage. The user's action of inserting the tool into the seam of the chassis confirms its function. My analysis of the object's shape, color, and the user's interaction with it allows me to identify it and its purpose. I will now answer the user's question.</thinking><answer>That orange tool is a plastic pry tool, also known as a spudger. It's designed for safely prying open the cases of electronic devices, like the black chassis you're holding, without scratching or damaging the plastic. You use it by sliding the flat end into the seams to gently separate the parts.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164844/disassembly/detach_interior/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/164844/disassembly/detach_interior/0.4_30_360.mp4",
         "session_id": "164844",
         "phase": "disassembly",
         "high_level_goal": "detach_interior",
@@ -781,13 +781,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/101512/disassembly/detach_base/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/101512/disassembly/detach_base/0.4_30_360.mp4",
     "question": "What is the small green object I just shook out of the yellow part?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the yellow dump bed part in their left hand and has just shaken it, causing a small green object to fall into their right hand. From my third-person perspective, I can see this small, cylindrical green object clearly in the user's right palm. Given the context of the user's previous actions—using a screwdriver to unscrew the yellow part—it is logical to infer that this green object is the screw that was just removed from the dump bed. My analysis confirms the object on the screen-left (user's right) is a small green screw. I will identify it for them.</thinking><answer>That's the small green screw you just unscrewed from the yellow dump bed. It's now in your right hand.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/101512/disassembly/detach_base/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/101512/disassembly/detach_base/0.4_30_360.mp4",
         "session_id": "101512",
         "phase": "disassembly",
         "high_level_goal": "detach_base",
@@ -876,13 +876,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142449/assembly/attach_grill/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/142449/assembly/attach_grill/0.8_30_360.mp4",
     "question": "What is the small black piece I just picked up with my left hand, and where should I put it on the yellow toy?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the yellow toy body in their right hand and has just picked up a small, dark-colored piece with their left hand. From my third-person view, the user's left hand is on the right side of the screen. The object in their left hand is a small, black, somewhat triangular or trapezoidal plastic piece, which appears to be a grill or front bumper component for the toy. Based on the sequence of actions shown earlier in the video, the user has been assembling this toy, and this piece was previously attached to the front of the yellow body. Therefore, the user is likely asking for confirmation on the part's identity and its correct placement. My analysis confirms this is the front grill piece, and its intended location is on the front of the yellow toy body.</thinking><answer>That's the front grill piece for the toy. You should attach it to the front of the yellow body, right where the rectangular opening is.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142449/assembly/attach_grill/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/142449/assembly/attach_grill/0.8_30_360.mp4",
         "session_id": "142449",
         "phase": "assembly",
         "high_level_goal": "attach_grill",
@@ -971,13 +971,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/160657/disassembly/unscrew_chassis/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/160657/disassembly/unscrew_chassis/0.8_30_360.mp4",
     "question": "What is the small, dark object I just placed on the table after using it with the screwdriver?",
     "ground_truth": "<thinking>At the end of the video, the user is looking down at the white table, having just completed an action with the toy screwdriver. My analysis of the final frames shows that the user, using their right hand, has just placed a small, dark, metallic-looking object onto the table surface. This object is positioned near the center of the table, slightly to the user's right. Given the preceding actions, where the user used a screwdriver to turn and then remove this exact object from a black chassis piece, I can infer that this object is a screw. My analysis confirms that the object on the table is the screw that was just removed. I will identify it for them.</thinking><answer>That's a screw. You just unscrewed it from the black chassis piece and placed it on the table.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/160657/disassembly/unscrew_chassis/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/160657/disassembly/unscrew_chassis/0.8_30_360.mp4",
         "session_id": "160657",
         "phase": "disassembly",
         "high_level_goal": "unscrew_chassis",
@@ -1034,13 +1034,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/094212/assembly/attach_jackhammer/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/094212/assembly/attach_jackhammer/0.6_30_360.mp4",
     "question": "What is the object I'm holding in my left hand, and what is it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a yellow and grey plastic object in their left hand. From my third-person view, this object is centered in the frame, held firmly by the user. I can identify it as a toy jackhammer, which is a component of the larger toy construction vehicle on the table. The user's right hand is positioned near the grey handle part of this jackhammer. Given the context of the task, which involves assembling parts of a toy truck, this jackhammer is clearly an accessory designed to be attached to the main vehicle body. The user is likely asking for confirmation of the object's identity and its intended function within the toy set. My analysis confirms the object is the jackhammer part, and its purpose is to be a tool for the toy truck.</thinking><answer>You're holding the yellow and grey toy jackhammer part in your left hand. It's an accessory for the toy truck on the table, designed to be attached to the main body to complete the construction vehicle set.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/094212/assembly/attach_jackhammer/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/094212/assembly/attach_jackhammer/0.6_30_360.mp4",
         "session_id": "094212",
         "phase": "assembly",
         "high_level_goal": "attach_jackhammer",
@@ -1129,13 +1129,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165029/disassembly/unscrew_chassis/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165029/disassembly/unscrew_chassis/0.6_30_360.mp4",
     "question": "What am I doing with the screwdriver and the yellow part in my hands?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a yellow and grey mechanical assembly in their left hand and a blue-handled screwdriver in their right. They are actively turning the screwdriver in a counter-clockwise motion, which is the standard action for unscrewing. The tip of the screwdriver is engaged with a screw head on the yellow assembly. My analysis confirms the user is in the process of removing a screw from the chassis assembly. I will explain this action to them.</thinking><answer>You are using the screwdriver in your right hand to unscrew a screw from the yellow and grey chassis assembly you're holding in your left hand. You're turning it counter-clockwise to loosen and remove it.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165029/disassembly/unscrew_chassis/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165029/disassembly/unscrew_chassis/0.6_30_360.mp4",
         "session_id": "165029",
         "phase": "disassembly",
         "high_level_goal": "unscrew_chassis",
@@ -1184,13 +1184,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/121059/disassembly/unscrew_cabin/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/121059/disassembly/unscrew_cabin/0.4_30_360.mp4",
     "question": "What is the yellow tool I'm holding in my right hand, and what am I using it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a yellow plastic tool in their right hand, which is positioned over a red toy truck. From my third-person view, this tool is in the center of the frame, held by the user's right hand. I can clearly see its shape: a yellow handle with a metal tip, which is characteristic of a screwdriver. The user has been using this tool to interact with the red toy truck, specifically inserting the tip into small red screws on the truck's cabin and turning it to loosen them. This action confirms its function as a screwdriver for disassembling the toy. My analysis of the object's appearance and the user's repeated action of turning screws with it allows me to confidently identify it and its purpose. I will tell the user that the yellow tool is a screwdriver and they are using it to take apart the toy truck.</thinking><answer>The yellow tool you're holding in your right hand is a screwdriver. You're using it to unscrew the red bolts from the red toy truck to take it apart.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/121059/disassembly/unscrew_cabin/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/121059/disassembly/unscrew_cabin/0.4_30_360.mp4",
         "session_id": "121059",
         "phase": "disassembly",
         "high_level_goal": "unscrew_cabin",
@@ -1247,13 +1247,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_fire_extinguisher/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_fire_extinguisher/0.8_30_360.mp4",
     "question": "What is the small grey object I just placed on the table?",
     "ground_truth": "<thinking>At the end of the video, the user has just completed an action and is looking at the table. My view is from a third-person frontal perspective. I can see a small, grey, cylindrical object resting on the white table surface. This object is located on the left side of the screen. Due to the mirroring effect of the camera angle, the left side of the screen corresponds to the user's right side. The user's right hand is positioned near this object, having just placed it down. Based on the preceding actions in the video, this object was unscrewed from the top of the red toy truck using a screwdriver. Therefore, it is a small screw. My analysis confirms that the object on the screen-left (user's right) is the screw that was just removed. I will identify it for them.</thinking><answer>That is the small grey screw you just unscrewed from the top of the red toy truck. It's sitting on the table to your right.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_fire_extinguisher/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_fire_extinguisher/0.8_30_360.mp4",
         "session_id": "112259",
         "phase": "disassembly",
         "high_level_goal": "detach_fire_extinguisher",
@@ -1334,13 +1334,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/115644/disassembly/detach_bumper/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/115644/disassembly/detach_bumper/0.6_30_360.mp4",
     "question": "What is the small, dark object I just placed on the table next to the rear bumper?",
     "ground_truth": "<thinking>At the end of the video, the user has just placed a small, dark object on the white table. From my third-person perspective, this object is located on the left side of the screen, near the user's right hand. Given the user's recent actions of unscrewing the rear bumper from the toy truck, this small, dark object is clearly a screw that was removed from the bumper. The user is now asking for confirmation of what this object is. My analysis confirms that the object on the screen-left (user-right) is the screw from the toy truck. I will identify it for them.</thinking><answer>That is the screw you just removed from the rear bumper. You can see it sitting on the table to your right, next to the bumper piece.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/115644/disassembly/detach_bumper/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/115644/disassembly/detach_bumper/0.6_30_360.mp4",
         "session_id": "115644",
         "phase": "disassembly",
         "high_level_goal": "detach_bumper",
@@ -1437,13 +1437,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141254/assembly/demonstrate_functionality/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/141254/assembly/demonstrate_functionality/0.4_30_360.mp4",
     "question": "What is the blue tool on the table, and where is it located?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the black toy car with both hands, positioned in the center of the frame. On the white table, to the left side of the screen, there is a small blue tool lying next to a black cap. Since the user is facing the camera, the left side of the screen corresponds to the user's right side. Therefore, the blue tool is on the table to the user's right. Based on its shape, with a handle and a pointed tip, it is identifiable as a screwdriver. My analysis confirms the object on the screen-left (user-right) is a blue screwdriver. I will identify it and state its location relative to the user.</thinking><answer>That is a blue screwdriver. It's lying on the white table, to your right.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141254/assembly/demonstrate_functionality/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/141254/assembly/demonstrate_functionality/0.4_30_360.mp4",
         "session_id": "141254",
         "phase": "assembly",
         "high_level_goal": "demonstrate_functionality",
@@ -1532,13 +1532,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/assembly/attempt_to_attach_roof/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165955/assembly/attempt_to_attach_roof/0.6_30_360.mp4",
     "question": "What am I doing with the small grey tool in my right hand and the roof piece in my left?",
     "ground_truth": "<thinking>At the end of the video, the user is seated at a table, wearing a VR headset. They are holding a grey, flat roof piece for a toy truck in their left hand and a small, flat grey tool in their right hand. From my third-person perspective, the user's left hand is on the right side of the screen, and their right hand is on the left side of the screen. The user is using the tool to manipulate or work on the underside of the roof piece. Based on the context of assembling a toy truck, the tool is likely being used to scrape, clean, or adjust the roof piece to ensure it fits correctly onto the blue truck cab. My analysis confirms the user is performing a fine-tuning or preparation step on the roof piece before attachment.</thinking><answer>You're using the small grey tool in your right hand to work on the underside of the roof piece you're holding in your left hand. It looks like you're cleaning or adjusting it to make sure it fits properly onto the blue truck cab.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/assembly/attempt_to_attach_roof/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165955/assembly/attempt_to_attach_roof/0.6_30_360.mp4",
         "session_id": "165955",
         "phase": "assembly",
         "high_level_goal": "attempt_to_attach_roof",
@@ -1611,13 +1611,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_rocker_panel/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_rocker_panel/0.4_30_360.mp4",
     "question": "What is that blue plastic piece on the table, to my right?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the toy car with their left hand and has a screwdriver in their right hand, which is hovering over the car. On the table, to the user's right (which appears on the left side of the screen from my perspective), there is a distinct blue plastic piece. Based on the user's recent actions of disassembling the car, this object is clearly one of the car's body panels, specifically a rocker panel, which they just removed and set down. My analysis of the scene confirms this is the most prominent object in that location, and its context within the task makes its identity clear. I will identify it for the user.</thinking><answer>That is a blue rocker panel from the side of the toy car. You just removed it and placed it on the table.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_rocker_panel/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_rocker_panel/0.4_30_360.mp4",
         "session_id": "102455",
         "phase": "disassembly",
         "high_level_goal": "detach_rocker_panel",
@@ -1674,13 +1674,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/144248/assembly/detach_bumper/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/144248/assembly/detach_bumper/0.8_30_360.mp4",
     "question": "What is the small blue piece I just removed from the toy, and where should I put it?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished removing a small, light-blue plastic piece from the main white toy body. From my third-person perspective, the user is holding this blue piece in their right hand. I need to translate this to their perspective: since the user's right hand is on the left side of the screen, the blue piece is in their right hand. The user is looking down at the table, where several other toy parts are scattered. Based on the task description, after removing this piece, the user's next action is to place it on the table. The most logical place, given the other parts are on the table, is to set it down with the rest. I will tell them it's the rear bumper and to place it on the table.</thinking><answer>That small blue piece is the rear bumper for the toy. You can place it on the table with the other parts you've taken off.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/144248/assembly/detach_bumper/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/144248/assembly/detach_bumper/0.8_30_360.mp4",
         "session_id": "144248",
         "phase": "assembly",
         "high_level_goal": "detach_bumper",
@@ -1761,13 +1761,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/144248/disassembly/detach_bumper/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/144248/disassembly/detach_bumper/0.8_30_360.mp4",
     "question": "What is the small blue piece I just removed from the white part?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, blue plastic piece in their right hand, having just detached it from the larger white component they were working on. The user is asking for the identity of this blue piece. From my third-person view, I can see the user's right hand is on the left side of the screen, so the object is on the screen-left, which corresponds to the user's right side. The piece is a small, flat, plastic component with a distinct shape, consistent with a rear bumper assembly for a toy vehicle. Based on the task description and the visual evidence of it being removed from the white part, it is clearly a separate, functional piece of the toy. I will identify it for the user.</thinking><answer>That is the rear bumper for the toy. You've just successfully removed it from the main body.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/144248/disassembly/detach_bumper/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/144248/disassembly/detach_bumper/0.8_30_360.mp4",
         "session_id": "144248",
         "phase": "disassembly",
         "high_level_goal": "detach_bumper",
@@ -1824,13 +1824,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141254/disassembly/detach_wheel/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/141254/disassembly/detach_wheel/0.4_30_360.mp4",
     "question": "What is the small black object I just placed on the table next to the wheels?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished unscrewing and removing a component from the back of the toy car chassis. They are now holding the chassis in their left hand and have placed the removed part on the white table. From my third-person perspective, this object is located on the left side of the screen. Since the user is facing me, this position corresponds to their right side. The object is small, black, and has a distinct shape with what appears to be a mounting point, consistent with the spare wheel bracket that was just detached. My analysis of the user's recent actions confirms they were unscrewing the spare wheel mounting bracket. I will identify this object for them.</thinking><answer>That is the spare wheel mounting bracket. You just unscrewed it from the back of the chassis and placed it on the table to your right.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141254/disassembly/detach_wheel/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/141254/disassembly/detach_wheel/0.4_30_360.mp4",
         "session_id": "141254",
         "phase": "disassembly",
         "high_level_goal": "detach_wheel",
@@ -1919,13 +1919,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/105953/assembly/attach_turntable_top/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/105953/assembly/attach_turntable_top/0.6_30_360.mp4",
     "question": "What is the object I'm holding in my right hand, and what is its purpose in the assembly?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, grey, cylindrical object with a head and a threaded shaft in their right hand. This object is positioned directly above a yellow plastic base that they are holding with their left hand. Looking at the screen, the user's right hand is on the left side of the frame, and their left hand is on the right side of the frame. The object in their right hand is clearly identifiable as a screw, a common fastener. Its purpose in this context is to secure the grey crane arm segment, which is already placed on the yellow base, by being inserted into a pre-drilled hole and twisted to tighten, thus joining the two parts together. My analysis confirms the object is a screw and its function is to fasten the arm to the base.</thinking><answer>You are holding a small grey screw in your right hand. Its purpose is to fasten the grey crane arm segment to the yellow base. You'll need to insert it into the hole on the arm and twist it to tighten, securing the two pieces together.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/105953/assembly/attach_turntable_top/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/105953/assembly/attach_turntable_top/0.6_30_360.mp4",
         "session_id": "105953",
         "phase": "assembly",
         "high_level_goal": "attach_turntable_top",
@@ -2006,13 +2006,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.6_30_360.mp4",
     "question": "What is the red tool I'm holding in my right hand?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a tool in their right hand, which is positioned on the left side of the screen from my perspective. I can clearly see a red plastic handle and a metal shaft, which is characteristic of a screwdriver. The user's question is about identifying this specific tool. My analysis confirms the object on the screen-left (which is the user's right) is a screwdriver. I will identify it for them.</thinking><answer>That is a red screwdriver. You're holding it in your right hand.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.6_30_360.mp4",
         "session_id": "142800",
         "phase": "assembly",
         "high_level_goal": "attach_engine",
@@ -2069,13 +2069,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/162610/assembly/detach_roof/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/162610/assembly/detach_roof/0.8_30_360.mp4",
     "question": "What is the object I'm holding in my right hand, and what did I just remove from its top?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a blue toy car body in their right hand. From my third-person perspective, the user's right hand is on the left side of the screen. I can see they have just removed a small, rectangular piece that was on top of the car body; this piece has red and blue sections, consistent with a light bar for a police car. The user's left hand, which is on the right side of the screen, is holding this detached light bar. My analysis confirms the object in the user's right hand is the main body of a blue toy police car, and the item they removed is its red and blue light bar.</thinking><answer>You're holding the main body of a blue toy police car in your right hand. You just removed the red and blue light bar from the top of it with your left hand.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/162610/assembly/detach_roof/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/162610/assembly/detach_roof/0.8_30_360.mp4",
         "session_id": "162610",
         "phase": "assembly",
         "high_level_goal": "detach_roof",
@@ -2196,13 +2196,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/100939/disassembly/detach_turntable_base/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/100939/disassembly/detach_turntable_base/0.8_30_360.mp4",
     "question": "What is the yellow piece I just removed from the truck?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a yellow, circular plastic piece in their right hand, having just detached it from the main yellow truck body. The user's question is about this specific object. From my third-person perspective, I can see the user is holding the object in their right hand, which is on the left side of the screen. This piece is clearly a turntable base, as it has a circular shape with a central pivot point and is designed to rotate, which the user is now demonstrating by turning it in their hand. The action of prying it off with the screwdriver and then rotating it confirms its function and identity. I will identify this object for them.</thinking><answer>That is the yellow turntable base. You just removed it from the top of the truck, and it's designed to rotate, which is why you can spin it in your hand.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/100939/disassembly/detach_turntable_base/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/100939/disassembly/detach_turntable_base/0.8_30_360.mp4",
         "session_id": "100939",
         "phase": "disassembly",
         "high_level_goal": "detach_turntable_base",
@@ -2283,13 +2283,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/121941/disassembly/unscrew_chassis/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/121941/disassembly/unscrew_chassis/0.4_30_360.mp4",
     "question": "What is the small, dark object I just took out of the toy car and placed on the table?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished unscrewing a component from the yellow toy car chassis and placed a small object on the table with their right hand. From my third-person view, I can see this object is located on the table near the center, slightly to the right of the car's chassis. Since the user's right hand is on the right side of the screen, this object is on the user's right side. Visually, it is a small, dark, metallic-looking piece with a threaded shaft and a head, consistent with a screw that has just been removed from the toy car. My analysis confirms that the object the user is asking about is the screw they just removed.</thinking><answer>That's the screw you just removed from the toy car chassis. It's a small, dark metal screw, and you've placed it on the table to your right.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/121941/disassembly/unscrew_chassis/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/121941/disassembly/unscrew_chassis/0.4_30_360.mp4",
         "session_id": "121941",
         "phase": "disassembly",
         "high_level_goal": "unscrew_chassis",
@@ -2346,13 +2346,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141851/disassembly/detach_cabin/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/141851/disassembly/detach_cabin/0.4_30_360.mp4",
     "question": "What are those two black and yellow objects sitting on the table in front of me?",
     "ground_truth": "<thinking>At the end of the video, the user is standing in front of a white table, holding a yellow toy cabin and a screwdriver. My focus is on the two small, circular objects placed on the table. From my third-person perspective, they are located in the center of the frame, directly in front of the user. Given the context of the user disassembling a toy, these objects are clearly identifiable as toy wheels. They are black with yellow centers, matching the color scheme of the toy cabin the user is working on. My analysis confirms these are the toy wheels the user has been working with, and they are positioned on the table right in front of them.</thinking><answer>Those are two toy wheels. They're black with yellow centers and are sitting on the table right in front of you.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141851/disassembly/detach_cabin/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/141851/disassembly/detach_cabin/0.4_30_360.mp4",
         "session_id": "141851",
         "phase": "disassembly",
         "high_level_goal": "detach_cabin",
@@ -2393,13 +2393,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/101512/disassembly/unscrew_chassis/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/101512/disassembly/unscrew_chassis/0.6_30_360.mp4",
     "question": "What am I using the screwdriver for right now?",
     "ground_truth": "<thinking>At the end of the video, I see the user holding a yellow and grey toy chassis assembly in their left hand. In their right hand, they are holding a small yellow screwdriver and are actively using it to turn a screw on the grey part of the assembly. The user's question is about the current action. My analysis confirms that the screwdriver is being used to interact with a screw on the chassis. Therefore, I will explain that they are using it to unscrew a part of the toy.</thinking><answer>You are using the screwdriver to unscrew a screw from the grey chassis part of the toy assembly you're holding.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/101512/disassembly/unscrew_chassis/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/101512/disassembly/unscrew_chassis/0.6_30_360.mp4",
         "session_id": "101512",
         "phase": "disassembly",
         "high_level_goal": "unscrew_chassis",
@@ -2472,13 +2472,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141254/assembly/attach_dashboard/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/141254/assembly/attach_dashboard/0.8_30_360.mp4",
     "question": "What is the small black object I'm holding in my right hand, and what is it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, dark object in their right hand, positioned over the white car interior piece they are holding in their left hand. From my third-person perspective, this object is in the user's right hand, which appears on the left side of the screen. I can see it is a small, cylindrical object with a flat head, consistent with the appearance of a screw. The user has just finished snapping two white plastic pieces together and is now holding this object over a hole on the assembled piece, indicating its function is to fasten the parts. My analysis confirms this is a screw, and its purpose is to secure the car interior components together.</thinking><answer>That's a small black screw. Its purpose is to fasten the two white interior pieces you just snapped together, securing them firmly in place.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141254/assembly/attach_dashboard/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/141254/assembly/attach_dashboard/0.8_30_360.mp4",
         "session_id": "141254",
         "phase": "assembly",
         "high_level_goal": "attach_dashboard",
@@ -2583,13 +2583,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/173828/assembly/attach_bucket/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/173828/assembly/attach_bucket/0.8_30_360.mp4",
     "question": "What is the orange tool I'm holding in my right hand?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small tool in their right hand. From my third-person perspective, this tool is visible on the right side of the screen. The user's right hand is holding a tool with an orange handle and a metallic tip. Given the context of the task, which involves assembling a toy truck with screws, this tool is clearly identifiable as a screwdriver. The orange handle is the grip, and the metal part is the shaft and tip designed for turning screws. My analysis confirms the object on the screen-right (user's right) is a screwdriver. I will identify it for them.</thinking><answer>That is a screwdriver. You're holding it in your right hand, and it has an orange handle.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/173828/assembly/attach_bucket/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/173828/assembly/attach_bucket/0.8_30_360.mp4",
         "session_id": "173828",
         "phase": "assembly",
         "high_level_goal": "attach_bucket",
@@ -2694,13 +2694,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/121941/assembly/attach_strap/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/121941/assembly/attach_strap/0.8_30_360.mp4",
     "question": "What is the tool I'm holding in my right hand, and what is it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a tool in their right hand. From my third-person perspective, this tool is located on the right side of the screen. I can clearly see it is a yellow-handled screwdriver with a silver metal shaft. The user has just finished using this tool to tighten a screw on the yellow toy vehicle, which is consistent with the function of a screwdriver. My analysis confirms the object in the user's right hand is a screwdriver, used for fastening screws.</thinking><answer>That's a screwdriver. You use it to tighten or loosen screws, which you just did to secure the yellow strap piece onto the toy vehicle.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/121941/assembly/attach_strap/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/121941/assembly/attach_strap/0.8_30_360.mp4",
         "session_id": "121941",
         "phase": "assembly",
         "high_level_goal": "attach_strap",
@@ -2781,13 +2781,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141312/disassembly/detach_cabin/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/141312/disassembly/detach_cabin/0.8_30_360.mp4",
     "question": "What is the small red piece I'm holding in my right hand, and what was it attached to?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, red plastic piece in their right hand. From my third-person perspective, this is on the right side of the screen, which corresponds to the user's right hand. I can see this piece is a distinct component with a specific shape, matching the cab or cabin section of the larger red toy fire truck that is on the table. The user has just finished using a yellow screwdriver to detach this piece from the main body of the truck. My analysis confirms that this red piece is the cabin of the fire truck, which was previously attached to the top of the main vehicle body.</thinking><answer>That is the red cabin piece from the toy fire truck. It was attached to the top of the main body of the truck, and you just removed it using the screwdriver.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141312/disassembly/detach_cabin/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/141312/disassembly/detach_cabin/0.8_30_360.mp4",
         "session_id": "141312",
         "phase": "disassembly",
         "high_level_goal": "detach_cabin",
@@ -2860,13 +2860,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/102611/assembly/attach_transport_cabin/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/102611/assembly/attach_transport_cabin/0.8_30_360.mp4",
     "question": "What is the orange and white box I'm holding in my right hand?",
     "ground_truth": "<thinking>At the end of the video, the user is holding two parts of a toy truck. The object in question is the one in their right hand, which from my third-person perspective is located on the right side of the screen. This object is a rectangular box, primarily orange with a white top and a green label. The user is holding it up, seemingly inspecting it before attaching it to the truck chassis in their left hand. Based on its shape and the context of assembling a toy truck, this is clearly the transport cabin for the toy. My analysis confirms the object on the screen-right (user's right) is the transport cabin, and I will identify it for them.</thinking><answer>That is the transport cabin for the toy truck. It's the orange and white box you're holding in your right hand, designed to attach to the back of the truck chassis.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/102611/assembly/attach_transport_cabin/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/102611/assembly/attach_transport_cabin/0.8_30_360.mp4",
         "session_id": "102611",
         "phase": "assembly",
         "high_level_goal": "attach_transport_cabin",
@@ -2971,13 +2971,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_door/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_door/0.6_30_360.mp4",
     "question": "What is the small, dark object I'm holding in my left hand after removing it from the truck?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished unscrewing a part from the side of the red toy truck. They are holding a small, dark, cylindrical object in their left hand. From my third-person perspective, this object is clearly visible in the user's left hand, which is positioned on the right side of the screen. Given the context of the preceding actions—using a toy screwdriver to remove fasteners from the toy truck—this object is identifiable as the screw that was just taken out. My analysis confirms the object's identity based on its shape, the tool used to remove it, and the sequence of disassembly. I will identify it for the user.</thinking><answer>That is the screw you just removed from the side of the toy truck. You're holding it in your left hand.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_door/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_door/0.6_30_360.mp4",
         "session_id": "112259",
         "phase": "disassembly",
         "high_level_goal": "detach_door",
@@ -3058,13 +3058,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165029/disassembly/detach_engine_cover/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165029/disassembly/detach_engine_cover/0.6_30_360.mp4",
     "question": "What is the small, dark object I just placed on the table with my left hand?",
     "ground_truth": "<thinking>At the end of the video, the user has just completed a sequence of actions. I observe that they are holding a yellow toy part in their left hand and a blue-handled screwdriver in their right. They have just used the screwdriver to remove a small, dark, metallic object from the yellow part. They then used their left hand to carefully take this small object off the magnetic tip of the screwdriver and placed it on the white table, directly in front of them. The object is cylindrical with a head, consistent with a screw. My analysis confirms the user is asking about the object they just placed on the table, which is clearly a screw. I will identify it for them.</thinking><answer>That is a screw. You just removed it from the yellow toy part.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165029/disassembly/detach_engine_cover/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165029/disassembly/detach_engine_cover/0.6_30_360.mp4",
         "session_id": "165029",
         "phase": "disassembly",
         "high_level_goal": "detach_engine_cover",
@@ -3113,13 +3113,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134455/disassembly/unscrew_cabin/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/134455/disassembly/unscrew_cabin/0.8_30_360.mp4",
     "question": "What is the object I'm holding in my left hand, and what am I doing with it?",
     "ground_truth": "<thinking>At the end of the video, I see the user holding a small, partially assembled toy car. The car has a yellow cabin and a white and blue chassis with wheels. The user is holding it with both hands, having just finished using a screwdriver on it. My analysis confirms the object in their left hand is the toy car they are assembling. The user is inspecting the car after tightening a screw, likely checking the stability of the cabin they just worked on. I will describe the object and their current action to them.</thinking><answer>You're holding a partially assembled toy car in your left hand. It has a yellow cabin on a white and blue chassis with wheels. You've just finished tightening a screw on the top of the cabin with a screwdriver and are now holding it with both hands to inspect your work.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134455/disassembly/unscrew_cabin/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/134455/disassembly/unscrew_cabin/0.8_30_360.mp4",
         "session_id": "134455",
         "phase": "disassembly",
         "high_level_goal": "unscrew_cabin",
@@ -3160,13 +3160,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/113951/disassembly/detach_transport_cabin/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/113951/disassembly/detach_transport_cabin/0.8_30_360.mp4",
     "question": "What is the white box I'm holding in my right hand?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a white, rectangular box in their right hand. From my third-person perspective, this object is located on the right side of the screen. The user's right hand corresponds to the screen-right, so this is indeed the object they are referring to. The box has some text and a logo printed on it, which appears to be the branding for the toy truck's transport cabin. I can clearly see it is a small, white, plastic or cardboard box that was just removed from the truck. My analysis confirms the object in question is the transport cabin's housing. I will identify it for them.</thinking><answer>That is the transport cabin for the toy truck. It's the white box-shaped part that you just unscrewed and lifted off the main body of the truck.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/113951/disassembly/detach_transport_cabin/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/113951/disassembly/detach_transport_cabin/0.8_30_360.mp4",
         "session_id": "113951",
         "phase": "disassembly",
         "high_level_goal": "detach_transport_cabin",
@@ -3247,13 +3247,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/101512/assembly/attach_cabin/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/101512/assembly/attach_cabin/0.4_30_360.mp4",
     "question": "What is the small yellow piece I'm holding in my left hand, and how do I attach it to the front body?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, yellow, somewhat rectangular plastic piece in their left hand. From my third-person perspective, this is on the right side of the screen, which corresponds to the user's left side. They are also holding the larger, yellow front body of the toy car in their right hand, which is on the left side of the screen (user's right). The user is looking down intently at the two pieces, seemingly trying to figure out how they connect. Based on the visible shapes, the small yellow piece appears to be a cabin or cockpit that is designed to fit on top of the front body. The user has already picked up a screw and a screwdriver, indicating the next step is to fasten them together. My analysis confirms the object in their left hand is the cabin piece, and it attaches to the front body by being screwed on from the top.</thinking><answer>The small yellow piece in your left hand is the cabin for the toy car. To attach it, you need to place it on top of the front body you're holding in your right hand, aligning the holes. Then, you'll use the screw and screwdriver you have to fasten it securely from the top.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/101512/assembly/attach_cabin/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/101512/assembly/attach_cabin/0.4_30_360.mp4",
         "session_id": "101512",
         "phase": "assembly",
         "high_level_goal": "attach_cabin",
@@ -3302,13 +3302,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/112259/assembly/attach_fire_extinguisher/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/112259/assembly/attach_fire_extinguisher/0.8_30_360.mp4",
     "question": "What is the small red tool I'm holding in my right hand, and what did I just use it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, red-handled tool in their right hand. From my third-person view, this tool is on the right side of the screen, which corresponds to the user's right hand. The tool has a distinct handle and a metallic-looking tip, consistent with a screwdriver. I can see that the user has just finished using this tool to tighten a white screw into a white plastic part that is now mounted on top of the red toy truck. The action involved turning the tool to secure the part. My analysis confirms this object is a toy screwdriver, and its immediate prior function was to fasten the white component onto the truck.</thinking><answer>That's a red toy screwdriver. You just used it to tighten the white screw and secure the white toy fire extinguisher part onto the top of the red toy truck.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/112259/assembly/attach_fire_extinguisher/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/112259/assembly/attach_fire_extinguisher/0.8_30_360.mp4",
         "session_id": "112259",
         "phase": "assembly",
         "high_level_goal": "attach_fire_extinguisher",
@@ -3365,13 +3365,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165029/assembly/attach_clamp_arm/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165029/assembly/attach_clamp_arm/0.8_30_360.mp4",
     "question": "What is the small blue object I just picked up with my right hand?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, blue, cylindrical object in their right hand, which is positioned on the right side of the screen. I can see the object clearly; it has a rounded head and a slightly tapered body, consistent with the appearance of a screw. The user has just picked it up from the table, where it was sitting near the center, to the right of the yellow toy excavator base. My analysis confirms this object is a screw, likely intended for assembling the toy. I will identify it for them.</thinking><answer>That is a blue screw. You can use it to fasten the yellow clamp arm onto the toy excavator base.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165029/assembly/attach_clamp_arm/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165029/assembly/attach_clamp_arm/0.8_30_360.mp4",
         "session_id": "165029",
         "phase": "assembly",
         "high_level_goal": "attach_clamp_arm",
@@ -3444,13 +3444,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/133550/disassembly/inspect_chassis/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/133550/disassembly/inspect_chassis/0.8_30_360.mp4",
     "question": "What is the large black object I'm holding and inspecting?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a large, black, rectangular object with multiple holes and slots on its surface. They are rotating it in their hands to view it from different angles. Based on its shape, the visible mounting points, and the context of the other toy parts on the table, this object is clearly the main body or frame of a toy vehicle, which is commonly referred to as a chassis. The user is inspecting it before placing it down. My analysis confirms this is the central component of the assembly project.</thinking><answer>That is the main chassis for the toy vehicle. It's the black frame you're assembling the other parts onto.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/133550/disassembly/inspect_chassis/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/133550/disassembly/inspect_chassis/0.8_30_360.mp4",
         "session_id": "133550",
         "phase": "disassembly",
         "high_level_goal": "inspect_chassis",
@@ -3491,13 +3491,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/102611/assembly/inspect_chassis/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/102611/assembly/inspect_chassis/0.6_30_360.mp4",
     "question": "What is the small, yellow, spherical object I just picked up and put down?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the black toy vehicle chassis in their left hand and has just placed a small, yellow, spherical object back on the table with their right hand. The user is asking about this specific object. From my third-person view, the object is located on the table near the center, slightly to the right of the frame, which corresponds to the user's right side. I can clearly see it is a small, bright yellow sphere, consistent with a toy light or a decorative piece for a model. My analysis confirms this is the object the user interacted with and is now inquiring about. I will identify it for them based on its visual characteristics.</thinking><answer>That's a small, yellow, spherical toy light. It's sitting on the table, to your right, near the other parts.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/102611/assembly/inspect_chassis/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/102611/assembly/inspect_chassis/0.6_30_360.mp4",
         "session_id": "102611",
         "phase": "assembly",
         "high_level_goal": "inspect_chassis",
@@ -3554,13 +3554,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/153246/disassembly/detach_cabin/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/153246/disassembly/detach_cabin/0.6_30_360.mp4",
     "question": "What is the small black part I'm holding in my left hand?",
     "ground_truth": "<thinking>At the end of the video, the user is standing in front of a white table, holding a small, black, somewhat cylindrical object in their left hand. They are also holding a screwdriver in their right hand, which they have just used to work on a yellow toy truck located on the table to their right (screen left). Based on the sequence of actions shown, the user unscrewed this black part from the yellow truck and is now examining it. The object is a component that was attached to the toy vehicle. My analysis confirms that the object in the user's left hand is the black component they just removed from the truck. I will identify it for them based on its context and appearance.</thinking><answer>That is the black component you just unscrewed from the yellow toy truck. It's a part of the toy vehicle that you've now removed for repair or inspection.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/153246/disassembly/detach_cabin/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/153246/disassembly/detach_cabin/0.6_30_360.mp4",
         "session_id": "153246",
         "phase": "disassembly",
         "high_level_goal": "detach_cabin",
@@ -3617,13 +3617,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/101512/assembly/demonstrate_functionality/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/101512/assembly/demonstrate_functionality/0.6_30_360.mp4",
     "question": "What is the toy truck in front of me doing?",
     "ground_truth": "<thinking>At the end of the video, the user is leaning over a white table, looking down at a yellow toy dump truck. Their left hand is resting on the table, while their right hand is holding the back of the truck's dump bed, tilting it upwards. The truck is positioned in the center of the table from the user's perspective. The user's question is about the action being performed on the truck. My analysis of the scene confirms that the user is actively manipulating the truck's dump bed, lifting it into a tilted position, which is a key function of a dump truck. I will describe this action for them.</thinking><answer>You are tilting up the dump bed of the toy truck with your right hand.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/101512/assembly/demonstrate_functionality/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/101512/assembly/demonstrate_functionality/0.6_30_360.mp4",
         "session_id": "101512",
         "phase": "assembly",
         "high_level_goal": "demonstrate_functionality",
@@ -3704,13 +3704,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/104130/disassembly/detach_bucket/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/104130/disassembly/detach_bucket/0.6_30_360.mp4",
     "question": "What is the small grey piece I'm holding in my right hand, and what is it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a small, grey, plastic piece in their right hand. From my third-person view, this object is in the user's right hand, which is on the left side of the screen. The user has just used this piece to push a pin out of the yellow bulldozer arm assembly, successfully separating the bucket from the arm. This action demonstrates its function as a tool for disassembly. It appears to be a specific connector or pin-pusher tool designed for this toy. My analysis confirms this grey piece is not a random part but a functional tool used to take the bulldozer arm apart. I will explain its identity and purpose based on its recent use.</thinking><answer>That small grey piece in your right hand is a connector tool, specifically designed for this toy. You just used it to push the pin out of the bulldozer arm, which allowed you to separate the bucket from the arm. It's meant to help you take the toy apart for repair or modification.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/104130/disassembly/detach_bucket/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/104130/disassembly/detach_bucket/0.6_30_360.mp4",
         "session_id": "104130",
         "phase": "disassembly",
         "high_level_goal": "detach_bucket",
@@ -3799,13 +3799,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165228/assembly/attach_bumper/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165228/assembly/attach_bumper/0.6_30_360.mp4",
     "question": "What is the blue part I just attached to the front of the car?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the main car body in their left hand and a screwdriver in their right. They have just finished attaching a blue plastic piece to the front of the car. From my third-person view, this blue piece is positioned at the front of the car body, which is being held by the user. Based on its location and shape, it is clearly the front bumper. My analysis confirms the object on the car, which the user is asking about, is the front bumper. I will identify it for them.</thinking><answer>That is the front bumper. You've just attached it to the front of the car body.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165228/assembly/attach_bumper/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165228/assembly/attach_bumper/0.6_30_360.mp4",
         "session_id": "165228",
         "phase": "assembly",
         "high_level_goal": "attach_bumper",
@@ -3878,13 +3878,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/100458/assembly/attach_connector/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/100458/assembly/attach_connector/0.8_30_360.mp4",
     "question": "What is the small blue part I just inserted into the white chassis?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a white chassis part in their right hand and has just used their left hand to insert a small, thin blue plastic piece into it. From my third-person view, the user's left hand is on the right side of the screen, and their right hand is on the left side of the screen. The object they are asking about is the small blue piece they are currently manipulating. Based on the visible action of inserting it into a slot on the white chassis, and its shape, it appears to be a specific component designed to fit into that part, likely serving as an internal structural element or an insert for a larger assembly. My analysis confirms the object is a small, blue plastic insert being fitted into the white chassis. I will identify it for them.</thinking><answer>That small blue part you just inserted is a rear roof insert. It's designed to snap into the white chassis to form part of the vehicle's body structure.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/100458/assembly/attach_connector/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/100458/assembly/attach_connector/0.8_30_360.mp4",
         "session_id": "100458",
         "phase": "assembly",
         "high_level_goal": "attach_connector",
@@ -3981,13 +3981,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/094212/disassembly/detach_strap/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/094212/disassembly/detach_strap/0.6_30_360.mp4",
     "question": "What is the small red object I just picked up from the top of the yellow toy cabin?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the yellow toy cabin with their left hand and has just used their right hand to pick up a small, red object from the top surface of the cabin. Looking at the screen, this action is happening in the center, with the user's right hand (which appears on the left side of the screen) performing the action. Based on the preceding actions where the user was unscrewing a black strap with a screwdriver, this red object is clearly one of the fasteners. It is a small, red screw. My analysis confirms the object is a red screw, which was just removed from the cabin. I will identify it for the user.</thinking><answer>That is a red screw. You just removed it from the top of the yellow toy cabin.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/094212/disassembly/detach_strap/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/094212/disassembly/detach_strap/0.6_30_360.mp4",
         "session_id": "094212",
         "phase": "disassembly",
         "high_level_goal": "detach_strap",
@@ -4068,13 +4068,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164844/disassembly/detach_light/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/164844/disassembly/detach_light/0.6_30_360.mp4",
     "question": "What did I just remove from the top of the yellow toy cabin?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the yellow toy cabin in their left hand and the red tool in their right. They have just finished using the tool to pry off a small, orange, dome-shaped piece from the top of the cabin. This piece is now resting on the white table, directly in front of them and slightly to their right (which appears on the left side of the screen from my perspective). My analysis of the action confirms that the object they removed is the orange light. I will identify this object for them.</thinking><answer>You just removed the small orange light from the top of the yellow toy cabin. It's now sitting on the table in front of you.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164844/disassembly/detach_light/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/164844/disassembly/detach_light/0.6_30_360.mp4",
         "session_id": "164844",
         "phase": "disassembly",
         "high_level_goal": "detach_light",
@@ -4131,13 +4131,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164944/disassembly/detach_clamp_arm/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/164944/disassembly/detach_clamp_arm/0.6_30_360.mp4",
     "question": "What is the yellow part I'm holding in my hands?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a yellow, articulated plastic part with both hands, having just detached it from the main yellow toy truck body. From my third-person perspective, this part is centered in the frame, held by the user. The user's left hand is on the right side of the screen, and their right hand is on the left side of the screen, confirming they are holding the object with both hands. This part is clearly the clamp arm that was previously attached to the toy truck's base. My analysis of the scene confirms that the user has successfully removed this specific component and is now examining it. I will identify this object for them.</thinking><answer>That is the clamp arm from the toy truck. You've just taken it off the main body to inspect it.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164944/disassembly/detach_clamp_arm/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/164944/disassembly/detach_clamp_arm/0.6_30_360.mp4",
         "session_id": "164944",
         "phase": "disassembly",
         "high_level_goal": "detach_clamp_arm",
@@ -4194,13 +4194,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141934/disassembly/detach_engine_cover/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/141934/disassembly/detach_engine_cover/0.4_30_360.mp4",
     "question": "What is the object I just placed on the table to my right?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished detaching a part from the yellow toy excavator. My view is from a third-person frontal perspective, so the user's right side corresponds to the left side of the screen. I can see a yellow plastic piece, which is the engine cover of the toy, resting on the white table. The user's right hand is moving away from it after placing it down. My analysis confirms that the object on the screen-left (user's right) is the detached yellow engine cover. I will identify it for them.</thinking><answer>That is the yellow engine cover from the toy excavator. You just placed it on the table to your right.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141934/disassembly/detach_engine_cover/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/141934/disassembly/detach_engine_cover/0.4_30_360.mp4",
         "session_id": "141934",
         "phase": "disassembly",
         "high_level_goal": "detach_engine_cover",
@@ -4241,13 +4241,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/121059/assembly/attach_base/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/121059/assembly/attach_base/0.4_30_360.mp4",
     "question": "What is the yellow tool I'm holding in my right hand?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a yellow-handled tool in their right hand, which is positioned near the center of the table. From my third-person perspective, the user's right hand is on the left side of the screen. The tool has a distinct yellow handle and a metallic tip, consistent with the appearance of a screwdriver. The user has just been using this tool to tighten a screw on the toy truck, which confirms its function. My analysis of the object's visual characteristics and its recent use allows me to identify it confidently. I will inform the user that it is a screwdriver.</thinking><answer>That is a screwdriver. You've been using it to tighten the screw on the green part of the truck.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/121059/assembly/attach_base/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/121059/assembly/attach_base/0.4_30_360.mp4",
         "session_id": "121059",
         "phase": "assembly",
         "high_level_goal": "attach_base",
@@ -4304,13 +4304,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/100939/assembly/demonstrate_functionality/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/100939/assembly/demonstrate_functionality/0.8_30_360.mp4",
     "question": "What is the blue and orange tool on the table to my right?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished manipulating the yellow toy excavator and has shifted their attention to the tools on the table. The user is asking about the object located on the left side of the screen. Since the camera is positioned in front of the user, an object on the left side of the screen corresponds to the user's right side. I can clearly see a blue plastic handle with an orange tip, which is shaped like a screwdriver. This is a common design for a child's toy screwdriver. My analysis confirms the object on the screen-left (user-right) is a toy screwdriver. I will identify it for them.</thinking><answer>That is a toy screwdriver. It has a blue handle and an orange tip, and it's sitting on the table to your right.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/100939/assembly/demonstrate_functionality/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/100939/assembly/demonstrate_functionality/0.8_30_360.mp4",
         "session_id": "100939",
         "phase": "assembly",
         "high_level_goal": "demonstrate_functionality",
@@ -4375,13 +4375,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_engine_cover/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_engine_cover/0.6_30_360.mp4",
     "question": "What is the small, dark object I just placed on the table next to the car?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished unscrewing a component from the toy car. Their right hand, which was holding the screwdriver, is now placing a small, dark, metallic object onto the table. This object is located on the right side of the screen, which corresponds to the user's left side. Given the context of the preceding actions—using a screwdriver to remove a screw from the car's engine compartment—this object is clearly the screw that was just removed. My analysis confirms that the object on the screen-right (user-left) is the screw from the car. I will identify it for them.</thinking><answer>That is the screw you just removed from the engine compartment of the toy car. You placed it on the table to your left.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_engine_cover/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_engine_cover/0.6_30_360.mp4",
         "session_id": "102455",
         "phase": "disassembly",
         "high_level_goal": "detach_engine_cover",
@@ -4422,13 +4422,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134923/disassembly/unscrew_interior/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/134923/disassembly/unscrew_interior/0.8_30_360.mp4",
     "question": "What is the small, dark object I just removed from the truck and placed on the table to my left?",
     "ground_truth": "<thinking>At the end of the video, the user has just completed unscrewing a small, dark object from the dark green toy truck chassis and placed it on the white table. From my third-person view, I see the object is now resting on the table on the right side of the screen. Due to the mirroring effect of the camera, this location corresponds to the user's left side. The object is cylindrical with a visible head and threaded shaft, consistent with the appearance of a screw. My analysis confirms the user is asking about this specific item they just handled. Based on its visual characteristics and the context of the task, I can identify it for them.</thinking><answer>That is a screw. You just unscrewed it from the dark green toy truck chassis and placed it on the table to your left.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134923/disassembly/unscrew_interior/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/134923/disassembly/unscrew_interior/0.8_30_360.mp4",
         "session_id": "134923",
         "phase": "disassembly",
         "high_level_goal": "unscrew_interior",
@@ -4493,13 +4493,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/113951/assembly/unscrew_roof/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/113951/assembly/unscrew_roof/0.6_30_360.mp4",
     "question": "What is that white and orange container I'm holding, and what am I doing with it?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a white rectangular container with an orange lid in their left hand. In their right hand, they are holding a red-handled screwdriver, which they are using to pry open the orange lid. The user's question is about the container and the action they are performing. From my third-person view, I can see the container clearly. The user's left hand is on the left side of the screen, holding the container, and their right hand is on the right side of the screen, manipulating the screwdriver. The screwdriver is being inserted between the white base and the orange lid to separate them. This action is consistent with opening a container that has a tight-fitting lid. I will describe the container and the action of prying it open.</thinking><answer>That is a white and orange container, and you are using the red-handled screwdriver in your right hand to pry open its orange lid. You're holding the container steady with your left hand while you work the screwdriver to separate the lid from the base.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/113951/assembly/unscrew_roof/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/113951/assembly/unscrew_roof/0.6_30_360.mp4",
         "session_id": "113951",
         "phase": "assembly",
         "high_level_goal": "unscrew_roof",
@@ -4580,13 +4580,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164944/assembly/attach_arm/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/164944/assembly/attach_arm/0.8_30_360.mp4",
     "question": "What is the tool in my right hand, and what am I using it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a black, screwdriver-like tool in their right hand. From my third-person perspective, this tool is positioned on the right side of the screen, which corresponds to the user's right hand. The user is actively using this tool to interact with the yellow boom assembly, which they are holding steady with their left hand. The motion of the tool suggests it is being used to fasten or tighten a connection between the black arm piece and the yellow boom. My analysis confirms the object is a toy screwdriver, and its function in this context is to assemble the toy truck parts.</thinking><answer>The tool in your right hand is a black toy screwdriver. You are using it to attach the black arm piece to the yellow boom assembly of the toy truck.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164944/assembly/attach_arm/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/164944/assembly/attach_arm/0.8_30_360.mp4",
         "session_id": "164944",
         "phase": "assembly",
         "high_level_goal": "attach_arm",
@@ -4739,13 +4739,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/114112/assembly/attach_cabin/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/114112/assembly/attach_cabin/0.8_30_360.mp4",
     "question": "What is the small yellow object I just placed on top of the black cabin?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished placing a small yellow object onto the black cabin of the yellow toy truck. From my third-person perspective, I can see the user's right hand, which is holding the small yellow object, positioned over the black cabin on the truck. The user's left hand is holding the yellow truck steady. The small yellow object is cylindrical with a flat head, consistent with the appearance of a plastic screw or bolt. The user is asking about this specific object. My analysis confirms that this object is a screw, and it is located on top of the black cabin piece, which is itself on the yellow truck. I will identify it for them.</thinking><answer>That is a small yellow screw. You've just placed it into the hole on top of the black cabin piece.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/114112/assembly/attach_cabin/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/114112/assembly/attach_cabin/0.8_30_360.mp4",
         "session_id": "114112",
         "phase": "assembly",
         "high_level_goal": "attach_cabin",
@@ -4818,13 +4818,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/100458/assembly/attach_roof/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/100458/assembly/attach_roof/0.4_30_360.mp4",
     "question": "What is the small, yellow tool on the table to my right?",
     "ground_truth": "<thinking>At the end of the video, the user is seated at a white table, facing the camera. They have just finished tightening a screw on the light blue toy truck with their right hand and have placed the tool they were using back down. My gaze is drawn to the object they just set down, which is located on the left side of the screen. Due to the mirrored perspective of the camera, this position corresponds to the user's right side. The object is small, bright yellow, and has the distinct shape of a screwdriver, with a handle and a shaft. The user is now reaching with their left hand towards a pile of small parts on the table, near the center. My analysis confirms that the yellow tool on the screen-left (user's right) is a screwdriver, which they used to tighten the screw on the truck. I will identify it for them.</thinking><answer>That is a yellow screwdriver. You used it to tighten the screw on the roof of the truck, and it's sitting on the table to your right.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/100458/assembly/attach_roof/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/100458/assembly/attach_roof/0.4_30_360.mp4",
         "session_id": "100458",
         "phase": "assembly",
         "high_level_goal": "attach_roof",
@@ -4881,13 +4881,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/144248/assembly/attach_turntable_base/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/144248/assembly/attach_turntable_base/0.6_30_360.mp4",
     "question": "What is the yellow tool on the table that I just used?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished tightening a screw on the toy assembly and has placed the tool back on the table. From my third-person perspective, I can see the yellow tool resting on the white table surface. The user is asking about the tool they just used, which is located on the left side of the screen. Since the user is facing me, the left side of the screen corresponds to their right side. Therefore, the yellow tool is on the user's right. Based on its shape—a handle and a shaft ending in a tip designed to fit into a screw head—and the user's recent action of using it to turn a screw, I can identify it as a screwdriver. My analysis confirms the object on the screen-left (user-right) is the screwdriver they just put down. I will identify it for them.</thinking><answer>That is a yellow screwdriver. You just used it to tighten the blue screw into the toy assembly, and you placed it back down on the table to your right.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/144248/assembly/attach_turntable_base/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/144248/assembly/attach_turntable_base/0.6_30_360.mp4",
         "session_id": "144248",
         "phase": "assembly",
         "high_level_goal": "attach_turntable_base",
@@ -4952,13 +4952,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141934/disassembly/detach_engine_cover/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/141934/disassembly/detach_engine_cover/0.6_30_360.mp4",
     "question": "What is the yellow piece I just removed from the toy excavator?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished unscrewing a component from the yellow toy excavator and is holding the main body in their left hand while the detached yellow piece rests on the table. The user is asking about this specific yellow piece. From my third-person view, I can see the piece is on the white table, located on the right side of the screen. Since the user is facing me, this position corresponds to their left side. The piece is a curved, plastic component that was clearly covering the top of the toy's engine block, which is now exposed. Based on its shape and the context of disassembling a toy excavator, it is identifiable as the engine cover. My analysis confirms that the object the user is inquiring about is the yellow engine cover, which is now sitting on the table to their left.</thinking><answer>That's the engine cover for the toy excavator. You've successfully removed it, and it's now sitting on the table to your left.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141934/disassembly/detach_engine_cover/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/141934/disassembly/detach_engine_cover/0.6_30_360.mp4",
         "session_id": "141934",
         "phase": "disassembly",
         "high_level_goal": "detach_engine_cover",
@@ -5007,13 +5007,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_roof/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_roof/0.4_30_360.mp4",
     "question": "I am holding the white roof piece over the blue truck cabin and have the screw ready. What should I do next to secure the roof?",
     "ground_truth": "<thinking>At this moment, the user is seated at a white table, facing the camera, with a blue toy truck cabin held in their left hand and a white roof piece held in their right hand, positioned directly above the cabin. On the table, there are several other toy truck parts, including black wheels and a grey chassis piece, along with a small white box and a paper. The user has been focused on aligning the white roof piece with the blue cabin, making small adjustments with their right hand to get the fit right. They have just picked up a small screw from the table with their right hand and are now holding it near the hole on the white roof piece, preparing to insert it. The user’s body is slightly leaned forward, indicating concentration on the precise placement of the screw. Their left hand is steadily holding the truck assembly, while their right hand is poised to begin the next step of securing the roof. The overall goal is to attach the roof, and the user has completed the initial alignment; now they are ready to fasten it with the screw. Okay, the user has the screw ready and is asking for the next step. They are holding the roof piece and the screw in their right hand, positioned over the cabin. The next logical action is to insert the screw into the hole on the roof and begin tightening it. I can see in the video that they are using their right index finger to twist the screw into place. They will need to use their left hand to tilt the truck to get a better angle for tightening. I should instruct them to start twisting the screw in with their right index finger.</thinking><answer>Okay, now use your right index finger to twist and tighten the screw into the hole on the roof. You might need to tilt the truck with your left hand to get a better angle as you tighten it.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_roof/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_roof/0.4_30_360.mp4",
         "session_id": "165955",
         "phase": "assembly",
         "high_level_goal": "attach_roof",
@@ -5062,13 +5062,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.8_30_360.mp4",
     "question": "I've just tightened the screw on the engine component. What should I do next to complete the assembly of the toy car?",
     "ground_truth": "<thinking>At this moment, the scene shows a person seated at a white table, wearing a large headset device. In front of them is a black toy car chassis with bright yellow wheels. The person's right hand, which is visible on the left side of the video frame, is holding a red screwdriver and has just finished tightening a screw on a small black engine component that is now mounted on the chassis. Their left hand, visible on the right side of the frame, is resting on the table, having just stabilized the chassis during the screwing action. So far in the video, the person has successfully picked up the engine component with their right hand, positioned it onto the chassis while holding the chassis steady with their left hand, and then used the red screwdriver to secure it. The next logical step in the assembly process, given the current state, is to determine the subsequent action required to complete the toy car. Okay, I see you've just finished securing the engine with the screwdriver. You're holding the screwdriver in your right hand, and the engine is now firmly attached to the chassis. Since the task is to complete the assembly, and you've just finished the tightening step, the logical next action is to set the tool down. Looking at the scene, I can see you're about to place the red screwdriver back on the table with your right hand. That's the correct next step to clear your workspace and prepare for the next phase of the build.</thinking><answer>You should place the red screwdriver down on the table with your right hand.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_engine/0.8_30_360.mp4",
         "session_id": "142800",
         "phase": "assembly",
         "high_level_goal": "attach_engine",
@@ -5133,13 +5133,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164844/assembly/attempt_to_attach_turntable_base/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/164844/assembly/attempt_to_attach_turntable_base/0.4_30_360.mp4",
     "question": "I am holding the yellow dumper bed and have inspected the truck chassis. What should I do next to attach it?",
     "ground_truth": "<thinking>At this moment, the scene shows the user seated at a white table, wearing a complex headset device. In front of them is a partially assembled yellow and grey toy truck. The user is holding the yellow dumper bed component with their left hand [which appears on the right side of the video frame] and is using their right hand [which appears on the left side of the video frame] to manipulate and inspect the truck chassis. So far, the user has successfully brought the dumper bed to the truck, attempted to align and press it into place, lifted it off for inspection, and rotated the chassis. The orange toy screwdriver is visible on the table to the user's left [left side of the video frame], but has not yet been picked up. The user's current focus is on the connection point between the dumper bed and the truck chassis, indicating they are in the process of figuring out the correct attachment method before proceeding. Okay, the user has asked for the next step after inspecting the chassis. They are still holding the dumper bed. Looking at the scene, the next logical step to secure the dumper bed is to use the tool provided. I can see the orange screwdriver on the table to their left. They should place the dumper bed down for a moment and pick up the screwdriver with their right hand to fasten the connection.</thinking><answer>You should place the dumper bed on the table for a moment and then pick up the orange toy screwdriver with your right hand to secure it to the chassis.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164844/assembly/attempt_to_attach_turntable_base/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/164844/assembly/attempt_to_attach_turntable_base/0.4_30_360.mp4",
         "session_id": "164844",
         "phase": "assembly",
         "high_level_goal": "attempt_to_attach_turntable_base",
@@ -5180,13 +5180,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_rocker_panel/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_rocker_panel/0.4_30_360.mp4",
     "question": "I've removed the rocker panel and am holding the car, what should I do next to continue detaching the parts?",
     "ground_truth": "<thinking>At this moment, the user is seated at a white table, holding a blue and black toy car with both hands, having just rotated it to expose its underside. On the table, there is a black screwdriver, a detached blue rocker panel, another blue car part, and some papers. The user's right hand, which appears on the left side of the video, has just finished unscrewing and removing a screw, which is now on the table. The user then used their right hand to remove the blue rocker panel from the car's side and briefly tried to reposition it before placing it down. They also picked up and set down another blue part. The user is now holding the car steady, seemingly having completed the initial detachment steps and is pausing, indicating they are ready for the next instruction to continue the process of detaching the parts. Okay, the user has successfully removed the rocker panel and is now holding the car, looking for the next step. Based on the overall goal of detaching the parts, and seeing the other components on the table, the logical next action is to continue working on the car's chassis. I can see the user is now using their right hand, which is on the left side of the screen, to pick up the black screwdriver again. They are positioning the screwdriver over another screw on the car's underside, right next to the wheel. This is the clear next step to continue the disassembly.</thinking><answer>You should pick up the screwdriver with your right hand and start unscrewing the next screw on the car's underside, right next to the wheel.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_rocker_panel/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/102455/disassembly/detach_rocker_panel/0.4_30_360.mp4",
         "session_id": "102455",
         "phase": "disassembly",
         "high_level_goal": "detach_rocker_panel",
@@ -5243,13 +5243,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_wheel/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_wheel/0.6_30_360.mp4",
     "question": "I have just secured the second wheel assembly to the rear axle. What should I do next to continue assembling the car?",
     "ground_truth": "<thinking>At this moment, the user is seated at a white table in a dimly lit room, facing the camera. In their left hand [visible on the right side of the video frame], they are holding the black car chassis, which now has a yellow wheel assembly attached to its rear axle. Their right hand [visible on the left side of the video frame] is holding a red-handled screwdriver, having just finished tightening the screw for that second wheel. On the table, the black car body shell, another yellow wheel assembly, and some blue plastic pieces are visible. So far, the user has successfully attached the first wheel assembly to the front axle and the second to the rear axle, following the sequence of picking up parts, positioning them, and securing them with the screwdriver. They have now completed the step of securing the second wheel and are pausing, holding the chassis and screwdriver, ready for the next action in the assembly process. Okay, I see the user is asking for the next step after securing the second wheel. Looking at the parts on the table, the next logical action in the assembly sequence is to attach the third wheel. The user is holding the chassis, so they need to pick up the next wheel assembly. I can see a yellow wheel assembly on the table to their left. They should pick that up with their left hand and position it onto the front axle of the chassis. After positioning it, they will need to secure it by hand before using the screwdriver again. I will tell them to pick up the third wheel assembly and attach it to the front.</thinking><answer>Okay, now you should pick up the third yellow wheel assembly from the table with your left hand and attach it to the front axle of the chassis.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_wheel/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/142800/assembly/attach_wheel/0.6_30_360.mp4",
         "session_id": "142800",
         "phase": "assembly",
         "high_level_goal": "attach_wheel",
@@ -5434,13 +5434,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141312/disassembly/detach_bumper/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/141312/disassembly/detach_bumper/0.6_30_360.mp4",
     "question": "I've just detached the front bumper from the chassis. What should I do next to continue assembling the fire truck?",
     "ground_truth": "<thinking>At this moment, the user is seated at a white table, facing the camera, with a complex device covering their head. On the table, there are several red plastic pieces, black wheels, small red pins, and a paper instruction manual showing a red fire truck. The user is holding the main red chassis with both hands, having just separated the front bumper from it. The separated front bumper is now resting on the table to the user's right. The user's right hand, which was previously holding a yellow-handled tool, is now free and is being used to hold the chassis along with the left hand. The user has completed the step of detaching the front bumper and is now inspecting the main chassis, likely preparing for the next step in the assembly process. The user's focus is on the main chassis, indicating they are ready to proceed with the next action in building the fire truck. Okay, I see the user has successfully detached the bumper and is now holding the main chassis. The next logical step in the assembly, as shown in the manual, is to attach the wheels. I can see a set of black wheels on the table to the user's left. The user should now pick up one of those wheels with their right hand and snap it onto the front axle of the chassis.</thinking><answer>You should now pick up one of the black wheels from the table with your right hand and snap it onto the front axle of the chassis.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141312/disassembly/detach_bumper/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/141312/disassembly/detach_bumper/0.6_30_360.mp4",
         "session_id": "141312",
         "phase": "disassembly",
         "high_level_goal": "detach_bumper",
@@ -5497,13 +5497,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134923/assembly/screw_wheel/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/134923/assembly/screw_wheel/0.8_30_360.mp4",
     "question": "I've just finished tightening the screw on the spare wheel cover. What should I do next to complete the assembly?",
     "ground_truth": "<thinking>At this moment, the scene is focused on a white table in a dimly lit room. The user, wearing a head-mounted device and a mask, is seated and facing the camera. In front of them is a bright green toy truck, which they are currently holding steady with their left hand [visible on the right side of the video]. Their right hand [visible on the left side of the video] is actively engaged in tightening a green screw into a white spare wheel cover that has been placed on the rear of the truck. To the left of the truck, a green power drill and a few loose green parts are visible on the table. To the right, there is a piece of paper with diagrams and another green screw. So far, the user has successfully placed the spare wheel cover, inserted the screw, and is now in the process of tightening it. After completing this, the next logical step, based on the overall goal of assembling the truck, would involve using the power drill to fully secure the screw before moving on to inspect or rotate the vehicle. Okay, I see the user has just finished tightening the screw by hand. Now, according to the plan, they need to use the power drill for the final tightening. I can see them reaching for the green power drill on the table with their right hand. They are now positioning the drill over the screw and will use it to fully secure the spare wheel cover while keeping the truck steady with their left hand. This is the correct next step to ensure the part is firmly attached before proceeding.</thinking><answer>You should now pick up the green power drill with your right hand and use it to fully tighten the screw on the spare wheel cover, holding the truck steady with your left hand.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134923/assembly/screw_wheel/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/134923/assembly/screw_wheel/0.8_30_360.mp4",
         "session_id": "134923",
         "phase": "assembly",
         "high_level_goal": "screw_wheel",
@@ -5560,13 +5560,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/114053/assembly/attach_engine_cover/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/114053/assembly/attach_engine_cover/0.8_30_360.mp4",
     "question": "I am holding the engine part and have just tightened the screw. What should I do next to complete the engine cover assembly?",
     "ground_truth": "<thinking>At this moment, the scene is set at a white table in a dimly lit room. The user, wearing a dark sweater and a head-mounted device, is standing in front of the table. In their left hand, they are holding a yellow and grey engine part. Their right hand, which is visible on the left side of the video frame, is holding an orange and blue screwdriver, having just finished tightening a small grey screw into the engine part. The screwdriver is now being held away from the part, indicating the tightening action is complete. On the table, other components are visible, including two black and yellow wheel-like parts, a larger orange plastic piece, and a small grey cube-shaped object. So far, the user has successfully picked up the engine part, positioned the screw, and used the screwdriver to secure it. The next logical step, based on the current state and the overall goal of attaching the engine cover, would be to place the screwdriver back on the table to free up their right hand for the next assembly step. Okay, I see you've just finished tightening the screw. Now, to proceed with the assembly, you need to put the screwdriver down on the table. This will free up your right hand so you can pick up the engine cover and attach it to the engine part you're holding.</thinking><answer>You should place the screwdriver back on the table now to free up your right hand.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/114053/assembly/attach_engine_cover/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/114053/assembly/attach_engine_cover/0.8_30_360.mp4",
         "session_id": "114053",
         "phase": "assembly",
         "high_level_goal": "attach_engine_cover",
@@ -5623,13 +5623,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/disassembly/detach_roof/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165955/disassembly/detach_roof/0.6_30_360.mp4",
     "question": "I have successfully attached the water tank to the truck chassis. What should I do next to continue assembling the model?",
     "ground_truth": "<thinking>At this moment, the user is holding the fully assembled black truck chassis with the white and blue water tank securely mounted on top, using both hands. The assembly is positioned in the center of the white table. To the user's right [visible on the left side of the video], the black screwdriver and a few loose silver screws are on the table. To the user's left [visible on the right side of the video], there is a blue plastic part and other unassembled components. So far, the user has completed the steps of picking up the water tank, placing it onto the chassis, and securing it with a screw using the screwdriver. The screwdriver has been placed back on the table, and the user is now holding the completed sub-assembly, indicating they have finished the current phase of the build and are ready for the next instruction. The user's next logical step is to pick up the blue plastic part to continue the assembly. Okay, I see the user has just finished securing the water tank and is now holding the assembly steady. The next step in the process is to pick up the blue plastic part from the table to continue building. I can see it clearly to their left [on the right side of the video]. They should use their right hand to grab it, as their left hand is currently occupied holding the chassis. This will allow them to start the next phase of the assembly without putting the main piece down.</thinking><answer>Okay, now you should pick up the blue plastic part from the table with your right hand.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/disassembly/detach_roof/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165955/disassembly/detach_roof/0.6_30_360.mp4",
         "session_id": "165955",
         "phase": "disassembly",
         "high_level_goal": "detach_roof",
@@ -5726,13 +5726,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/094212/disassembly/detach_arm/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/094212/disassembly/detach_arm/0.8_30_360.mp4",
     "question": "I've separated the boom and the arm, what should I do next?",
     "ground_truth": "<thinking>At this moment, the scene is focused on the white table where the user has just completed separating the yellow boom from the grey arm. The yellow toy vehicle base sits in the center, and the user is holding the separated grey arm in their right hand, with the yellow boom resting on the table in front of them. The yellow screwdriver and the red pin are also visible on the table to the right. So far, the user has successfully used the screwdriver to remove the red pin, pushed out the grey nut, detached the entire boom assembly, and then manually separated the two components. The user's current action of holding the grey arm suggests they have just finished the separation step. Given the overall objective of detaching the arm, the logical next step would be to place the grey arm down and then handle the yellow boom, or perhaps re-examine the parts. The user is now at a natural pause point after completing a major sub-task, which is why they are asking for the next instruction. Okay, I see the user is holding the grey arm. Looking at the scene, the next logical step in the process is to set the grey arm down on the table to free up their right hand. This will allow them to then pick up the yellow boom with their left hand and continue the disassembly or inspection as needed. I should instruct them to place the grey arm down.</thinking><answer>Okay, now place the grey arm down on the table with your right hand.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/094212/disassembly/detach_arm/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/094212/disassembly/detach_arm/0.8_30_360.mp4",
         "session_id": "094212",
         "phase": "disassembly",
         "high_level_goal": "detach_arm",
@@ -5917,13 +5917,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/162610/disassembly/detach_bumper/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/162610/disassembly/detach_bumper/0.6_30_360.mp4",
     "question": "I am trying to detach the bumper from the toy car. I've unscrewed one screw, what should I do next?",
     "ground_truth": "<thinking>At this moment, the scene shows a person standing at a white table, facing the camera. On the table, there is a blue and white toy police car positioned in the center. To the left of the car (from the viewer's perspective, which is the user's right side), a detached grey plastic bumper piece is lying on the table. The user is holding an orange-handled screwdriver in their right hand, which is positioned over the rear of the toy car. Their left hand is resting on the roof of the car, holding it steady. So far in the video, the user has picked up the screwdriver with their right hand, rotated the car with their left hand, and has been using the screwdriver to unscrew a screw from the rear of the car. The user has just finished unscrewing one screw and is now paused, looking down at the car. Given the goal is to detach the bumper, and one screw has already been removed, the next logical step is to remove the screw they just loosened and then proceed to detach the bumper itself. Okay, the user is asking for the next step after unscrewing the first screw. Looking at the scene, the screw is now loose and needs to be taken out by hand. The user should use their right hand to pick up the loose screw from the rear of the car, then pass it to their left hand and set it down on the table. After that, they can use their left hand to carefully pull the rear bumper off the car and place it on the table next to the other piece.</thinking><answer>You should now remove the loose screw from the rear of the car with your right hand, pass it to your left hand, and place it on the table. Then, use your left hand to pull the rear bumper off the car and set it down.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/162610/disassembly/detach_bumper/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/162610/disassembly/detach_bumper/0.6_30_360.mp4",
         "session_id": "162610",
         "phase": "disassembly",
         "high_level_goal": "detach_bumper",
@@ -5988,13 +5988,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165228/assembly/screw_interior/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165228/assembly/screw_interior/0.8_30_360.mp4",
     "question": "I'm trying to assemble the car chassis. I've just tightened the first screw. What should I do next?",
     "ground_truth": "<thinking>At this moment, the user is standing in front of the white table, holding the black car chassis in their left hand, which is visible on the right side of the video frame. Their right hand, visible on the left side of the video, is holding the black screwdriver and is in the process of tightening the first silver screw into the chassis. On the table, there are several other small parts, including blue plastic pieces, yellow caps, and at least one more silver screw lying near the center. So far, the user has successfully picked up the first screw with their right hand, inserted it into the chassis held in their left hand, and is now completing the tightening action with the screwdriver. The next logical step in the assembly, based on the current state and the parts available, is to secure the second screw. Okay, the user just finished tightening the first screw and has placed the screwdriver down on the table. I can see a second silver screw right there in the middle of the parts. The user is now reaching for it with their right hand. They are going to pick up that second screw and insert it into the next available hole on the chassis. After that, they'll need to pick up the screwdriver again to tighten it. I should tell them to grab the next screw.</thinking><answer>You should pick up the second silver screw from the table with your right hand and insert it into the next hole on the chassis.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165228/assembly/screw_interior/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165228/assembly/screw_interior/0.8_30_360.mp4",
         "session_id": "165228",
         "phase": "assembly",
         "high_level_goal": "screw_interior",
@@ -6059,13 +6059,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_door/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_door/0.6_30_360.mp4",
     "question": "I've removed the back panel and one side screw. What should I do next to continue detaching the doors?",
     "ground_truth": "<thinking>At this moment, the scene shows the user standing behind a white table with a red toy truck positioned sideways, its side facing them. The user's right hand, visible on the left side of the frame, is holding a red and white toy screwdriver, which is currently inserted into a screw on the side of the truck. Their left hand, visible on the right side of the frame, is steadying the truck. On the table to the left, there are two small, detached pieces: a black screw and a white plastic ladder piece. So far, the user has successfully rotated the truck to face away, used the screwdriver to remove the back panel's screw, taken off the white ladder piece, and placed both items on the table. They then rotated the truck to its side and have now removed the first screw from the side panel. The user is currently in the process of detaching the side doors, and their next logical step would be to remove the second screw from the side to fully detach the door panel. Okay, I see the user has just finished unscrewing the first side screw and is now placing it on the table with their left hand. The next step is to remove the second screw on that same side. I can see they are positioning the screwdriver to start on the second screw. I need to tell them to continue unscrewing the second screw on the side panel.</thinking><answer>You should now use the screwdriver in your right hand to unscrew the second screw on the side panel of the truck.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_door/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/112259/disassembly/detach_door/0.6_30_360.mp4",
         "session_id": "112259",
         "phase": "disassembly",
         "high_level_goal": "detach_door",
@@ -6146,13 +6146,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/160239/disassembly/detach_body/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/160239/disassembly/detach_body/0.8_30_360.mp4",
     "question": "I've successfully removed the rear body part and placed it on the table. I'm holding the chassis and the screwdriver with the screw still on it. What should I do next to continue assembling the toy truck?",
     "ground_truth": "<thinking>At this moment, the scene is focused on a white table where a disassembled yellow toy truck is being worked on. The user is standing in front of the camera, wearing a dark t-shirt and a welding-style helmet. On the table, there is a black bucket-shaped part, a detached yellow rear body piece, and a small orange bracket. The user is holding the main yellow chassis of the toy truck in their left hand, which is visible on the right side of the video frame. In their right hand, visible on the left side of the frame, they are holding a red-handled screwdriver with a small screw still attached to its tip. So far in the video, the user has successfully used the screwdriver to unscrew and remove a screw from the rear of the chassis, then used their right hand to detach and place the yellow rear body part onto the table. Their current posture indicates they are pausing, holding the chassis and screwdriver, likely contemplating the next step. Given the parts on the table and the state of the chassis, the logical next action involves attaching one of the loose components to the chassis to continue the assembly. Okay, the user is asking for the next step while holding the chassis and the screwdriver. Looking at the available parts, the black bucket-shaped piece is the next logical component to attach to the front of the chassis. I can see in the video that the user is about to use their right hand to pick up the black bucket part and snap it into place on the front of the chassis. That's the correct next move to make progress.</thinking><answer>You should now pick up the black bucket part from the table with your right hand and attach it to the front of the chassis.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/160239/disassembly/detach_body/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/160239/disassembly/detach_body/0.8_30_360.mp4",
         "session_id": "160239",
         "phase": "disassembly",
         "high_level_goal": "detach_body",
@@ -6217,13 +6217,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/114053/assembly/attach_body/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/114053/assembly/attach_body/0.8_30_360.mp4",
     "question": "I'm trying to attach the yellow rear body to the grey chassis, but it doesn't seem to fit. What am I doing wrong?",
     "ground_truth": "<thinking>At the end of the video, the user is standing at the table, holding the grey chassis in their right hand and the yellow rear body in their left hand. They are looking down at the two parts, having just attempted to connect them. From my third-person view, the grey chassis is in their right hand, which is on the left side of the screen, and the yellow rear body is in their left hand, on the right side of the screen. The user's question indicates they are having trouble with the assembly. Based on the visual evidence, the two parts are not connected, and the user is inspecting them closely, which suggests a misalignment or an incorrect orientation. I should advise them to check the alignment of the parts, as the connection points might not be lined up correctly.</thinking><answer>It looks like the connection points on the yellow rear body and the grey chassis might not be aligned. Try rotating the yellow part slightly or flipping it over to see if the tabs and slots line up correctly. The parts are designed to snap together, so they should fit snugly once you find the right orientation.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/114053/assembly/attach_body/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/114053/assembly/attach_body/0.8_30_360.mp4",
         "session_id": "114053",
         "phase": "assembly",
         "high_level_goal": "attach_body",
@@ -6328,13 +6328,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142800/disassembly/detach_roof/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/142800/disassembly/detach_roof/0.6_30_360.mp4",
     "question": "What is the object I just removed from the truck?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished unscrewing and lifting a blue plastic piece off the top of a toy truck. This piece is now held in their right hand. From my third-person perspective, the user's right hand is on the left side of the screen, so the object is clearly visible there. Based on its shape, color, and the context of it being attached to the top of a toy vehicle, it is identifiable as the roof of the truck. My analysis confirms the user is holding the blue roof piece they just detached, and I will identify it for them.</thinking><answer>That is the blue roof piece of the toy truck. You've successfully removed it.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/142800/disassembly/detach_roof/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/142800/disassembly/detach_roof/0.6_30_360.mp4",
         "session_id": "142800",
         "phase": "disassembly",
         "high_level_goal": "detach_roof",
@@ -6383,13 +6383,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/150948/assembly/attach_roof/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/150948/assembly/attach_roof/0.8_30_360.mp4",
     "question": "What is the tool I'm holding in my right hand?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a tool in their right hand, which is positioned over the toy truck. From my third-person perspective, this tool is on the right side of the screen, which corresponds to the user's right hand. The tool has a bright orange handle and a metallic shaft with a flat tip, which is characteristic of a screwdriver. The user has been using this tool to tighten screws into the toy truck's roof. Based on its appearance and the action the user has been performing with it, I can confidently identify it. My analysis confirms the object in the user's right hand is a screwdriver. I will identify it for them.</thinking><answer>That is a screwdriver. It has an orange handle and a flat tip, and you've been using it to tighten the screws on the truck's roof.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/150948/assembly/attach_roof/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/150948/assembly/attach_roof/0.8_30_360.mp4",
         "session_id": "150948",
         "phase": "assembly",
         "high_level_goal": "attach_roof",
@@ -6478,13 +6478,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/173828/disassembly/detach_bucket/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/173828/disassembly/detach_bucket/0.8_30_360.mp4",
     "question": "I've successfully removed the screw and detached the arm. What should I do next to complete the task?",
     "ground_truth": "<thinking>At this moment, the scene shows the user seated at a white table with a yellow toy dump truck in front of them. The user is wearing a helmet and is holding the detached yellow arm of the truck in their left hand, while their right hand is empty. On the table, to the left of the truck (from the user's perspective, which is the right side of the video frame), lies the blue-handled screwdriver and the small screw that was just removed. The user's actions so far have been to use the blue-handled screwdriver with their right hand to loosen the screw on the truck's arm, place the screwdriver on the table, finish unscrewing and removing the screw with their right hand, and then detach the yellow arm. All these steps have been completed as intended. The user is now paused, holding the detached arm, indicating they are at a decision point and need guidance on the subsequent action to achieve the overall goal. Okay, the user has successfully detached the arm and is holding it. The next logical step to complete the task is to place the detached part down on the table, as that was the final action in the sequence. I can see they are holding the arm with their left hand, so they should use that same hand to set it down on the table.</thinking><answer>You should place the detached yellow arm on the table with your left hand.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/173828/disassembly/detach_bucket/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/173828/disassembly/detach_bucket/0.8_30_360.mp4",
         "session_id": "173828",
         "phase": "disassembly",
         "high_level_goal": "detach_bucket",
@@ -6549,13 +6549,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/114112/assembly/demonstrate_functionality/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/114112/assembly/demonstrate_functionality/0.6_30_360.mp4",
     "question": "What is the small blue object on the table to my right?",
     "ground_truth": "<thinking>At the end of the video, the user is standing in front of a white table, having just finished assembling and positioning a yellow toy truck. My view is from a third-person frontal perspective. The user is asking about a small blue object. Looking at the screen, this object is located on the left side of the frame. Due to the mirroring effect of this perspective, an object on the left side of the screen is actually on the user's right side. I can clearly see a small, blue, bulbous object with a narrow orange nozzle, which is characteristic of a toy balloon pump. My analysis confirms the object on the screen-left (user-right) is this blue pump. I will identify it for them.</thinking><answer>That is a small blue balloon pump with an orange nozzle. It's sitting on the table to your right.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/114112/assembly/demonstrate_functionality/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/114112/assembly/demonstrate_functionality/0.6_30_360.mp4",
         "session_id": "114112",
         "phase": "assembly",
         "high_level_goal": "demonstrate_functionality",
@@ -6620,13 +6620,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134459/assembly/attach_door/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/134459/assembly/attach_door/0.6_30_360.mp4",
     "question": "What is the small white piece I just attached to the back of the truck?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the orange and white toy truck with both hands, having just finished attaching a small, white, rectangular piece to the rear of the truck's white cargo section. The user is now looking at this newly attached piece. From my third-person perspective, this piece is located at the center of the frame, on the back of the truck. Since the user is facing me, this central position corresponds to the back of the truck from their viewpoint. The piece is flat, white, and has small holes or indentations on its surface, consistent with the design of a rear door or tailgate for a toy truck. My analysis confirms that the object the user is asking about is the rear door panel they just finished installing. I will identify it for them.</thinking><answer>That is the rear door panel for the truck's cargo area. You've successfully attached it to the back.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134459/assembly/attach_door/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/134459/assembly/attach_door/0.6_30_360.mp4",
         "session_id": "134459",
         "phase": "assembly",
         "high_level_goal": "attach_door",
@@ -6699,13 +6699,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/104757/disassembly/detach_door/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/104757/disassembly/detach_door/0.8_30_360.mp4",
     "question": "What is the small black object I just removed from the side of the truck?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the red toy truck with their left hand and has just used the screwdriver in their right hand to remove a small, rectangular black object from the side of the truck. The user then places this object on the table. From my third-person view, the object is now resting on the table on the **left side of the screen**, which corresponds to the **user's right side**. Given its location and shape, it appears to be a side door or panel for the toy truck. My analysis confirms the object the user is asking about is the black side door they just removed. I will identify it for them.</thinking><answer>That is the side door for the toy truck. You just removed it from the side of the vehicle.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/104757/disassembly/detach_door/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/104757/disassembly/detach_door/0.8_30_360.mp4",
         "session_id": "104757",
         "phase": "disassembly",
         "high_level_goal": "detach_door",
@@ -6850,13 +6850,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134455/assembly/attach_interior/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/134455/assembly/attach_interior/0.6_30_360.mp4",
     "question": "I've finished screwing the first blue component into the car body. What should I do next to continue assembling the interior?",
     "ground_truth": "<thinking>At this moment, the user is standing in front of a white table in a dimly lit room, holding the white toy car body in their left hand and the blue and orange screwdriver in their right hand. The car body is oriented to show its interior, and the small blue component is visibly seated inside it. On the table, there are several other colorful plastic parts, including a yellow piece, more blue and orange components, and a sheet of paper with a diagram. So far, the user has successfully positioned the first blue component and has been actively screwing it into place, rotating the car body with their left hand to get the right angle. They have just completed this screwing action and are now holding the tool, paused, indicating they are ready for the next step. The user's right hand, which is visible on the left side of the video, is still gripping the screwdriver, poised to set it down or pick up the next part. Okay, the user has asked for the next step after finishing with the first component. I see they are holding the screwdriver, and the next logical action in the sequence is to set the tool down before picking up the next part. Looking at the scene, I can see another small blue component on the table that needs to be installed. The user should place the screwdriver on the table with their right hand and then pick up that next small blue part to continue the assembly.</thinking><answer>Okay, now you should place the screwdriver on the table with your right hand and then pick up the next small blue part to install it.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134455/assembly/attach_interior/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/134455/assembly/attach_interior/0.6_30_360.mp4",
         "session_id": "134455",
         "phase": "assembly",
         "high_level_goal": "attach_interior",
@@ -6905,13 +6905,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134923/assembly/screw_wheel/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/134923/assembly/screw_wheel/0.8_30_360.mp4",
     "question": "What is the tool I just used to tighten the screw on the truck?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished using a tool and placed it down on the table. From my third-person perspective, the tool is now resting on the left side of the screen. Due to the spatial mirroring, this means it is on the user's right side. The tool is green and black, has a handle for gripping, and a chuck at the front where a bit is inserted, which is characteristic of a power drill. The user was using it to drive a screw into the toy truck, which is a primary function of a power drill. My analysis confirms the object on the screen-left (user-right) is a power drill. I will identify it for them.</thinking><answer>That is a power drill. You used it to tighten the screw on the spare wheel cover. It's now sitting on the table to your right.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/134923/assembly/screw_wheel/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/134923/assembly/screw_wheel/0.8_30_360.mp4",
         "session_id": "134923",
         "phase": "assembly",
         "high_level_goal": "screw_wheel",
@@ -6968,13 +6968,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_water_tank/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_water_tank/0.6_30_360.mp4",
     "question": "I've attached and detached the water tank several times now to get the fit right. What should I do next to ensure it's securely attached for the final time?",
     "ground_truth": "<thinking>At this moment, the user is seated at a white table, wearing a complex headset with wires. In front of them is a blue toy truck, which they are holding steady with their right hand, visible on the left side of the video frame. Their left hand, visible on the right side of the frame, is holding the white water tank and is in the process of positioning it onto the back of the truck. So far, the user has picked up the water tank with their left hand, held the truck steady with their right, and made multiple attempts to attach the tank, removing and rotating it each time to inspect the fit. They have successfully attached it once, removed it, adjusted their headset, leaned in for a closer look, and attempted to re-attach it again. They have also lifted the fully assembled toy for inspection and placed it back down. Currently, after another removal and inspection, they are making their final attempt to attach the water tank, holding it directly over the connection point on the truck's chassis. Okay, I see they've asked for the final step after all these adjustments. They're holding the tank perfectly aligned now, and from the way they're pressing down with their left hand, it's clear they are applying firm, even pressure to snap it into place for the last time. I need to tell them to complete this final attachment.</thinking><answer>Okay, now you should press down firmly on the water tank with your left hand to snap it securely into place for the final time.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_water_tank/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165955/assembly/attach_water_tank/0.6_30_360.mp4",
         "session_id": "165955",
         "phase": "assembly",
         "high_level_goal": "attach_water_tank",
@@ -7079,13 +7079,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/112259/assembly/attach_bumper/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/112259/assembly/attach_bumper/0.6_30_360.mp4",
     "question": "What is the small, dark object I just picked up with my right hand?",
     "ground_truth": "<thinking>At the end of the video, the user has just picked up a small, dark object with their right hand. From my third-person perspective, their right hand is on the left side of the screen. I can see a collection of small, dark parts on the table in that area. The object they are holding is one of these parts; it is small, cylindrical, and dark gray or black, with a flat head and a threaded shaft, which is characteristic of a screw. My analysis confirms that the object the user is holding is a screw, which they have just picked up from the pile of parts to their right.</thinking><answer>That is a small screw. You picked it up from the pile of parts on your right.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/112259/assembly/attach_bumper/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/112259/assembly/attach_bumper/0.6_30_360.mp4",
         "session_id": "112259",
         "phase": "assembly",
         "high_level_goal": "attach_bumper",
@@ -7166,13 +7166,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141254/disassembly/inspect_toy/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/141254/disassembly/inspect_toy/0.6_30_360.mp4",
     "question": "I've picked up and inspected the toy car. What should I do next to continue the inspection?",
     "ground_truth": "<thinking>At this moment, the scene shows a user standing behind a white table in a dimly lit room. On the table, there is a black toy car positioned centrally, a small blue object, and a small black screwdriver to the left of the car from the user's perspective (which appears on the right side of the video frame). The user is wearing a dark t-shirt and is facing the camera. So far, the user has been standing with their hands clasped, then lowered them and picked up the black toy car with both hands, lifting it off the table for inspection. They are currently holding the car up, examining it. Based on the overall objective to inspect the toy, the next logical step after picking up and holding the car would be to continue the inspection process, which involves using the screwdriver. The user's right hand [visible on the left side of the video] is free to pick up the small black screwdriver from the table to interact with the car's front bumper area while the left hand [visible on the right side of the video] holds the car steady. Okay, the user has just finished the initial visual inspection of the car. I see they are holding it with both hands, and their right hand is now moving towards the table. The next step in the process is to pick up the small black screwdriver with their right hand to continue the detailed inspection of the car's components.</thinking><answer>You should now pick up the small black screwdriver from the table with your right hand.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/141254/disassembly/inspect_toy/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/141254/disassembly/inspect_toy/0.6_30_360.mp4",
         "session_id": "141254",
         "phase": "disassembly",
         "high_level_goal": "inspect_toy",
@@ -7221,13 +7221,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/144248/disassembly/inspect_toy/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/144248/disassembly/inspect_toy/0.6_30_360.mp4",
     "question": "I'm trying to assemble the toy excavator, what should I do next after inspecting the arm with the screwdriver?",
     "ground_truth": "<thinking>At this moment, the user is seated at a white table, facing the camera, wearing a VR headset. In their left hand, which is on the right side of the video frame, they are holding a partially assembled toy excavator, which consists of an orange arm and a blue cab. In their right hand, visible on the left side of the frame, they are holding a yellow screwdriver. The user has been rotating the toy in their left hand to inspect it and has repeatedly brought the screwdriver in their right hand towards the orange arm, attempting to insert it into a joint. They have also lowered their head to look at a diagram on the table before raising it again to continue the inspection. The workspace has other toy parts scattered on the table, including a yellow base and some black wheels. So far, the user has focused on examining the excavator arm and trying to find the correct point of insertion with the screwdriver, but has not yet successfully attached any new component. The next logical step would involve either successfully inserting the screwdriver to secure a part or referring back to the diagram for the next assembly instruction. Okay, I see you've been inspecting the arm and trying to find the right spot. Looking at your progress, you've got the arm and cab held steady. The next step is to focus on the joint you're targeting. You need to carefully insert the screwdriver into that specific hole on the orange arm to secure it. Keep rotating the arm with your left hand to get the perfect angle, and then push the screwdriver in with your right hand to lock it in place.</thinking><answer>You should carefully insert the screwdriver into the hole on the orange arm to secure the joint. Rotate the arm with your left hand to get the right angle, then push the screwdriver in with your right hand to lock it in place.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/144248/disassembly/inspect_toy/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/144248/disassembly/inspect_toy/0.6_30_360.mp4",
         "session_id": "144248",
         "phase": "disassembly",
         "high_level_goal": "inspect_toy",
@@ -7276,13 +7276,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/assembly/detach_roof/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/165955/assembly/detach_roof/0.6_30_360.mp4",
     "question": "What is the blue plastic part on the table to my right?",
     "ground_truth": "<thinking>At the end of the video, the user is sitting at a white table, focused on assembling a small black truck chassis. Their right hand is currently holding a black screwdriver, and their left hand is holding the truck assembly. To the user's right, which corresponds to the left side of the screen from my perspective, there is a distinct blue plastic part resting on the table. It has a complex, somewhat angular shape with multiple cutouts and openings, resembling a custom 3D-printed component, possibly a body or a functional housing for the truck. My analysis confirms the object on the screen-left (user-right) is this blue plastic part. I will identify it for them based on its visual characteristics and location.</thinking><answer>That is a blue plastic part, likely a 3D-printed body or housing for the truck. It's sitting on the table to your right, next to the other small black parts.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/165955/assembly/detach_roof/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/165955/assembly/detach_roof/0.6_30_360.mp4",
         "session_id": "165955",
         "phase": "assembly",
         "high_level_goal": "detach_roof",
@@ -7363,13 +7363,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/115644/assembly/attach_arm/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/115644/assembly/attach_arm/0.6_30_360.mp4",
     "question": "What is the tool I'm holding in my right hand, and what is it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a yellow tool in their right hand. From my third-person view, this tool is located on the right side of the screen, which corresponds to the user's right hand. The tool has a distinct yellow handle and a long, thin shaft, which is characteristic of a screwdriver. Given the context of the preceding actions, where the user was assembling a toy vehicle by inserting and fastening a grey screw, this tool is clearly being used to drive that screw. Therefore, the tool is a screwdriver, and its purpose in this context is to fasten the screw to attach the excavator arm to the main body of the toy.</thinking><answer>That's a toy screwdriver. You're using it to fasten the screw and attach the yellow excavator arm to the main body of the toy vehicle.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/115644/assembly/attach_arm/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/115644/assembly/attach_arm/0.6_30_360.mp4",
         "session_id": "115644",
         "phase": "assembly",
         "high_level_goal": "attach_arm",
@@ -7474,13 +7474,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164844/assembly/attach_roof/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/164844/assembly/attach_roof/0.4_30_360.mp4",
     "question": "What is the tool I'm holding in my right hand, and what is it for?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a tool in their right hand. From my third-person perspective, this tool is positioned on the left side of the screen. It has a distinct orange handle and a metallic shaft with a flat tip, which is characteristic of a screwdriver. The user has just used this tool to tighten a screw into the gray roof piece they attached to the yellow cabin part. My analysis confirms that the object on the screen-left (user-right) is an orange screwdriver. I will identify it for them and explain its function based on its recent use in the assembly task.</thinking><answer>That is an orange screwdriver. You're using it to tighten the small screw that holds the gray roof piece onto the yellow cabin part of your model.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164844/assembly/attach_roof/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/164844/assembly/attach_roof/0.4_30_360.mp4",
         "session_id": "164844",
         "phase": "assembly",
         "high_level_goal": "attach_roof",
@@ -7537,13 +7537,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/101512/disassembly/unscrew_chassis/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/101512/disassembly/unscrew_chassis/0.6_30_360.mp4",
     "question": "I am trying to unscrew the chassis, and I've removed the first screw. I'm now attempting to unscrew the second one. What should I do next?",
     "ground_truth": "<thinking>At this moment, the user is standing in front of the camera, holding a yellow and grey partial toy assembly with both hands. The assembly is positioned in the center of the frame, and the user is actively using a yellow screwdriver held in their right hand [visible on the left side of the video] to work on a screw located on the grey part of the chassis. On the white table in front of them, three black and yellow toy wheels are arranged in a row on the left, and a sheet of paper with various small, colorful parts is visible on the right. So far in the video, the user has inspected the assembly, passed it from their right to left hand, picked up the screwdriver, and successfully unscrewed and removed the first screw, placing it on the table. They are now focused on the second screw, attempting to unscrew it, which is the current step in their process. Okay, I see you're working on the second screw. You've got the screwdriver positioned correctly. The next step is to keep turning the screwdriver with your right hand to fully loosen and remove that screw from the chassis, just like you did with the first one. Once it's loose, you can lift the screwdriver to pull the screw out.</thinking><answer>You should keep turning the screwdriver with your right hand to fully unscrew and remove the second screw from the chassis.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/101512/disassembly/unscrew_chassis/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/101512/disassembly/unscrew_chassis/0.6_30_360.mp4",
         "session_id": "101512",
         "phase": "disassembly",
         "high_level_goal": "unscrew_chassis",
@@ -7616,13 +7616,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/133550/assembly/attempt_to_attach_cabin/0.8_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/133550/assembly/attempt_to_attach_cabin/0.8_30_360.mp4",
     "question": "I am trying to attach the cabin to the chassis, but I had to remove the interior piece. What should I do next to complete the assembly?",
     "ground_truth": "<thinking>At this moment, the user is holding the black truck chassis in their left hand and the orange cabin in their right hand, having just pulled the white interior piece out. The empty orange cabin is now in their right hand, poised to be attached to the chassis. On the table, various other parts are visible, including four black wheels, a yellow piece, several small black connectors, and a grey baseplate, all awaiting assembly. The user has successfully removed the interior piece from the cabin, which was a necessary step before attaching it to the chassis. Now, with the cabin and chassis in hand, they are positioned to complete the attachment. The user's next logical step is to align the orange cabin with the black chassis and press them together to secure the connection, as this is the immediate action required to progress toward the overall goal of assembling the toy truck.</thinking><answer>Okay, now you should align the orange cabin with the black chassis and press them together firmly to snap them into place.</answer>",
     "category": "Future/Planning",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/133550/assembly/attempt_to_attach_cabin/0.8_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/133550/assembly/attempt_to_attach_cabin/0.8_30_360.mp4",
         "session_id": "133550",
         "phase": "assembly",
         "high_level_goal": "attempt_to_attach_cabin",
@@ -7671,13 +7671,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/121059/disassembly/detach_wheel/0.4_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/121059/disassembly/detach_wheel/0.4_30_360.mp4",
     "question": "What is that yellow-handled tool I'm using to take the wheels off the toy truck?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a blue toy truck chassis in their left hand and a tool with a yellow handle in their right hand, which they are using to unscrew a wheel. From my third-person view, the tool is in the user's right hand, which is on the left side of the screen. The tool has a distinct yellow plastic handle and a metal shaft with a flat tip, which is characteristic of a screwdriver. The user is actively using it to turn screws on the toy truck, confirming its function. My analysis of the object's appearance and its use in the scene confirms it is a screwdriver. I will identify it for them.</thinking><answer>That's a screwdriver. You're using it to loosen the screws that hold the wheels onto the toy truck chassis.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/121059/disassembly/detach_wheel/0.4_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/121059/disassembly/detach_wheel/0.4_30_360.mp4",
         "session_id": "121059",
         "phase": "disassembly",
         "high_level_goal": "detach_wheel",
@@ -7782,13 +7782,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/114322/disassembly/unscrew_chassis/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/114322/disassembly/unscrew_chassis/0.6_30_360.mp4",
     "question": "What is the small yellow tool I just used to take the screws out of the truck?",
     "ground_truth": "<thinking>At the end of the video, the user has just finished unscrewing a part of the yellow toy truck and is holding a small yellow tool. From my third-person perspective, I can see this tool clearly in their right hand. It has a distinct yellow handle and a metal shaft with a flat tip, which is characteristic of a screwdriver. The user is asking about this tool, which they are holding near the center of the frame, slightly to the right side of the screen. Since the user is facing me, the right side of the screen corresponds to their left side, but the tool is held centrally in their hand. My analysis confirms this object is a screwdriver, used for the task they just performed. I will identify it for them.</thinking><answer>That's a screwdriver. It's the tool you used to loosen and remove the screws from the truck's chassis.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/114322/disassembly/unscrew_chassis/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/114322/disassembly/unscrew_chassis/0.6_30_360.mp4",
         "session_id": "114322",
         "phase": "disassembly",
         "high_level_goal": "unscrew_chassis",
@@ -7853,13 +7853,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164844/assembly/demonstrate_functionality/0.6_30_360.mp4",
+    "video": "videos/full_data_ass/video_query_data_val_30_360/164844/assembly/demonstrate_functionality/0.6_30_360.mp4",
     "question": "What is the function of the white part I just attached to the yellow truck?",
     "ground_truth": "<thinking>At the end of the video, the user is holding the fully assembled yellow toy truck. My analysis shows that the white part, which the user attached to the back of the truck, is a long, articulated arm. Based on its shape and the way the user is manipulating it—tilting it up and down and rotating it from side to side—it is clearly designed to mimic the function of a real crane. The user is demonstrating its range of motion, confirming it's a movable component. This object is a crane arm, and its purpose is to be lifted, lowered, and swiveled, just like on a construction vehicle.</thinking><answer>That white part is a crane arm. Its function is to be moved up and down and rotated side to side, just like a real crane on a construction truck. You can use it to pretend to lift and move things.</answer>",
     "category": "Factual/Past",
     "assembly_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_ass/video_query_data_val_30_360/164844/assembly/demonstrate_functionality/0.6_30_360.mp4",
+        "clip_path": "videos/full_data_ass/video_query_data_val_30_360/164844/assembly/demonstrate_functionality/0.6_30_360.mp4",
         "session_id": "164844",
         "phase": "assembly",
         "high_level_goal": "demonstrate_functionality",

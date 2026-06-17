@@ -1,12 +1,12 @@
 [
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1218/1218_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1218/1218_clip_01.mp4",
     "question": "What is the large wooden instrument I'm holding and playing with the bow?",
     "ground_truth": "<thinking>At this moment, I'm looking down at a large, wooden, stringed instrument positioned between my legs. My left hand is pressing down on the strings along its long neck, and my right hand is holding a bow, actively drawing it across the strings to produce sound. The instrument has a distinct, curved body and four strings, which are characteristic features of a cello. The task context confirms the user is playing a violin, but visually, the size and playing posture—standing or sitting with the instrument on the floor—are typical for a cello, which is part of the violin family. I will identify it as a cello based on its clear visual attributes and the context of playing a string instrument.</thinking><answer>That is a cello. It's a large, wooden string instrument, and you're playing it by holding it between your legs and using the bow to draw across the strings while pressing your fingers on the neck to change the notes.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1218/1218_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1218/1218_clip_01.mp4",
         "parent_video_int": "1218",
         "raw_parent_uuid": "17310b46-54f8-4400-8a84-dd8a3943c410.mp4",
         "clip_index": 1,
@@ -28,13 +28,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1218/1218_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1218/1218_clip_02.mp4",
     "question": "What is that large wooden instrument I'm holding and playing with the bow?",
     "ground_truth": "<thinking>At this moment, I'm looking down at a large, wooden, stringed instrument positioned between my legs. My right hand is holding a bow, which I'm drawing across the strings, and my left hand is positioned on the neck of the instrument, pressing down on the strings. The instrument has a distinct, curved body, a long neck, and four strings, which are all characteristic features of a double bass. Given the context of the task, which involves playing a violin, and the visual evidence, this is clearly a double bass, which is a member of the violin family. I will identify it as such for the user.</thinking><answer>That is a double bass. It's a large, wooden string instrument, and you're playing it by drawing the bow across the strings while pressing down on the strings with your other hand to change the notes.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1218/1218_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1218/1218_clip_02.mp4",
         "parent_video_int": "1218",
         "raw_parent_uuid": "17310b46-54f8-4400-8a84-dd8a3943c410.mp4",
         "clip_index": 2,
@@ -56,13 +56,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1218/1218_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1218/1218_clip_03.mp4",
     "question": "What is that large wooden instrument I'm playing, and what is the stick in my right hand called?",
     "ground_truth": "<thinking>At this moment, I am looking down at the instrument positioned between my legs. It is a large, hollow-bodied string instrument made of polished wood, with a distinctive curved shape and four strings running along a long neck. My left hand is positioned on the neck, pressing down on the strings, while my right hand holds a long, thin stick with horsehair stretched between its ends, which I am drawing across the strings to produce sound. Based on the visual evidence and the context of the task, this instrument is a cello, and the stick is a cello bow. The cello is identifiable by its size and shape, which is larger than a viola but smaller than a double bass, and the bow is the standard tool used to play it.</thinking><answer>That large wooden instrument you're playing is a cello. The stick in your right hand is called a cello bow, which you use to draw across the strings to make music.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1218/1218_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1218/1218_clip_03.mp4",
         "parent_video_int": "1218",
         "raw_parent_uuid": "17310b46-54f8-4400-8a84-dd8a3943c410.mp4",
         "clip_index": 3,
@@ -84,13 +84,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1035/1035_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1035/1035_clip_01.mp4",
     "question": "What is that blue-handled tool I'm holding in my left hand?",
     "ground_truth": "<thinking>At the end of the video, the user is standing in front of an open green tool drawer, holding a tool with a distinct blue handle in their left hand. The tool has a flat, wide metal blade, which is characteristic of a chisel. The task context confirms that the user was in the process of removing a chisel from the drawer. Visually, the tool matches the description of a chisel, and the object list provided for this task includes \"chisel\" as an item the user interacted with. Therefore, the blue-handled tool in the user's hand is a chisel.</thinking><answer>That is a chisel. It has a blue handle and a flat metal blade, which is perfect for prying or scraping things off while you're servicing the mower.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1035/1035_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1035/1035_clip_01.mp4",
         "parent_video_int": "1035",
         "raw_parent_uuid": "be79b968-4465-4d55-b5ad-bbaa9cb06690.mp4",
         "clip_index": 1,
@@ -112,13 +112,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1419/1419_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1419/1419_clip_02.mp4",
     "question": "What is the object I'm using to stir the food in the pan?",
     "ground_truth": "<thinking>At this moment, I am looking down at the cooking area. The user's right hand is holding a dark-colored, flat utensil with a long handle, which is actively being used to stir the yellowish food mixture in the large metal pan on the gas cooker. This utensil is clearly designed for mixing and turning food while cooking. Based on the task description provided, which mentions stirring with a \"solid turner,\" and visually matching the object in hand to that description, I can confidently identify it. The object is a solid turner, used for stirring and flipping ingredients in a pan.</thinking><answer>That is a solid turner. It's a flat, dark-colored utensil with a long handle, perfect for stirring and flipping the food in the pan.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1419/1419_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1419/1419_clip_02.mp4",
         "parent_video_int": "1419",
         "raw_parent_uuid": "bbe7b4ee-0e62-4fb5-877e-d4c76a0c8247.mp4",
         "clip_index": 2,
@@ -140,13 +140,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1035/1035_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1035/1035_clip_02.mp4",
     "question": "What is that tool I'm holding in my left hand?",
     "ground_truth": "<thinking>At this moment, I can see the user's left hand holding a flat, rectangular metal tool with a handle. The tool is being used to scrape or clean the inside of the red lawnmower deck, which is covered in grass clippings. The user is actively moving it back and forth to remove debris. Based on its shape and the action being performed, this tool is a chisel. The task context confirms that the user has been servicing the mower, which involves cleaning it, making the use of a chisel for scraping off caked-on grime a logical and common practice. Therefore, the object in the user's left hand is a chisel.</thinking><answer>That is a chisel. You're using it to scrape the old grass and dirt off the inside of the mower deck.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1035/1035_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1035/1035_clip_02.mp4",
         "parent_video_int": "1035",
         "raw_parent_uuid": "be79b968-4465-4d55-b5ad-bbaa9cb06690.mp4",
         "clip_index": 2,
@@ -168,13 +168,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1419/1419_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1419/1419_clip_04.mp4",
     "question": "What is the tool I'm using to stir the food in the pan?",
     "ground_truth": "<thinking>At this moment, I can see the user's right hand holding a dark-colored, flat-ended utensil and actively stirring a yellowish mixture in a large metal frying pan on the gas cooker. The tool has a long handle and a broad, solid head, which is characteristic of a spatula or turner used for cooking. Given the task context provided, which explicitly mentions a \"solid turner,\" I can confidently identify the object in the user's hand as the solid turner. It is being used for its intended purpose: to stir and move the food around in the pan to ensure even cooking. The visual evidence of its shape and function aligns perfectly with the description of a solid turner.</thinking><answer>That is a solid turner. It's a flat, wide cooking utensil with a long handle, perfect for stirring and flipping food in the pan like you're doing right now.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1419/1419_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1419/1419_clip_04.mp4",
         "parent_video_int": "1419",
         "raw_parent_uuid": "bbe7b4ee-0e62-4fb5-877e-d4c76a0c8247.mp4",
         "clip_index": 4,
@@ -196,13 +196,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1419/1419_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1419/1419_clip_03.mp4",
     "question": "What is the cooking tool I'm using to stir the onions in the pan?",
     "ground_truth": "<thinking>At this moment, I'm looking down at the pan on the gas cooker. The user's right hand is holding a long-handled, flat, solid utensil and is actively stirring the yellowish mixture, which appears to be onions and spices, in the large metal pan. The object list provided for this task specifically mentions a \"solid turner\" as the tool being used. Visually, the utensil matches the description of a solid turner: it has a flat, wide head with no slots, designed for stirring and flipping. Therefore, I can confidently identify the tool based on both its visual characteristics and the context of the task.</thinking><answer>That is a solid turner. It's a flat, solid cooking utensil, perfect for stirring and flipping ingredients in the pan like the onions you're cooking.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1419/1419_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1419/1419_clip_03.mp4",
         "parent_video_int": "1419",
         "raw_parent_uuid": "bbe7b4ee-0e62-4fb5-877e-d4c76a0c8247.mp4",
         "clip_index": 3,
@@ -224,13 +224,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1292/1292_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1292/1292_clip_03.mp4",
     "question": "What is that blue tool I'm holding in my hands right now?",
     "ground_truth": "<thinking>At this moment, I'm looking down at my gloved hands, which are gripping a blue, mechanical device attached to the front fork of the bicycle. This tool has a distinct blue frame with silver metal components, including a handle and what looks like a clamping mechanism. It's positioned right under the front wheel, holding it steady. Based on the context of working on a bicycle and the tool's design for securing the frame, I recognize this as a bike repair stand. The object list confirms that a 'bike repair stand' is present in the scene, which perfectly matches the visual evidence of the blue tool I'm currently using to hold the bike in place for maintenance.</thinking><answer>That is a bike repair stand. It's blue and is used to hold the bicycle securely in place while you work on it, like you're doing now.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1292/1292_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1292/1292_clip_03.mp4",
         "parent_video_int": "1292",
         "raw_parent_uuid": "8065f481-79cd-443f-aaaa-318428d47253.mp4",
         "clip_index": 3,
@@ -252,13 +252,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/628/628_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/628/628_clip_01.mp4",
     "question": "What is the large white structure on the right workbench?",
     "ground_truth": "<thinking>At the end of the video, the camera is focused on a large, long, white structure resting on a workbench to the right. It has a distinct curved shape and features multiple smaller wooden pieces attached to its surface, forming a grid-like internal framework. This structure is the central object of the user's work, as indicated by the presence of tools like a hammer and a blue triangle ruler nearby, and the fact that the user has been cutting and fitting timber pieces throughout the task. Based on the context of the task, which involves cutting and fitting timber with a 'former', this large white structure is clearly the 'former' itself, serving as the mold or template for the project. The object list confirms the presence of a 'former' as a key component of the task. Therefore, the large white structure is the former.</thinking><answer>That is the former. It's a large, white, curved structure that serves as the mold for your project, and you've been fitting the timber pieces to its shape.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/628/628_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/628/628_clip_01.mp4",
         "parent_video_int": "628",
         "raw_parent_uuid": "8cb5d092-909c-40e6-ac14-074eeb059a73.mp4",
         "clip_index": 1,
@@ -280,13 +280,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1094/1094_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1094/1094_clip_02.mp4",
     "question": "What is the large, round, metallic object located to the upper left of the snare drum?",
     "ground_truth": "<thinking>At the end of the video, the user is positioned over a drum set, holding drumsticks. The scene is viewed from a first-person perspective, looking down. To the upper left of the snare drum, which is directly in front of the user, there is a large, round, metallic object mounted on a stand. This object has a distinct bell shape and a reflective, golden surface, consistent with the appearance of a cymbal. Given the context of the task, which involves playing a drum set, and the visual characteristics of the object, I can confidently identify it. The object list for this task includes \"cymbal,\" which perfectly matches the visual evidence. Therefore, the object in question is a cymbal.</thinking><answer>That is a cymbal. It's a large, round, metallic percussion instrument, and it's mounted on a stand to your upper left, just above the snare drum.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1094/1094_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1094/1094_clip_02.mp4",
         "parent_video_int": "1094",
         "raw_parent_uuid": "44972586-af4d-471c-aadc-c54924a0ec2e.mp4",
         "clip_index": 2,
@@ -308,13 +308,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1254/1254_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1254/1254_clip_03.mp4",
     "question": "What is the small, round, metallic part I'm holding and installing onto the engine?",
     "ground_truth": "<thinking>At this moment, I see the user's hands holding a small, round, metallic component with a central hole and what appear to be fins or a flange around its edge. They are in the process of pressing it onto the top of the black engine housing of the red lawn mower, which has a perforated cover. The object's shape and the way it's being installed strongly suggest it is a component that fits over the engine's crankshaft, likely to protect or cover it. Given the context of lawn mower maintenance and the visible parts, this is clearly the engine's recoil starter pulley or a similar cover plate. The object list confirms the presence of a \"recoil starter pulley\" for this task, which perfectly matches the visual evidence of the part being installed.</thinking><answer>That is the recoil starter pulley. It's a metallic, circular part that fits over the engine's crankshaft to help with starting the mower. You're installing it correctly onto the top of the engine housing.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1254/1254_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1254/1254_clip_03.mp4",
         "parent_video_int": "1254",
         "raw_parent_uuid": "957af6ec-9b84-4e83-b864-668abe6846f3.mp4",
         "clip_index": 3,
@@ -336,13 +336,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1473/1473_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1473/1473_clip_04.mp4",
     "question": "What is the yellow and black object I'm holding in my right hand?",
     "ground_truth": "<thinking>At this moment, I can see the user's right hand holding a small, cylindrical object. It has a bright yellow body and a black top, which appears to be a spray nozzle. The object is being held over the red metal track of the lift, near some tools and rags. Given the context of the task, which involves cleaning a lawn mower, and the visual characteristics of the object, I recognize this as a spray can, likely containing a cleaning or lubricating agent. The object list for this task includes \"spray can,\" which confirms this identification. The user is likely about to use it to clean or lubricate a part of the mower.</thinking><answer>That is a spray can. It's yellow and black and you're holding it in your right hand. It's likely for cleaning or lubricating parts of the lawn mower.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1473/1473_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1473/1473_clip_04.mp4",
         "parent_video_int": "1473",
         "raw_parent_uuid": "a0d1444a-7f22-4575-adfe-d7a27436c545.mp4",
         "clip_index": 4,
@@ -364,13 +364,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1254/1254_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1254/1254_clip_01.mp4",
     "question": "What is that black circular part I'm holding in my hand?",
     "ground_truth": "<thinking>At this moment, I am looking down at my right hand, which is holding a black, circular object. It has a distinct finned or ribbed pattern on its surface, which is characteristic of a cooling shroud or housing for an engine's flywheel. Given the context of the task, which involves repairing a lawn mower, this part is almost certainly the flywheel cover or shroud that was just removed from the engine. The object list for this task includes \"lawn mower,\" and this component is a standard, recognizable part of its engine assembly. Its purpose is to direct airflow over the engine for cooling and to protect the flywheel.</thinking><answer>That is the flywheel cover, or shroud, for the lawn mower's engine. It's a black, circular part with fins on it that helps cool the engine by directing air over the flywheel.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1254/1254_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1254/1254_clip_01.mp4",
         "parent_video_int": "1254",
         "raw_parent_uuid": "957af6ec-9b84-4e83-b864-668abe6846f3.mp4",
         "clip_index": 1,
@@ -392,13 +392,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1254/1254_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1254/1254_clip_04.mp4",
     "question": "What is that small, circular, silver part I'm holding in my hands right now?",
     "ground_truth": "<thinking>At this moment, I see the user is holding a small, circular, metallic component directly in front of them, positioned over the engine of the red lawn mower. The part has a distinct central hole and a flange, which is characteristic of a pulley or a mounting bracket for a belt system on small engines. Given the context of the task, which involves working on a lawn mower, this object is clearly a mechanical part related to the engine's operation. Based on its appearance and the typical components found on a lawn mower engine, I can confidently identify it as a pulley. It's a silver-colored metal part, and the user is examining it closely after having just removed it from the engine.</thinking><answer>That is a pulley. It's a small, circular, silver-colored metal part with a hole in the center, and it's used to guide or drive a belt on the lawn mower's engine.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1254/1254_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1254/1254_clip_04.mp4",
         "parent_video_int": "1254",
         "raw_parent_uuid": "957af6ec-9b84-4e83-b864-668abe6846f3.mp4",
         "clip_index": 4,
@@ -420,13 +420,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/364/364_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/364/364_clip_04.mp4",
     "question": "What is the tool I'm holding in my right hand right now?",
     "ground_truth": "<thinking>At this moment, I can see the user's right hand holding a small, dark-colored tool with a cylindrical body and a nozzle at the end, which is pointed towards the engine. The user has just finished using it to spray a component. Based on the visual evidence and the context of the task, which involved spraying a filter with a spray gun, this object is clearly identifiable as the spray gun. The object list confirms that a \"spray gun\" is part of the task, and its appearance matches the tool in hand perfectly. Therefore, the tool in the user's right hand is the spray gun.</thinking><answer>That is the spray gun. You're holding it in your right hand and pointing it at the engine component you just sprayed.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/364/364_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/364/364_clip_04.mp4",
         "parent_video_int": "364",
         "raw_parent_uuid": "e8766c8c-454a-4dc6-8f50-1b09cbfb1bdf.mp4",
         "clip_index": 4,
@@ -448,13 +448,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1178/1178_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1178/1178_clip_03.mp4",
     "question": "What is the large metal bowl on the right filled with?",
     "ground_truth": "<thinking>At the end of the video, my view is focused on a person's hands preparing vegetables on the ground. To the right of the hands, there is a large, round, metal bowl. Inside this bowl, there is a substantial pile of chopped green vegetables, which appear to be the same type as the ones being cut. The vegetables are cut into small, irregular pieces, and some pieces have a lighter, whitish-green interior, indicating they are from the inside of a larger vegetable. Based on the context of the task, which involves cutting vegetables, and the visual evidence of the chopped produce, I can confidently identify the contents of the bowl.</thinking><answer>That is a large metal bowl filled with chopped green vegetables. It's sitting on the ground to your right, next to the newspaper you're using as a cutting surface.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1178/1178_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1178/1178_clip_03.mp4",
         "parent_video_int": "1178",
         "raw_parent_uuid": "952b1fa3-05cc-4c2b-8897-47d02cd598b8.mp4",
         "clip_index": 3,
@@ -476,13 +476,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1178/1178_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1178/1178_clip_01.mp4",
     "question": "What is that small, dark, flat object on the newspaper next to the bowl of chopped vegetables?",
     "ground_truth": "<thinking>At the end of the video, my view is focused on the ground where a person is preparing vegetables. I can see a white bowl filled with green, chopped vegetables, and next to it, on a piece of newspaper, is a small, dark, flat object. This object has a distinct, sharp edge and is being used to cut the vegetables, as I can see the person's hands pressing the vegetables against it. Based on its appearance and function in this context, it is clearly a traditional vegetable cutter, often called a \"boti\" or \"slicer\". I recognize this tool from the task context as the object used for chopping. The user is asking for the identification of this specific tool they are actively using.</thinking><answer>That is a vegetable cutter, also known as a boti. It's a traditional, stationary knife used for chopping vegetables, and it's placed on the newspaper next to the bowl of chopped vegetables.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1178/1178_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1178/1178_clip_01.mp4",
         "parent_video_int": "1178",
         "raw_parent_uuid": "952b1fa3-05cc-4c2b-8897-47d02cd598b8.mp4",
         "clip_index": 1,
@@ -504,13 +504,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1107/1107_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1107/1107_clip_04.mp4",
     "question": "What is that long, silver tool I'm holding in my hands right now?",
     "ground_truth": "<thinking>At this moment, I am looking down at my hands, which are holding a long, silver-colored metal tool. The tool has a handle on one end and a ratcheting head on the other, with a socket attached. Based on the task context, which involves adjusting a brake disc, and the visual characteristics of the tool, I recognize this as a torque wrench. It's designed to apply a specific amount of torque to a fastener, which is essential for correctly tightening the lug nuts or bolts on a brake assembly. The object list confirms that a 'torque wrench' is one of the tools being used in this task. Therefore, the tool I am holding is a torque wrench.</thinking><answer>That is a torque wrench. It's a long, silver tool with a ratcheting head and a socket, used for tightening bolts to a specific, precise torque setting, which is crucial for securing the brake disc properly.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1107/1107_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1107/1107_clip_04.mp4",
         "parent_video_int": "1107",
         "raw_parent_uuid": "6e6082ae-8534-44cd-b802-29828b862935.mp4",
         "clip_index": 4,
@@ -532,13 +532,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/203/203_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/203/203_clip_04.mp4",
     "question": "What is that black box on the floor that I just plugged the vacuum cleaner into?",
     "ground_truth": "<thinking>At the end of the video, the user is standing over the vacuum cleaner and has just finished connecting its power cord. My attention is drawn to the small, black, rectangular object on the floor near their feet, which is connected to the red extension cord they were handling. Visually, it appears to be a power adapter or a small transformer, given its shape and the way the cables are plugged into it. The task context confirms the user was connecting the vacuum to a power extension cord, and this black box is the intermediary device they just plugged into. Based on its appearance and function in this context, I can identify it as the power adapter for the vacuum cleaner's cord. I will describe it as such.</thinking><answer>That is the power adapter for the vacuum cleaner's cord. It's a small black box that connects the vacuum's plug to the red extension cord, allowing it to draw power.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/203/203_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/203/203_clip_04.mp4",
         "parent_video_int": "203",
         "raw_parent_uuid": "ffefe048-8408-4444-83e6-f05a4adcdcf0.mp4",
         "clip_index": 4,
@@ -560,13 +560,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/987/987_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/987/987_clip_04.mp4",
     "question": "What is the red tool sitting on the yellow lawn mower deck?",
     "ground_truth": "<thinking>At the end of the video, my view is focused on the yellow lawn mower deck. Resting on the deck, near the center, is a distinct red tool. Visually, it has the characteristic shape of a cordless impact driver, with a pistol grip, a chuck at the front, and a battery pack at the base. The task context confirms that the user picked up an impact driver from a toolbox and used it to unscrew a bolt, which aligns with the tool's appearance and its placement on the mower deck after use. I can confidently identify this object based on its visual features and the context of the task.</thinking><answer>That is a red impact driver. It's the tool you were just using to unscrew the bolt on the mower deck, and you've placed it down on the yellow surface for now.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/987/987_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/987/987_clip_04.mp4",
         "parent_video_int": "987",
         "raw_parent_uuid": "adad6d55-509c-428c-9afc-e0e228425e4b.mp4",
         "clip_index": 4,
@@ -588,13 +588,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/667/667_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/667/667_clip_04.mp4",
     "question": "What is the small black plastic part I'm holding in my hands right now?",
     "ground_truth": "<thinking>At this moment, I am looking down at my hands as I work on the red and black Toro lawnmower. I am holding a small, black, plastic component with some metal parts and a lever mechanism inside it. This part is located near the engine's carburetor area, and I've just removed it or am in the process of installing it. Based on the context of the repair task, which involves working on the engine, and its location, this is clearly the carburetor. I can see its distinct shape and the throttle linkage attached to it. This matches the object I've been working on throughout the clip.</thinking><answer>That is the carburetor. It's a small black plastic and metal component that mixes air and fuel for the engine, and you're currently working on it near the engine's intake.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/667/667_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/667/667_clip_04.mp4",
         "parent_video_int": "667",
         "raw_parent_uuid": "7a64215a-6f71-4f50-bec1-1cd1dea2a693.mp4",
         "clip_index": 4,
@@ -616,13 +616,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/987/987_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/987/987_clip_02.mp4",
     "question": "What is that red tool I'm holding, and what is it used for?",
     "ground_truth": "<thinking>At this moment, I see the user is holding a red and black power tool in their hands, positioned over an open toolbox drawer. The tool has a pistol grip, a trigger, and a chuck at the front where a socket or bit would be attached. This is clearly a cordless impact driver, a common tool in workshops. Its primary function is to drive screws and bolts with high torque, making it ideal for tasks like the one described in the task context—unscrewing a bolt on a lawn flite. The user is likely preparing to use it for that purpose or is confirming its identity before proceeding. Based on its appearance and the context of the workshop, I can confidently identify it as an impact driver.</thinking><answer>That is an impact driver. It's red and black, and you're holding it over the toolbox drawer. It's used for driving screws and bolts with high torque, which is perfect for loosening or tightening the bolt on the lawn flite.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/987/987_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/987/987_clip_02.mp4",
         "parent_video_int": "987",
         "raw_parent_uuid": "adad6d55-509c-428c-9afc-e0e228425e4b.mp4",
         "clip_index": 2,
@@ -644,13 +644,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/667/667_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/667/667_clip_03.mp4",
     "question": "What is the black plastic part I just removed from the engine, and where should I place it now?",
     "ground_truth": "<thinking>At this moment, I see the user has just finished removing a black plastic component from the side of the Toro lawnmower's engine. This component is now resting on the floor next to their knee, alongside some small screws and a green power tool. Based on the task context, this object is identified as the \"carburetor cover.\" Its removal was necessary to access the internal carburetor for repair. Since the user is in the middle of a repair, the most logical and safe place for this part is right where it is, on the floor beside them, so it's out of the way but easily accessible for reinstallation once the internal work is complete. I will inform them of its identity and suggest keeping it there for now.</thinking><answer>That black plastic part is the carburetor cover. You can just leave it on the floor next to you for now; it's out of the way and you'll need it to put the engine back together once you're finished with the repair.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/667/667_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/667/667_clip_03.mp4",
         "parent_video_int": "667",
         "raw_parent_uuid": "7a64215a-6f71-4f50-bec1-1cd1dea2a693.mp4",
         "clip_index": 3,
@@ -672,13 +672,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/224/224_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/224/224_clip_04.mp4",
     "question": "What is the large, dark, circular object I'm holding with both hands?",
     "ground_truth": "<thinking>At this moment, I am looking down at the object the user is holding. It is a large, dark, circular metal component with a central hole and several smaller holes around its perimeter. It appears to be heavy and is positioned over a wooden pallet. Given the context of the task, which involves pulling a gear and fixing a screw, this object is clearly identifiable as the gear that was just removed. Its size, shape, and the fact that it's being handled as a primary component in this repair task confirm its identity. I will identify it as the gear.</thinking><answer>That is the gear you just pulled. It's a large, dark, circular metal part with holes for mounting, and you're holding it over the pallet.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/224/224_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/224/224_clip_04.mp4",
         "parent_video_int": "224",
         "raw_parent_uuid": "9eca1c3e-4fdf-4334-b9ac-4194f6677494.mp4",
         "clip_index": 4,
@@ -700,13 +700,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/739/739_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/739/739_clip_04.mp4",
     "question": "What is that colorful, painted object on the floor to my right?",
     "ground_truth": "<thinking>At this moment, I'm looking down at the scene from the user's perspective. To the right, there's a round, flat object on the tiled floor. It's painted with a vibrant, large flower design, featuring red petals, green leaves, and a yellow center, all on a silver or light gray background with blue accents around the edge. This object is clearly decorative and appears to be a painted tray or platter, possibly for ceremonial or decorative use. Given its appearance and the context of preparing food, it's likely a decorative serving tray. I will identify it as such.</thinking><answer>That is a decorative tray. It's painted with a large, colorful flower design—red petals, green leaves, and a yellow center—and is sitting on the floor to your right.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/739/739_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/739/739_clip_04.mp4",
         "parent_video_int": "739",
         "raw_parent_uuid": "31d6fe77-da70-42da-8f47-66bb79b9285b.mp4",
         "clip_index": 4,
@@ -728,13 +728,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1162/1162_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1162/1162_clip_02.mp4",
     "question": "What is that long, dark tool lying on the newspaper between the pile of vegetable stems and the basket of chopped greens?",
     "ground_truth": "<thinking>At the end of the clip, my view is focused on the ground where the vegetable preparation is happening. I can clearly see a long, dark, metallic tool resting on the newspaper. It has a handle and a flat, wide blade that is partially covered in green vegetable residue. Given the context of the task, which involves chopping vegetables, and its position right next to the pile of stems and the basket of chopped greens, this tool is unmistakably the one being used for the chopping. I recognize this as a traditional vegetable cutter, often called a \"boti\" or \"dao\" in many regions, which is a common kitchen tool for this type of task. The object list for this task confirms the presence of a \"vegetable cutter,\" which perfectly matches what I am seeing. Therefore, I can confidently identify it as the vegetable cutter used for chopping.</thinking><answer>That is the vegetable cutter. It's a long, dark tool with a flat blade, and it's lying on the newspaper between the pile of stems and the basket of chopped greens. You've been using it to chop the vegetables.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1162/1162_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1162/1162_clip_02.mp4",
         "parent_video_int": "1162",
         "raw_parent_uuid": "d5f74b8a-7636-45c3-9c1b-9e0a596c2b56.mp4",
         "clip_index": 2,
@@ -756,13 +756,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/930/930_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/930/930_clip_04.mp4",
     "question": "What is that blue and white tool stand I just walked past on the left?",
     "ground_truth": "<thinking>At the end of the clip, my view is turning away from the bicycle wheel I was holding and panning back towards the workshop area. On the left side of my field of view, I can clearly see a piece of equipment I just walked by. It has a distinct blue metal frame with a white, flat top surface, and it appears to be a stationary stand designed to hold tools or parts, possibly for a bicycle given the context of the workshop. Based on the task description mentioning tools and the visual evidence of its sturdy, functional design, this is clearly a workbench or tool stand, specifically the one I passed on the left. I will identify it as such for the user.</thinking><answer>That's a tool stand. It has a blue frame and a white top surface, and it's positioned on the black mat to your left. It's likely used for holding tools or bicycle parts while you work.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/930/930_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/930/930_clip_04.mp4",
         "parent_video_int": "930",
         "raw_parent_uuid": "ec55e799-1d1d-4faa-beae-5b897b5e638c.mp4",
         "clip_index": 4,
@@ -784,13 +784,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1252/1252_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1252/1252_clip_02.mp4",
     "question": "What is that blue and white box with text on it sitting on the table in front of me?",
     "ground_truth": "<thinking>At this moment, I can see the user is seated and focused on extracting maize. In the foreground, on the wooden table, there is a distinct rectangular box with a blue and white design and some text. Visually, it appears to be a product box or a book cover. Given the context of the task, which involves manual labor, this object is likely unrelated to the maize extraction itself. I recognize this object as a 'book' from the provided context, as its shape and the presence of text and graphics are consistent with a published book or a packaged educational material. The user is asking for identification, so I will describe its appearance and confirm its identity as a book.</thinking><answer>That is a book. It's blue and white with some text and graphics on the cover, and it's sitting on the wooden table right in front of you.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1252/1252_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1252/1252_clip_02.mp4",
         "parent_video_int": "1252",
         "raw_parent_uuid": "02a06bf1-51b8-4902-b088-573e29fcd7ec.mp4",
         "clip_index": 2,
@@ -812,13 +812,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/260/260_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/260/260_clip_03.mp4",
     "question": "What is the green vegetable I'm picking up with the chopsticks?",
     "ground_truth": "<thinking>At this moment, I'm looking down at the bowl of salad on the sink. The user is holding a pair of chopsticks in their right hand, and they have just lifted a small, green, sliced vegetable from the bowl. Visually, this vegetable is cylindrical, has a dark green skin, and a lighter green interior, which is characteristic of a cucumber. The action list confirms the user's task includes picking up a cucumber with chopsticks, so I can confidently identify the object they are holding as a cucumber.</thinking><answer>That is a cucumber. It's green and sliced, and you're holding it with your chopsticks right now.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/260/260_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/260/260_clip_03.mp4",
         "parent_video_int": "260",
         "raw_parent_uuid": "227ecabf-1e9c-4573-85f0-c7e89dfb29a3.mp4",
         "clip_index": 3,
@@ -840,13 +840,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/267/267_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/267/267_clip_03.mp4",
     "question": "What is that white bottle I'm holding in my left hand?",
     "ground_truth": "<thinking>At this moment, the user is standing in the kitchen, holding a white plastic bottle with a green and white label in their left hand, positioned over the frying pan on the stove. The bottle has a flip-top cap and appears to contain a liquid, likely cooking oil or a similar ingredient, given the context of preparing to cook. Based on the visual evidence and the task of frying zucchini, this is almost certainly a bottle of cooking oil. The object list for this task would include items like \"cooking oil,\" which matches this item perfectly. Therefore, I can confidently identify the object the user is holding.</thinking><answer>That is a bottle of cooking oil. It's white with a green and white label, and you're holding it over the frying pan, ready to pour some in.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/267/267_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/267/267_clip_03.mp4",
         "parent_video_int": "267",
         "raw_parent_uuid": "1e64cbac-80af-4aa8-86bd-cc03c081ab1a.mp4",
         "clip_index": 3,
@@ -868,13 +868,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1009/1009_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1009/1009_clip_02.mp4",
     "question": "What is that blue bottle with the red cap sitting on the counter next to the sink?",
     "ground_truth": "<thinking>At this moment, my view is focused on the laundry area. I can see a white laundry basket in the foreground, and just behind it on the wooden counter, there is a distinct blue plastic bottle with a bright red cap. It's positioned right next to the white sink basin and a pair of yellow rubber gloves. Based on the context of the task, which involves sorting clothes, and the common items found in a laundry space, this bottle is almost certainly a container for laundry detergent or a similar cleaning agent. Its shape and size are typical for such products, and its placement near the sink reinforces its purpose for washing. I will identify it as a laundry detergent bottle.</thinking><answer>That is a laundry detergent bottle. It's blue with a red cap and is sitting on the counter right next to the sink.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1009/1009_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1009/1009_clip_02.mp4",
         "parent_video_int": "1009",
         "raw_parent_uuid": "66a88780-84f9-4515-8ca4-3b84ba9ad615.mp4",
         "clip_index": 2,
@@ -896,13 +896,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/733/733_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/733/733_clip_03.mp4",
     "question": "What is that long, silver tool with the green handle next to the cutting board?",
     "ground_truth": "<thinking>At the end of the clip, my view is focused on the large pot of frying bread. To my right, on the white cutting board, I can clearly see a long, silver tool with a distinct green handle. It has two long arms that meet at a pivot point, and the ends are flat and slightly curved, designed for gripping. This tool is positioned right next to the uncooked dough balls. Based on its shape and the context of the task, which involves handling hot food, I recognize this as a pair of tongs. The object list confirms that 'tongs' are present in the scene. Its purpose here is to safely turn and remove the hot, fried bread from the oil without getting burned.</thinking><answer>That is a pair of tongs. It's silver with a green handle and is sitting on the cutting board next to the dough. You use it to safely turn and remove the hot bread from the frying oil.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/733/733_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/733/733_clip_03.mp4",
         "parent_video_int": "733",
         "raw_parent_uuid": "4371dce1-6911-4366-b36b-b62cb9b094b5.mp4",
         "clip_index": 3,
@@ -924,13 +924,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/856/856_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/856/856_clip_01.mp4",
     "question": "What is that red object sitting on the shelf to my right?",
     "ground_truth": "<thinking>At the end of the clip, my view is directed downwards at the drum kit, but I can clearly see the area to my right. There is a shelf or a piece of furniture with a distinct red object resting on it. Visually, it appears to be a rectangular, flat item, possibly a case or a box with a smooth, slightly reflective surface. The object list provided for this task includes \"red case,\" which perfectly matches the visual description of this item. Given its location and appearance, I can confidently identify it as the red case mentioned in the task context.</thinking><answer>That is a red case. It's sitting on the shelf to your right.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/856/856_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/856/856_clip_01.mp4",
         "parent_video_int": "856",
         "raw_parent_uuid": "5916d628-5cb7-4de0-ac1f-31441493d6e4.mp4",
         "clip_index": 1,
@@ -952,13 +952,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/323/323_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/323/323_clip_02.mp4",
     "question": "What is the object I'm holding in my right hand while I'm opening the cabinet?",
     "ground_truth": "<thinking>At the end of the video, the user is standing in front of a wooden cabinet with glass doors. Their left hand is holding the cabinet door open, while their right hand is holding a small, dark, elongated object. Visually, this object is consistent with a pair of chopsticks, which are typically used for eating or handling food. The task context mentions the user was putting something in a bowl with chopsticks, which confirms that the object in their hand is indeed a pair of chopsticks. I will identify it as such based on its appearance and the context of the task.</thinking><answer>That is a pair of chopsticks. They are dark-colored and you're holding them in your right hand as you open the cabinet.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/323/323_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/323/323_clip_02.mp4",
         "parent_video_int": "323",
         "raw_parent_uuid": "52bae57c-0f27-45ff-892f-bdc87ee27ea9.mp4",
         "clip_index": 2,
@@ -980,13 +980,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/517/517_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/517/517_clip_02.mp4",
     "question": "What is the object placed on the music stand right above the keyboard?",
     "ground_truth": "<thinking>At the end of the video, my view is directed downwards at the keyboard, with my hands resting on the keys. Positioned on the music stand directly above the keyboard is an open book with printed text on its pages. This object is clearly visible and is being used as a reference, likely for sheet music, given the context of playing the keyboard. I can identify this object as a \"book\" from the provided list. The book is open and placed centrally on the stand for easy viewing while playing.</thinking><answer>That is a book. It's open and sitting on the music stand, right above the keyboard, likely containing the sheet music you're following.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/517/517_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/517/517_clip_02.mp4",
         "parent_video_int": "517",
         "raw_parent_uuid": "acb3ae75-daf2-4aaa-90c2-9240dd61583b.mp4",
         "clip_index": 2,
@@ -1008,13 +1008,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/696/696_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/696/696_clip_02.mp4",
     "question": "What is that small, white, round object on the plate to my left?",
     "ground_truth": "<thinking>At the end of the video, my view is focused on the stovetop where I'm cooking. To my left, on the counter, there is a small plate with a blue and white pattern. On this plate, there is a small, white, round object that looks like a dollop of a creamy substance, possibly a condiment or a sauce. Given the context of preparing a meal with stew and pasta, this is likely a serving of a dairy product like sour cream, crème fraîche, or a similar topping intended to be added to the dish. I can clearly see its color, shape, and location on the plate.</thinking><answer>That is a dollop of a white, creamy condiment, likely sour cream or crème fraîche, placed on the small patterned plate to your left. It's probably meant to be added to your meal as a topping.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/696/696_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/696/696_clip_02.mp4",
         "parent_video_int": "696",
         "raw_parent_uuid": "0c3f8dc4-f899-4319-bc7c-beaa5ae10b50.mp4",
         "clip_index": 2,
@@ -1036,13 +1036,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/696/696_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/696/696_clip_01.mp4",
     "question": "What is that long-handled spoon I'm holding in my right hand, and what is it for?",
     "ground_truth": "<thinking>At this moment, I am looking down at the stovetop where I have two pots. In my right hand, I am holding a metal spoon with a long handle, which I just used to scoop liquid from the pot of boiling spaghetti on the right. This spoon is distinct from the wooden spatula I was using earlier for the stew. Visually, it's a standard kitchen ladle or serving spoon, designed for scooping and transferring liquids. Its current use, as shown in the video, is to transfer some of the starchy pasta water from the spaghetti pot into the stew pot on the left to adjust its consistency. This is a common culinary technique, so the spoon's function is to move liquids between pots.</thinking><answer>That's a metal serving spoon, and it's used for scooping and transferring liquids. You're using it right now to add some of the starchy water from the spaghetti pot into your stew to help adjust its thickness.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/696/696_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/696/696_clip_01.mp4",
         "parent_video_int": "696",
         "raw_parent_uuid": "0c3f8dc4-f899-4319-bc7c-beaa5ae10b50.mp4",
         "clip_index": 1,
@@ -1064,13 +1064,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/26/26_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/26/26_clip_04.mp4",
     "question": "What is that small white bowl with the black rim sitting on the counter next to the stove?",
     "ground_truth": "<thinking>At the end of the video, my view is focused on the kitchen counter and the stove where I'm stirring food in a pan. To the left of the stove, on the countertop, there is a small, round, white ceramic bowl with a distinct black rim. It's sitting near a stack of napkins and other small bowls. Based on the task context, which involves serving meat on a dish, this object is clearly identifiable as a \"small bowl\" from the Object List. Its placement suggests it's ready to be used for serving or holding a component of the meal. The visual details perfectly match the description of a small bowl.</thinking><answer>That is a small bowl. It's white with a black rim and is sitting on the counter next to the stove, ready to be used.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/26/26_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/26/26_clip_04.mp4",
         "parent_video_int": "26",
         "raw_parent_uuid": "ead5041e-3847-461a-b24c-994105f6a38c.mp4",
         "clip_index": 4,
@@ -1092,13 +1092,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/175/175_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/175/175_clip_01.mp4",
     "question": "What is that white object I'm using to wipe the counter?",
     "ground_truth": "<thinking>At this moment, I see the user's right hand holding a small, white, crumpled object and wiping the surface of the kitchen counter. This object is being used for cleaning, as the user has been wiping the counter from left to right. Based on its appearance—crumpled, absorbent, and disposable—it is clearly a paper towel. The user's action of wiping the counter confirms its function as a cleaning material. I will identify it as a paper towel, which is a common item for this purpose.</thinking><answer>That is a paper towel. It's white and you're using it to wipe down the counter.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/175/175_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/175/175_clip_01.mp4",
         "parent_video_int": "175",
         "raw_parent_uuid": "1fc5abc4-cdae-4f38-8927-ff6135213977.mp4",
         "clip_index": 1,
@@ -1120,13 +1120,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/349/349_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/349/349_clip_02.mp4",
     "question": "What is that large white item I'm pulling out of the laundry basket right now?",
     "ground_truth": "<thinking>At this moment, I am looking down at the laundry basket and my hands. My right hand is gripping a large, bulky, white piece of fabric that I am in the process of lifting out of the basket. Visually, it appears to be a soft, absorbent material, consistent with a towel or a large cloth. Given the context of the task, which involves washing clothes, and the object's size and texture, it is most likely a towel. I can clearly see its white color and crumpled state as I handle it.</thinking><answer>That is a white towel. It's a large, soft piece of fabric, and you're pulling it out of the laundry basket.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/349/349_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/349/349_clip_02.mp4",
         "parent_video_int": "349",
         "raw_parent_uuid": "0c892917-34b9-4344-a8cf-d04ff885dc86.mp4",
         "clip_index": 2,
@@ -1148,13 +1148,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1158/1158_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1158/1158_clip_02.mp4",
     "question": "What is that yellow object in the dish rack next to the sink?",
     "ground_truth": "<thinking>At this moment, my view is focused on the kitchen counter and sink area. My right hand is reaching into the metal dish rack situated to the right of the sink. Inside the rack, I can clearly see a bright yellow, dome-shaped object nestled among other clean dishes like a glass and a blue cup. Based on its shape and context—being washed and placed in a dish rack—it is unmistakably a bowl. I recognize this as the yellow bowl that was part of the task involving serving stew, and it is now clean and being put away.</thinking><answer>That is a yellow bowl. It's clean and sitting in the dish rack next to the sink, ready to be put away.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1158/1158_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1158/1158_clip_02.mp4",
         "parent_video_int": "1158",
         "raw_parent_uuid": "362f3e42-3f18-4ed9-af92-069bc555685e.mp4",
         "clip_index": 2,
@@ -1176,13 +1176,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/154/154_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/154/154_clip_01.mp4",
     "question": "What is the text on the purple label of the bag I'm holding?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a clear plastic bag filled with green edamame pods over the sink. The bag has a prominent purple label at the top. I can clearly see Japanese characters on this label. The largest characters appear to be \"えだまめ,\" which is the Japanese word for \"edamame.\" Above that, there are smaller characters, and below, there is a barcode and more text. The user is asking for the text on this specific label, which is clearly visible in the frame. I will transcribe the most prominent text I can read.</thinking><answer>The most prominent text on the purple label of the bag you're holding is \"えだまめ,\" which is the Japanese word for edamame. There are also other smaller characters and a barcode on the label.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/154/154_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/154/154_clip_01.mp4",
         "parent_video_int": "154",
         "raw_parent_uuid": "22db2380-7ca6-4747-ad13-79a1a084bf54.mp4",
         "clip_index": 1,
@@ -1204,13 +1204,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/554/554_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/554/554_clip_04.mp4",
     "question": "What is the name of the sauce packet I'm holding in my left hand?",
     "ground_truth": "<thinking>At the end of the video, the user is standing in the kitchen, holding a rectangular, silver-colored packet in their left hand over the frying pan. The packet has some text and graphics on it, which are characteristic of a commercial sauce mix. The user's right hand is using chopsticks to stir the contents of the pan. Based on the context of the task, which involved making a sauce, and the visual evidence of the packet being poured into the pan, it is clear this is a pre-packaged sauce mix. The object list for this task includes \"sauce packet,\" which directly corresponds to the item being held. Therefore, the object in question is a sauce packet.</thinking><answer>That is a sauce packet. It's the one you're using to add flavor to the food in the pan.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/554/554_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/554/554_clip_04.mp4",
         "parent_video_int": "554",
         "raw_parent_uuid": "7c43ae25-d33a-4e8d-a6e0-62f3387ad993.mp4",
         "clip_index": 4,
@@ -1232,13 +1232,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/992/992_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/992/992_clip_03.mp4",
     "question": "What is that small, white, rectangular object sitting inside the brown plate on the counter?",
     "ground_truth": "<thinking>At the end of the video, my view is focused on the kitchen counter. I can clearly see a brown plate placed next to the sink. Inside this plate, there is a small, white, rectangular object. Visually, it appears to be a piece of paper or a small card, possibly a label or a note. Given the context of the task, which involved washing dishes and wiping a plate, this object might be a sticker or label that was on a food item and was removed during cleaning. I will identify it based on its visible characteristics.</thinking><answer>That is a small, white, rectangular object, likely a label or a piece of paper. It's sitting inside the brown plate on the counter, right next to the sink.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/992/992_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/992/992_clip_03.mp4",
         "parent_video_int": "992",
         "raw_parent_uuid": "d5b7e865-a74f-41c1-9946-f3c6da61c0c5.mp4",
         "clip_index": 3,
@@ -1260,13 +1260,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1375/1375_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1375/1375_clip_04.mp4",
     "question": "What is that blue object on the left side of the deck?",
     "ground_truth": "<thinking>At this moment, I'm looking down at the laundry basket I'm carrying, which is full of dark clothes. To my left, on the wooden deck, there is a large, bright blue object. It has a distinct, curved shape and appears to be made of a flexible, fabric-like material. It's positioned near the edge of the deck, next to some white folded items. Given the context of the task, which involves laundry and drying clothes outdoors, this object is likely a piece of outdoor furniture or equipment. I recognize it as a blue mat, possibly a yoga or exercise mat, that is currently laid out on the deck.</thinking><answer>That is a blue mat. It's lying on the wooden deck to your left, next to some white folded items.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1375/1375_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1375/1375_clip_04.mp4",
         "parent_video_int": "1375",
         "raw_parent_uuid": "5059d234-992a-48e6-a9e5-c5777943ecfa.mp4",
         "clip_index": 4,
@@ -1288,13 +1288,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1235/1235_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1235/1235_clip_02.mp4",
     "question": "What is that white mesh bag hanging in the middle of the drying rack?",
     "ground_truth": "<thinking>At this moment, I see a white, semi-transparent mesh bag hanging from one of the horizontal bars of the drying rack, positioned centrally in the frame. It's distinct from the other clothes due to its texture and structure. Based on the task context, which involves removing clothes and putting pegs away, this bag is likely the designated container for the clothespins. Its mesh design allows for ventilation and makes it easy to see the pegs inside. The user is asking about this specific item, so I will identify it as the bag for the pegs.</thinking><answer>That is the bag for the clothespins. It's a white mesh bag, and it's hanging right in the middle of the drying rack. You can put the pegs you've taken off the clothes into it.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1235/1235_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1235/1235_clip_02.mp4",
         "parent_video_int": "1235",
         "raw_parent_uuid": "cf42f87e-32a4-4858-bdb4-94f1a2a786cb.mp4",
         "clip_index": 2,
@@ -1316,13 +1316,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/414/414_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/414/414_clip_03.mp4",
     "question": "What is the metal object I'm holding under the faucet at the end of the video?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a round, metal object with a handle under the running faucet. It has a fine mesh bottom and a solid rim, which is characteristic of a strainer or sieve used for draining liquids from food. The user's hands are positioned to rinse it, and the water is flowing through the mesh. Given the context of preparing vegetables earlier, this is a common kitchen tool for washing or draining ingredients. I recognize this as a strainer, which is consistent with the type of items one would use in food preparation.</thinking><answer>That is a strainer. It's a metal tool with a mesh bottom, used for draining liquids from food, like rinsing vegetables or draining pasta. You're currently rinsing it under the faucet.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/414/414_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/414/414_clip_03.mp4",
         "parent_video_int": "414",
         "raw_parent_uuid": "3668b860-3151-4eda-a005-c730398f7c0a.mp4",
         "clip_index": 3,
@@ -1344,13 +1344,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/200/200_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/200/200_clip_03.mp4",
     "question": "What is that yellow rectangular object sitting in the sink?",
     "ground_truth": "<thinking>At the end of the clip, the camera has panned away from the refrigerator and is now focused on the kitchen counter and sink area. In the sink, there is a distinct yellow, rectangular object with a slightly textured surface. Given the context of the task, which involved chopping a cucumber, this object strongly resembles a cutting board. Its shape, color, and location in the sink, where it would be washed after use, all support this identification. I will identify it as the cutting board.</thinking><answer>That is a cutting board. It's yellow and is sitting in the sink, likely to be washed after you used it to chop the cucumber.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/200/200_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/200/200_clip_03.mp4",
         "parent_video_int": "200",
         "raw_parent_uuid": "54744b8c-81ab-4894-bc04-53f1ed116887.mp4",
         "clip_index": 3,
@@ -1372,13 +1372,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/497/497_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/497/497_clip_02.mp4",
     "question": "What is that blue object hanging on the wall near the dining table?",
     "ground_truth": "<thinking>At this moment, I am looking at the dining area, and my attention is drawn to a blue item hanging on the white wall to the right of the table. It's positioned above a small shelf and has a distinct shape with a heart-shaped tag at the top that says \"Friends\". The object itself is a soft, fabric item, likely a towel or a decorative cloth, and its color is a bright, solid blue. Given the context of preparing breakfast and the casual, homey environment, this is most likely a kitchen towel. I can clearly identify it as the \"blue towel\" from the object list, which matches its appearance and location perfectly. The question is asking for the identification of this specific object, and based on its visual properties and placement, I can confidently answer.</thinking><answer>That is a blue towel. It's hanging on the wall above a small shelf, and it has a heart-shaped tag that says \"Friends\" on it.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/497/497_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/497/497_clip_02.mp4",
         "parent_video_int": "497",
         "raw_parent_uuid": "58b2a4a4-b721-4753-bfc3-478cdb5bd1a8.mp4",
         "clip_index": 2,
@@ -1400,13 +1400,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/497/497_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/497/497_clip_03.mp4",
     "question": "What is the small yellow and white packet I'm holding in my hands right now?",
     "ground_truth": "<thinking>At the end of the video, the user is standing in the kitchen, holding a small, rectangular packet that is predominantly white with a yellow label or section. Based on the preceding actions where the user retrieved this item from a shelf that contained various food items like crackers and tea, and considering the context of preparing breakfast, this object is clearly a tea bag. The packaging is typical for a single-serving tea bag, designed for brewing a cup of tea. I will identify it as such.</thinking><answer>That is a tea bag. It's white with a yellow label, and you can use it to brew a cup of tea for your breakfast.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/497/497_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/497/497_clip_03.mp4",
         "parent_video_int": "497",
         "raw_parent_uuid": "58b2a4a4-b721-4753-bfc3-478cdb5bd1a8.mp4",
         "clip_index": 3,
@@ -1428,13 +1428,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/99/99_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/99/99_clip_02.mp4",
     "question": "What is that yellow tool hanging on the wall to the left of the sink?",
     "ground_truth": "<thinking>At this moment, I'm looking at the kitchen sink area from the user's perspective. My gaze is directed towards the left side of the sink, where a bright yellow tool is hanging on a wall-mounted rack. Visually, it has a distinct handle and a head that looks like it's designed for gripping or turning something. Based on its shape and the context of being in a kitchen with other utensils, I recognize this as a peeler, specifically a vegetable peeler, which is a common kitchen tool. The object list confirms that a 'peeler' is present in the scene, and this yellow tool matches its description perfectly. Therefore, I can confidently identify it for the user.</thinking><answer>That is a peeler. It's yellow and hanging on the wall rack to the left of the sink, used for peeling vegetables and fruits.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/99/99_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/99/99_clip_02.mp4",
         "parent_video_int": "99",
         "raw_parent_uuid": "9416ad54-220d-473d-b26c-7e007ef1e95f.mp4",
         "clip_index": 2,
@@ -1456,13 +1456,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/322/322_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/322/322_clip_02.mp4",
     "question": "What is that blue object placed near the sink?",
     "ground_truth": "<thinking>At the end of the video, my view is directed downwards towards the kitchen counter and sink area. To the right of the sink, sitting on the countertop, there is a distinct, round, blue object. It has a glossy finish and a slightly tapered shape, resembling a common household item. Given its location near the sink and its appearance, it is most likely a ceramic bowl or a large cup. I can clearly see its color and position relative to the other items on the counter, such as the white kettle and the dish rack. The object is fully in view and not obscured, allowing for a confident identification based on its visual properties.</thinking><answer>That is a blue ceramic bowl. It's sitting on the countertop to the right of the sink.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/322/322_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/322/322_clip_02.mp4",
         "parent_video_int": "322",
         "raw_parent_uuid": "d647a18b-9e7b-47e7-9eba-0e686060ec64.mp4",
         "clip_index": 2,
@@ -1484,13 +1484,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/845/845_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/845/845_clip_04.mp4",
     "question": "What is that large, dark-colored drum located in the center of the kit, right behind the snare drum?",
     "ground_truth": "<thinking>At this moment, I'm looking down at the drum kit from the player's perspective. The user's question is about the large drum positioned centrally and directly behind the snare drum. Visually, it's the biggest drum in the set, with a dark, possibly black or deep blue, shell and a resonant head facing upwards. It's situated between the two floor toms and is being played by the user's right foot via a pedal, which is characteristic of a bass drum. The object list for this task confirms the presence of a \"bass drum,\" which perfectly matches the visual evidence and its function in the kit. Therefore, I can confidently identify it as the bass drum.</thinking><answer>That is the bass drum. It's the large, dark-colored drum in the center of the kit, and you play it with your foot using the pedal.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/845/845_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/845/845_clip_04.mp4",
         "parent_video_int": "845",
         "raw_parent_uuid": "904841e0-011b-48d6-8e29-273da777bbc4.mp4",
         "clip_index": 4,
@@ -1512,13 +1512,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/845/845_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/845/845_clip_03.mp4",
     "question": "What is the large, circular, metallic object located to the upper left of the snare drum?",
     "ground_truth": "<thinking>At this moment, I'm looking down at the drum kit from the player's perspective. The user's question is directed at the object positioned above and to the left of the snare drum, which is the central drum being played. Visually, this object is large, circular, and has a distinct metallic sheen, consistent with the appearance of a cymbal. Given the context of the task, which involves playing a drum set, and the object's placement within the standard layout of a drum kit, it is unmistakably a cymbal. The object list for this task confirms the presence of \"cymbals,\" which aligns perfectly with what I'm seeing. Therefore, I can confidently identify this object as a cymbal.</thinking><answer>That is a cymbal. It's a large, circular, metallic percussion instrument located above and to the left of the snare drum, and it's used to create a bright, crashing sound when struck with a drumstick.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/845/845_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/845/845_clip_03.mp4",
         "parent_video_int": "845",
         "raw_parent_uuid": "904841e0-011b-48d6-8e29-273da777bbc4.mp4",
         "clip_index": 3,
@@ -1540,13 +1540,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/888/888_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/888/888_clip_04.mp4",
     "question": "What is that black tool I'm holding under the tap?",
     "ground_truth": "<thinking>At the end of the video, the user is standing at the sink, holding a black, flat, rectangular tool with slots under the running faucet with their right hand. Their left hand is holding another utensil. Visually, this object is a spatula, characterized by its shape and the slots designed for flipping or lifting food. The task context confirms that the user is washing utensils, and the object list includes \"spatula,\" which perfectly matches the item being rinsed. Therefore, I can confidently identify the object based on its visual characteristics and the context of the task.</thinking><answer>That is a spatula. It's black and you're holding it under the tap to rinse it off.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/888/888_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/888/888_clip_04.mp4",
         "parent_video_int": "888",
         "raw_parent_uuid": "188085b1-9719-4fe9-b505-6171370e92f2.mp4",
         "clip_index": 4,
@@ -1568,13 +1568,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/888/888_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/888/888_clip_01.mp4",
     "question": "What is that black utensil I'm scrubbing in the sink right now?",
     "ground_truth": "<thinking>At the end of the video, I am looking down at the kitchen sink where I am actively scrubbing a black utensil with a sponge. The utensil has a long handle and a flat, wide head with slots, which is characteristic of a spatula used for flipping or serving food. The object list provided for this task confirms that a \"spatula\" is one of the items being washed. Given its distinct shape and the context of washing kitchen utensils, I can confidently identify the object in my hands as the spatula.</thinking><answer>That is a spatula. It's black and you're scrubbing it with a sponge in the sink.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/888/888_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/888/888_clip_01.mp4",
         "parent_video_int": "888",
         "raw_parent_uuid": "188085b1-9719-4fe9-b505-6171370e92f2.mp4",
         "clip_index": 1,
@@ -1596,13 +1596,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1190/1190_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1190/1190_clip_04.mp4",
     "question": "What is that clear plastic cup with the red mark on it that I'm holding?",
     "ground_truth": "<thinking>At this moment, the user is holding a transparent plastic cup in their right hand, positioned over the kitchen counter. The cup has a distinct red mark or logo near its base. Based on the visual evidence, it is a standard drinking cup, likely used for water or other beverages. The user's action of holding it up suggests they are examining it or have just picked it up, possibly to drink from it or to clean it. The object list provided for this task does not specify a name for this exact item, but it is clearly identifiable as a plastic cup. Therefore, I will describe it based on its visual characteristics and common use.</thinking><answer>That is a clear plastic cup. It has a red mark near the bottom and is likely used for drinking water or other beverages.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1190/1190_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1190/1190_clip_04.mp4",
         "parent_video_int": "1190",
         "raw_parent_uuid": "680d4471-d4f3-45d0-b533-aee586e05a55.mp4",
         "clip_index": 4,
@@ -1624,13 +1624,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1312/1312_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1312/1312_clip_03.mp4",
     "question": "What is that black object I'm holding under the faucet?",
     "ground_truth": "<thinking>At the end of the video, the user is standing at the kitchen sink with the faucet running. They are holding a black, spoon-shaped object with a long handle under the stream of water. This object is visually identifiable as a ladle, which is consistent with the tool they were using to stir the pot on the stove earlier in the video. The action of rinsing it under the faucet indicates they are cleaning it after use. I can confidently identify this object as the ladle they were using for cooking.</thinking><answer>That is the ladle you were using to stir the pot. It's black and you're currently rinsing it under the faucet to clean it.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1312/1312_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1312/1312_clip_03.mp4",
         "parent_video_int": "1312",
         "raw_parent_uuid": "d7ef0332-de78-4b15-b959-5fccbc3894c3.mp4",
         "clip_index": 3,
@@ -1652,13 +1652,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1471/1471_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1471/1471_clip_01.mp4",
     "question": "What is the black tool I'm holding in my right hand?",
     "ground_truth": "<thinking>At this moment, I can see the user is holding a black, flat, spatula-shaped tool in their right hand, which they are using to stir the food in the pan. The tool has a long handle and a wide, slightly curved head, which is characteristic of a spatula designed for flipping or stirring food in a pan. Given the context of cooking and the visual evidence, this object is clearly a spatula. I will identify it as such for the user.</thinking><answer>That is a spatula. It's black and you're using it to stir the food in the pan.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1471/1471_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1471/1471_clip_01.mp4",
         "parent_video_int": "1471",
         "raw_parent_uuid": "0b6fc89d-bf4b-44f3-82e7-67ee02517459.mp4",
         "clip_index": 1,
@@ -1680,13 +1680,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1365/1365_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1365/1365_clip_01.mp4",
     "question": "What is the small green vegetable in the bowl next to the plate with lettuce?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a plate with a pancake and using chopsticks. Their right hand is reaching towards a small bowl on the table, which contains chopped green vegetables. This bowl is positioned to the right of the plate with lettuce and cherry tomatoes. Visually, the contents are clearly identifiable as finely chopped green onions or scallions, a common garnish. The task context involves setting a table for a meal, which makes the presence of a garnish like green onions logical. I can confidently identify this item based on its appearance and context.</thinking><answer>That's a bowl of chopped green onions. They're often used as a fresh garnish for dishes like the pancake you're serving.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1365/1365_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1365/1365_clip_01.mp4",
         "parent_video_int": "1365",
         "raw_parent_uuid": "b026e6cd-51b9-4fca-861d-e7b7bbed0e10.mp4",
         "clip_index": 1,
@@ -1708,13 +1708,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1255/1255_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1255/1255_clip_04.mp4",
     "question": "What is that black piece of clothing I'm holding up right now?",
     "ground_truth": "<thinking>At this moment, I'm looking down at my hands, which are holding a black garment. The garment is stretched out, and I can see it has a distinct shape with what looks like a placket and buttonholes on one side, characteristic of a shirt. The material appears to be a standard cotton or cotton blend. Based on the visual evidence and the context of the task, which is washing clothes, this item is clearly a piece of apparel. The object list for this task includes \"black shirt,\" which perfectly matches the visual description of the item I am currently holding. Therefore, I can confidently identify it as a black shirt.</thinking><answer>That is a black shirt. It's a dark, long-sleeved shirt with buttons on the front, and you're holding it up to put it in the washing machine.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1255/1255_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1255/1255_clip_04.mp4",
         "parent_video_int": "1255",
         "raw_parent_uuid": "590ec18e-a6c7-4457-bef6-75b034a4938c.mp4",
         "clip_index": 4,
@@ -1736,13 +1736,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/836/836_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/836/836_clip_04.mp4",
     "question": "What is that black tool I'm holding in my right hand to stir the food?",
     "ground_truth": "<thinking>At this moment, I'm looking down at the stovetop where the user is actively cooking. In their right hand, they are holding a black utensil with a long handle, which they are using to stir the contents of the black frying pan. The tool has a broad, slightly curved head, characteristic of a spatula, designed for flipping and mixing food in a pan. The object list provided for this task includes \"spatula,\" which perfectly matches the visual evidence of the tool being used for stirring. Therefore, I can confidently identify this object based on its appearance and its function in the current context.</thinking><answer>That is a spatula. It's black and you're using it to stir the meat and vegetables in the frying pan.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/836/836_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/836/836_clip_04.mp4",
         "parent_video_int": "836",
         "raw_parent_uuid": "7f582f18-fdd5-4d3d-abe5-e8a1e9739d1f.mp4",
         "clip_index": 4,
@@ -1764,13 +1764,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/263/263_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/263/263_clip_01.mp4",
     "question": "What is that clear plastic bag on the cutting board?",
     "ground_truth": "<thinking>At the end of the video, my view is focused on the kitchen counter. In front of me, on the white cutting board, there is a clear plastic bag with some meat residue inside. I can see the user's hands holding the edges of the bag, suggesting they are about to handle it. Based on the task context, which mentions slicing meat and adding it to a pot, this bag is likely the original packaging for the meat. The user has finished using the meat and is now dealing with the empty packaging. The object list confirms the presence of a \"plastic bag,\" which matches this visual.</thinking><answer>That is a plastic bag. It looks like the empty packaging you used for the meat you just sliced. You're holding it over the cutting board, probably to dispose of it or clean it up.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/263/263_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/263/263_clip_01.mp4",
         "parent_video_int": "263",
         "raw_parent_uuid": "ba9be74c-4fb2-46ae-96f5-c6369f7547bd.mp4",
         "clip_index": 1,
@@ -1792,13 +1792,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/263/263_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/263/263_clip_03.mp4",
     "question": "What is the small, white, rectangular object sitting on the counter to the right of the sink?",
     "ground_truth": "<thinking>At the end of the video, my view is focused on the kitchen sink where I am rinsing my hands. To the right of the sink, on the stainless steel countertop, there is a small, white, rectangular object with rounded corners. It appears to be made of plastic or a similar material and has a smooth, slightly textured surface. Based on its shape, size, and location next to the sink, it is clearly a cutting board. This matches the object I used earlier to prepare the meat, and its position is consistent with where I would place it after use. I can confidently identify it as the cutting board.</thinking><answer>That is a cutting board. It's white and rectangular, and it's sitting on the counter right next to the sink.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/263/263_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/263/263_clip_03.mp4",
         "parent_video_int": "263",
         "raw_parent_uuid": "ba9be74c-4fb2-46ae-96f5-c6369f7547bd.mp4",
         "clip_index": 3,
@@ -1820,13 +1820,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/865/865_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/865/865_clip_02.mp4",
     "question": "What is that white container with the lid next to the laundry basket?",
     "ground_truth": "<thinking>At the end of the video, I can see a white, rectangular plastic container with a hinged lid propped open, sitting right next to the grey laundry basket the user was just sorting through. The lid has a small, oval-shaped handle cutout. Based on its appearance and its placement in what appears to be a bathroom or utility area, this is clearly a laundry hamper, which is a type of container used for holding dirty clothes. The user is likely asking for confirmation of what this object is, given its proximity to the laundry basket they were just interacting with. I will identify it as a laundry hamper.</thinking><answer>That is a laundry hamper. It's white and located right next to the laundry basket you were just sorting.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/865/865_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/865/865_clip_02.mp4",
         "parent_video_int": "865",
         "raw_parent_uuid": "9feaaf23-d622-479e-9c40-c396e86b4d18.mp4",
         "clip_index": 2,
@@ -1848,13 +1848,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/202/202_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/202/202_clip_01.mp4",
     "question": "What is that small, white, cylindrical container with a red lid sitting on the counter, just to the left of the metal bowl?",
     "ground_truth": "<thinking>At this moment, my view is focused on the kitchen counter where food preparation is underway. I can clearly see a small, white, cylindrical container with a red lid positioned on the stainless steel counter. It is located to the left of the empty metal mixing bowl and in front of a package of minced meat. Based on the context of the task, which involves adding spices to the minced meat, and the visual appearance of the container, it is highly likely a spice shaker. The object list provided for this task includes \"spice shaker,\" which perfectly matches the item I'm observing. Therefore, I can confidently identify this object.</thinking><answer>That is a spice shaker. It's white with a red lid and is sitting on the counter to the left of the metal bowl. You'll likely use it to add seasoning to the minced meat.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/202/202_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/202/202_clip_01.mp4",
         "parent_video_int": "202",
         "raw_parent_uuid": "0ee8d0ef-c5ba-42c5-9c40-8718faa081ec.mp4",
         "clip_index": 1,
@@ -1876,13 +1876,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1283/1283_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1283/1283_clip_02.mp4",
     "question": "What is that white device with a digital screen sitting on the shelf above the sink?",
     "ground_truth": "<thinking>At the end of the video, my view is focused on the kitchen counter and sink area. On the shelf directly above the sink, there is a white, rectangular device with a small, dark digital screen and a few buttons on its face. This object is positioned next to some stacked plates and other kitchen items. Based on the task description, which mentions the user looked at a stopwatch, and given the object's appearance—a small, handheld electronic device with a digital display—this is almost certainly the stopwatch. Its location on the shelf is clear, and its function as a timer is implied by the context of the task. I will identify it as the stopwatch.</thinking><answer>That is a stopwatch. It's white with a digital screen and is sitting on the shelf above the sink, next to the plates.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1283/1283_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1283/1283_clip_02.mp4",
         "parent_video_int": "1283",
         "raw_parent_uuid": "490a50c0-988d-4091-9503-79c66e7d298a.mp4",
         "clip_index": 2,
@@ -1904,13 +1904,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1146/1146_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1146/1146_clip_01.mp4",
     "question": "What is that red object sitting on the table next to the drum kit?",
     "ground_truth": "<thinking>At this moment, my view is focused on the drum kit, and to the right, there's a small table. On that table, I can clearly see a rectangular object with a distinct red color. It has a slightly textured surface and is positioned right next to a piece of electronic equipment with a glowing blue light. Based on its shape and location in a music setup, it is likely a piece of gear. The object list provided for this task includes \"red box,\" which perfectly matches the visual description of this item. Therefore, I can confidently identify it.</thinking><answer>That is a red box. It's sitting on the table to the right of your drum kit, next to the electronic device with the blue light.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1146/1146_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1146/1146_clip_01.mp4",
         "parent_video_int": "1146",
         "raw_parent_uuid": "309519d5-f94d-4b95-8fa2-3ee89f4552f2.mp4",
         "clip_index": 1,
@@ -1932,13 +1932,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1059/1059_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1059/1059_clip_01.mp4",
     "question": "I'm trying to grind the corn kernels into flour, and I've just started adding them to the mixer. What should I do next?",
     "ground_truth": "<thinking>At this moment, I see a large metal bowl filled with yellow corn kernels positioned in the lower left of my view, and an empty stainless steel mixer jar is directly in front of me on the floor. My right hand is hovering over the bowl of corn, having just scooped some kernels. I am standing barefoot on a tiled floor, and to my right, there's a wooden table with a large metal spoon resting on it. I've already turned on the mixer, as I can see the blades inside are spinning, and I've begun the process of adding the corn kernels into it. My goal is to grind these kernels into flour, so I need to continue feeding them into the running mixer. The next logical step is to keep adding the corn in batches to ensure the mixer doesn't get overloaded and can process the kernels efficiently. Okay, I see the user has started adding corn to the running mixer. To get a good, even grind, they need to add the kernels gradually. I can see they are reaching back into the large bowl for more corn. The best next step is to continue this process, scooping small handfuls from the bowl and carefully pouring them into the mixer as it runs. This will prevent the motor from straining and ensure the corn is ground smoothly into flour.</thinking><answer>You should keep adding the corn kernels to the running mixer, a small handful at a time, to ensure it grinds them evenly without overloading the machine.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1059/1059_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1059/1059_clip_01.mp4",
         "parent_video_int": "1059",
         "raw_parent_uuid": "e6231d1a-1f7f-4198-a499-7635509adfaf.mp4",
         "clip_index": 1,
@@ -1960,13 +1960,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/364/364_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/364/364_clip_04.mp4",
     "question": "I'm trying to fix the lawnmower engine, and I've just finished adjusting the carburetor with the wrench. What should I do next?",
     "ground_truth": "<thinking>At this moment, I can see the user's hands working on the lawnmower engine, which is mounted on a metal workbench. The engine is black and silver, with a yellow handlebar visible on the right. The user's left hand is holding a small metal component near the carburetor, while their right hand is holding a wrench. On the workbench, there are several tools, including green-handled pliers, a blue-handled screwdriver, and a small black part. The background is cluttered with various workshop items, such as red gas cans, a blue bucket, and a box with a red rag on top. The user has been methodically working on the engine, using tools to adjust and fix components. They have just completed an adjustment to the carburetor, and now they are pausing, likely to determine the next step in the repair process. Given the context of fixing the lawnmower engine, the next logical step would be to either test the engine, reassemble any removed parts, or check for other issues that need addressing. Okay, I see the user has just finished with the wrench and is now picking up the air filter. They are moving to the side to grab the spray gun. Based on their actions, they are preparing to clean the filter before reassembling the engine. This is a crucial step to ensure the engine runs smoothly after the carburetor adjustment. I will tell them to proceed with cleaning the filter.</thinking><answer>You should now pick up the spray gun and clean the air filter before putting it back in the engine.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/364/364_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/364/364_clip_04.mp4",
         "parent_video_int": "364",
         "raw_parent_uuid": "e8766c8c-454a-4dc6-8f50-1b09cbfb1bdf.mp4",
         "clip_index": 4,
@@ -1988,13 +1988,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/203/203_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/203/203_clip_03.mp4",
     "question": "I'm trying to set up the vacuum cleaner for use in the garage, and I've just finished connecting the power cord to the extension cord. What step should I do next?",
     "ground_truth": "<thinking>At this moment, I'm looking down at the concrete garage floor where the red and grey shop vacuum sits. My left hand is holding the black vacuum hose, and my right hand is holding the yellow and black extension cord adapter, which is now connected to the vacuum's power cord. The vacuum's main body is on the ground, and the large black circular base is to its left. In the background, I can see a metal cart and a bucket. I've just completed the action of plugging the vacuum's cord into the adapter, which is the final step in connecting it to power. Now that the electrical connection is secure, the next logical step is to ensure the vacuum is ready for operation, which might involve checking the hose connection or turning it on. Okay, I see the user is now holding the vacuum's hose in one hand and the main body in the other. The goal is to start cleaning the sawdust on the floor. The next logical step, after ensuring the power is connected, is to turn the vacuum on so it can begin sucking up the debris. I will tell them to turn on the vacuum.</thinking><answer>Okay, now you should turn on the vacuum cleaner to start cleaning up the sawdust.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/203/203_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/203/203_clip_03.mp4",
         "parent_video_int": "203",
         "raw_parent_uuid": "ffefe048-8408-4444-83e6-f05a4adcdcf0.mp4",
         "clip_index": 3,
@@ -2016,13 +2016,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/667/667_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/667/667_clip_01.mp4",
     "question": "I'm trying to repair this Toro lawnmower, and I've just finished using the impact driver on the engine. What step should I do next?",
     "ground_truth": "<thinking>At this moment, I see the user kneeling on the concrete floor of a workshop, directly in front of a red and black Toro lawnmower. The user is holding a green and black impact driver in their right hand, having just used it on a component near the engine. To the right of the mower, on a black mat, are several small metal parts, including what looks like a carburetor assembly, and a few loose screws. A yellow lawnmower is partially visible to the left. The user's actions so far have involved approaching the mower, kneeling down, and using the impact driver on the engine area, which suggests they are in the middle of a repair. Given that they have just completed a step with the driver, their next logical move would be to either inspect the part they just worked on, retrieve another tool or part, or proceed to reassemble the engine. The most immediate next step would likely involve handling the small parts laid out on the mat. Okay, I see the user has just set down the impact driver and is now using their right hand to pick up one of the small, dark metal parts from the black mat. They are holding it between their thumb and forefinger and are carefully maneuvering it back into the engine compartment, likely to reinstall a component they just removed or loosened. This is a direct continuation of the repair, focusing on reassembly. I will tell them to continue with this reinstallation.</thinking><answer>Okay, now you should pick up that small part you just set down and carefully reinstall it into the engine compartment.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/667/667_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/667/667_clip_01.mp4",
         "parent_video_int": "667",
         "raw_parent_uuid": "7a64215a-6f71-4f50-bec1-1cd1dea2a693.mp4",
         "clip_index": 1,
@@ -2044,13 +2044,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1162/1162_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1162/1162_clip_02.mp4",
     "question": "I'm preparing the vegetables for cooking, and I've just finished chopping a batch and putting the stems in the basin. What should I do next?",
     "ground_truth": "<thinking>At this moment, I see a first-person view of a workspace on the floor. In front of me, there's a large metal basin on the left filled with chopped green vegetable stems. To the right, there's a woven basket containing more of the leafy greens, ready to be processed. In the center, on top of some newspaper, lies a pile of long, unchopped vegetable stems and a large knife. My pink skirt is visible at the bottom of the frame, indicating I am sitting or crouching. Based on the actions I've observed, I've been systematically chopping the vegetables: taking a stem, cutting the leaves off, placing the leaves in the basket, and discarding the stems into the basin. I have just completed this cycle for a portion of the stems, as evidenced by the pile of chopped stems in the basin and the remaining unchopped ones on the newspaper. The logical next step in this workflow is to continue the process with the next batch of stems. Okay, I can see the user is about to reach for the next stem from the pile on the newspaper. They are going to pick one up to continue the chopping process. I will tell them to do that now.</thinking><answer>You should pick up the next stem from the pile on the newspaper to continue chopping.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1162/1162_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1162/1162_clip_02.mp4",
         "parent_video_int": "1162",
         "raw_parent_uuid": "d5f74b8a-7636-45c3-9c1b-9e0a596c2b56.mp4",
         "clip_index": 2,
@@ -2072,13 +2072,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1076/1076_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1076/1076_clip_04.mp4",
     "question": "I'm trying to clean up the kitchen after cooking, and I've just finished rinsing the utensils. What should I do next?",
     "ground_truth": "<thinking>At this moment, the scene shows a kitchen sink area from a first-person perspective. The user is standing at the stainless steel sink, with their hands under the running faucet, rinsing a metal strainer. To the right of the sink, there's a white countertop with a gas stove, a brown bowl, and a cutting board with a grater and a banana on it. To the left, there's a wall-mounted control panel and some cleaning supplies. The user has been methodically rinsing various utensils, including a knife and the strainer, under the tap. The water is running, and the sink is partially filled with water. The user has just finished rinsing the strainer and is holding it under the stream of water, likely ensuring it's completely clean before moving on. Given that the goal is to clean up the kitchen after cooking, the next logical step would be to turn off the faucet, place the clean utensils in a drying rack or on a towel, and then proceed to wipe down the counters and sink area. Okay, I see the user has now turned off the faucet after rinsing the strainer. Their hands are wet, and they are moving away from the sink. Based on the context of cleaning up, the most immediate next step is to dry their hands before handling any other kitchen items or wiping down surfaces to avoid spreading water. I can see a towel nearby, so they should grab that to dry off.</thinking><answer>You should grab the kitchen towel and dry your hands now.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1076/1076_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1076/1076_clip_04.mp4",
         "parent_video_int": "1076",
         "raw_parent_uuid": "6d95daa2-2551-4106-a911-ef18ab549b52.mp4",
         "clip_index": 4,
@@ -2100,13 +2100,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1359/1359_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1359/1359_clip_04.mp4",
     "question": "I'm trying to finish loading the laundry and start the wash cycle, what step should I do next?",
     "ground_truth": "<thinking>At this moment, I can see the user's hands, adorned with rings, holding a large, grey, textured towel. The towel is partially inside the open, circular drum of a silver LG washing machine. The machine's control panel, with its dial and buttons, is visible above the drum. To the right is a wooden cabinet, and above the machine is a speckled granite countertop. The user has just finished placing this large towel into the machine. From the sequence of events, the user has been systematically loading clothes into the washing machine, starting with smaller items and now adding this large towel. The next logical step, given that the loading appears to be complete, is to close the door of the washing machine to prepare it for the wash cycle. The user's hands are positioned as if they are about to push the door shut. Okay, the user has asked what to do next after loading the laundry. I see they are holding the last large item, and the door is still open. To start the wash cycle, the machine must be sealed. The most immediate and necessary action is to close the door, which will allow them to then select the wash settings and start the machine. I will tell them to close the door now.</thinking><answer>You should close the washing machine door now.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1359/1359_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1359/1359_clip_04.mp4",
         "parent_video_int": "1359",
         "raw_parent_uuid": "141b24d2-2fc1-4f9d-89ef-8dc3055213f7.mp4",
         "clip_index": 4,
@@ -2128,13 +2128,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/865/865_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/865/865_clip_04.mp4",
     "question": "I'm trying to tidy up the bathroom and just put the clothes in the laundry basket, what should I do next?",
     "ground_truth": "<thinking>At this moment, the scene is a bathroom corner. On the tiled floor, there's a digital bathroom scale and a smaller, analog scale with a snowflake-patterned cover. Next to them sits a white laundry basket with a lid, which the user has just closed. A smartphone is lying on the edge of the white sink, its screen lit up. The user's hand, with a red sleeve, is visible near the phone. The user has just completed the action of picking up a pair of black and pink socks from the floor and placing them into the laundry basket, followed by closing the basket's lid. Now, with the laundry sorted and the basket closed, the user is paused, likely looking at their phone or the sink area, seeking the next step in their tidying routine. Okay, I see the user has finished with the laundry basket. They're holding their phone, and the screen is on, showing what looks like a video or photo of the bathroom. The next logical step is to move on from the bathroom. I can see the user is now turning and walking out of the bathroom, heading down the hallway. The phone is still in their hand, and they seem to be filming or reviewing something as they walk. They are heading towards the stairs, so the next action is to go down the stairs while holding the phone and the laundry.</thinking><answer>You should now walk out of the bathroom and head down the stairs while holding your phone and the laundry.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/865/865_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/865/865_clip_04.mp4",
         "parent_video_int": "865",
         "raw_parent_uuid": "9feaaf23-d622-479e-9c40-c396e86b4d18.mp4",
         "clip_index": 4,
@@ -2156,13 +2156,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/108/108_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/108/108_clip_01.mp4",
     "question": "I'm trying to set up my drum recording session, and I've just finished adjusting the audio interface with my foot. What should I do next to start recording?",
     "ground_truth": "<thinking>At this moment, I can see the user is seated in front of a drum kit, with a snare drum directly in front of them and a tom-tom to their left. To the right, there’s a small table holding a red notebook, a smartphone, and a silver audio interface with glowing blue lights, indicating it’s powered on. The user’s right foot is positioned near the interface, suggesting they just used it to make an adjustment. The drumsticks are in their hands, resting on the snare, implying they’re ready to play but paused for the next step. From the sequence, the user has been setting up their gear—first sitting down, then using their foot to interact with the interface, likely configuring inputs or levels. Now that the interface seems ready, the logical next step would be to ensure the recording software is armed or to give a cue to start playing. The environment is dimly lit, with a white curtain to the right, and the focus is clearly on the drum kit and the audio equipment, reinforcing that the goal is to begin recording. The user’s pause suggests they’re waiting for confirmation or the next action to proceed with capturing audio. Okay, I see the user is now shifting their focus to the drumsticks, adjusting their grip with both hands, and then raising them to begin playing. This confirms that the setup phase is complete, and the next step is to start playing the drums to capture the audio. I will tell them to begin playing now.</thinking><answer>You should start playing the drums now to begin recording.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/108/108_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/108/108_clip_01.mp4",
         "parent_video_int": "108",
         "raw_parent_uuid": "bd02f4ef-8bc7-40a1-a1f1-77119f1ce6e0.mp4",
         "clip_index": 1,
@@ -2184,13 +2184,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1332/1332_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1332/1332_clip_01.mp4",
     "question": "I'm trying to disassemble the bicycle repair stand, and I've just finished loosening the main clamp mechanism. What should I do next to continue taking it apart?",
     "ground_truth": "<thinking>At this moment, the user is standing in a well-lit workshop with a black mat floor. In front of them is the blue bicycle repair stand, which has been partially disassembled; the main clamp and its silver tray are visible and appear to be loosened. To the left is a red and black tool chest with orange drawer handles, and on the far left, a workbench with a white sink and various tools. In the background, through a glass door, an orange mountain bike is parked outside on a tiled patio. The user’s gloved hands are resting near the base of the stand, indicating they’ve just completed an action on the clamp. From the video, it’s clear the user has been systematically taking apart the stand, starting from the top components and working down. They’ve already removed or loosened the upper parts, and now they’re at the central mechanism. Given the current state, the next logical step would involve either removing the loosened clamp assembly or addressing the support arms or base of the stand to fully disassemble it. Okay, I see the user has now picked up a small tool, likely an Allen key or a small wrench, and is using it to unscrew a bolt on the side of the blue clamp mechanism. This is the correct next step to fully detach the clamp assembly from the main post. I will tell them to continue unscrewing that bolt until the clamp is loose enough to be removed.</thinking><answer>You should use the small tool in your hand to continue unscrewing the bolt on the side of the blue clamp mechanism. Keep turning it until the clamp is loose enough to be completely removed from the stand.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1332/1332_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1332/1332_clip_01.mp4",
         "parent_video_int": "1332",
         "raw_parent_uuid": "29885a24-04cb-4045-8adc-b406ee1796df.mp4",
         "clip_index": 1,
@@ -2212,13 +2212,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/28/28_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/28/28_clip_01.mp4",
     "question": "I'm trying to cook a tortilla, and I've just poured oil into the pan. What should I do next?",
     "ground_truth": "<thinking>At this moment, I see the user's hands holding a frying pan with a tortilla cooking inside, positioned over a lit gas stove. The user's left hand is gripping the pan's handle, which is wrapped in a green cloth for heat protection. To the right, on a white table, there's a blue plastic plate and a metal bowl containing oil. The user's right hand is holding a large metal spoon, which they've just used to scoop and pour oil into the pan. A stack of already cooked tortillas is visible next to the blue plate. The environment suggests a simple, possibly outdoor or semi-outdoor kitchen setup, with a red and yellow striped towel on the ground to the left. So far, the user has placed the batter in the pan, allowed it to spread, and is now adding oil to cook it, a typical step in preparing a fried tortilla. The next logical step would be to ensure the tortilla cooks evenly, which might involve flipping it or adjusting the heat, to achieve the desired texture and doneness. Okay, I see the user is now using the spoon to gently move the tortilla around in the hot oil, likely to ensure it doesn't stick and to cook it evenly on all sides. This is a crucial step for getting a perfectly crispy and cooked tortilla. I will tell them to continue this motion until the tortilla is golden brown.</thinking><answer>You should use the spoon to gently move the tortilla around in the oil to make sure it cooks evenly and doesn't stick to the pan.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/28/28_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/28/28_clip_01.mp4",
         "parent_video_int": "28",
         "raw_parent_uuid": "2bc7d6fa-a02e-4367-b316-d6b4e8a2ce3f.mp4",
         "clip_index": 1,
@@ -2240,13 +2240,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1005/1005_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1005/1005_clip_01.mp4",
     "question": "I'm trying to start the Cub Cadet lawnmower, what step should I do next?",
     "ground_truth": "<thinking>At this moment, I am standing directly in front of a yellow and white Cub Cadet lawnmower. My left hand is resting on the steering wheel, and my right hand is on the control panel near the ignition area. I can see the black seat, the steering wheel, and various levers and switches on the dashboard. The mower is parked on a cracked asphalt surface, and other yellow mowers are visible in the background. So far, I have walked up to this specific mower from a distance, and I have just placed my hands on the controls, indicating I am preparing to operate it. Based on the context of being outside with lawnmowers and approaching this one specifically, my goal is clearly to start it. I have completed the approach and initial contact with the controls, so my next logical step must be to perform the action that will actually start the engine. Okay, I see now. After placing my hands on the controls, the next move is to press the button on the dashboard. I can see my right thumb moving to press the yellow button located in the center of the control panel, right below the steering wheel. This is the ignition button, and pressing it is the direct action required to start the engine. I will instruct the user to do this now.</thinking><answer>You should press the yellow button on the dashboard to start the engine.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1005/1005_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1005/1005_clip_01.mp4",
         "parent_video_int": "1005",
         "raw_parent_uuid": "ee24ad37-11d3-448d-bc96-97921c05b4e4.mp4",
         "clip_index": 1,
@@ -2268,13 +2268,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/299/299_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/299/299_clip_04.mp4",
     "question": "I'm trying to prepare a filled dough dish, and I've just finished kneading and shaping the dough on the board. What should I do next?",
     "ground_truth": "<thinking>At this moment, I can see the user's hands, covered in blue gloves, resting on a large, flattened piece of dough that has been placed on a wooden board. To the left, there's a pile of flour and a yellow scoop, and further back on the stainless steel counter are three round dough balls, a rolling pin, and a knife. In the background, there's a blue bucket and some kitchen equipment. The user has just finished the kneading and shaping process, as evidenced by the smooth, stretched dough on the board and the fact that their hands are no longer actively manipulating it. The next logical step in preparing a filled dough dish, after the dough is ready, would be to add the filling, which, according to the context, involves cheese and vegetables. Therefore, the user is likely about to cut the cheese and spread the vegetables onto the dough. Okay, now I see the user is moving their hands away from the dough on the board and reaching for one of the round dough balls on the counter. They pick it up and place it directly onto the flour pile. This is the next step. They are preparing another piece of dough by coating it in flour, likely to prevent it from sticking as they begin to stretch it out for the next filling. I will tell them to do that now.</thinking><answer>Okay, now you should pick up one of the round dough balls and coat it in the flour on the counter to prepare it for stretching.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/299/299_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/299/299_clip_04.mp4",
         "parent_video_int": "299",
         "raw_parent_uuid": "c7715af7-8687-41b7-94ec-51e526450637.mp4",
         "clip_index": 4,
@@ -2296,13 +2296,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/398/398_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/398/398_clip_03.mp4",
     "question": "I'm working on removing a component from under the lawnmower, and I just finished hammering the gimlet into place. What should I do next?",
     "ground_truth": "<thinking>At this moment, I can see the user's hands positioned under the lawnmower, which is elevated on a red and silver hydraulic lift. The user is holding a dark, metallic gimlet that has been partially driven into a component on the underside of the mower deck. The bright white light from a flashlight, held in the user's right hand, illuminates the immediate work area, highlighting the grimy, dark metal of the mower's undercarriage and the tire visible in the upper left. The red lift arm is prominent on the right side of the frame, and a pile of dried grass clippings is visible on the red surface of the lift. The user has just completed the action of using a hammer to drive the gimlet into the component, as evidenced by the tool's position and the user's posture. Given that the goal is to remove a part from the lawnmower, and the gimlet is now in place, the logical next step would be to use it as a lever or to continue driving it to break the component free. Okay, I see the user is now using the gimlet as a lever. They are applying steady pressure with both hands, pushing and pulling on the tool to pry the component loose. The flashlight beam moves slightly as they exert force, showing the strain of the action. This makes sense, as the component is likely stuck due to rust or old grease, and the gimlet is the perfect tool for this kind of prying task. I will tell them to continue applying pressure to pry it off.</thinking><answer>You should now use the gimlet as a lever. Apply steady pressure with both hands to pry the component loose from the mower deck.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/398/398_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/398/398_clip_03.mp4",
         "parent_video_int": "398",
         "raw_parent_uuid": "fc994c75-e506-4bd8-82a2-c41bf7ba8087.mp4",
         "clip_index": 3,
@@ -2324,13 +2324,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1463/1463_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1463/1463_clip_02.mp4",
     "question": "I'm trying to serve the cooked food onto plates, and I've just finished transferring the main portion from the pan. What should I do next to finish plating this meal?",
     "ground_truth": "<thinking>At this moment, I can see the user standing at a cluttered kitchen counter, holding a black frying pan in their left hand and a pair of chopsticks in their right. They are positioned over two plates, one white and one dark blue, both of which already have a serving of the yellowish, stir-fried food on them. The pan is tilted, and the user is using the chopsticks to scrape the last few bits of food from the bottom of the pan onto the white plate. To the left, there's a sink with a dish rack, a yellow bowl, and a container of what looks like kimchi. Behind the user is a microwave and a coffee maker, and to the right is a black stovetop with another small pan on it. The user has been meticulously transferring food from the pan to the plates for the past several seconds, ensuring each plate gets a portion. Now that the bulk of the food is served, the user is focused on getting the final remnants out of the pan, which suggests they are in the final stages of plating. The logical next step after finishing the transfer would be to set the pan down, perhaps to clean up or to get the plates ready for serving. Okay, I see the user is now using the chopsticks to carefully pick up the very last pieces of food from the pan and place them onto the white plate. They are being very thorough to make sure nothing is left behind. Once they have scraped the pan clean, the next step is to set the pan aside and move on to the next part of the meal prep. I will tell them to finish scraping the pan and then set it down.</thinking><answer>You should use your chopsticks to scrape the last few bits of food from the pan and place them onto the plate. Once the pan is empty, you can set it down on the counter.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1463/1463_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1463/1463_clip_02.mp4",
         "parent_video_int": "1463",
         "raw_parent_uuid": "02c9f4ca-88f3-4439-ae42-a819cedc67e2.mp4",
         "clip_index": 2,
@@ -2352,13 +2352,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/234/234_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/234/234_clip_02.mp4",
     "question": "I'm trying to prepare the vegetables for cooking, and I've just finished slicing this white vegetable. What should I do next?",
     "ground_truth": "<thinking>At this moment, I'm observing a first-person view of a kitchen counter. The user is standing over a white cutting board placed on a speckled grey countertop. On the board, there are several pieces of a peeled, pale yellow vegetable, likely potatoes, and the user is actively slicing a large, round, white vegetable, which appears to be an onion. The user's left hand is holding the onion steady while their right hand wields a silver knife to make vertical cuts. To the left is a stainless steel sink with a strainer holding some food scraps. Behind the cutting board is a metal dish rack filled with clean dishes, including pots, pans, and bowls. A smartphone with a bright blue screen is propped up against the rack. To the right, there's a black frying pan on a stovetop and a bag of what looks like oranges. The user has been methodically slicing the white vegetable for a while now, and they have just completed a cut, pausing with the knife still in their hand and the sliced pieces visible on the board. Given that they are in the middle of prepping ingredients, their next step is likely to continue processing the vegetables or to move on to the next stage of cooking. Okay, I see the user has just finished a slice and is now adjusting the remaining piece of the white vegetable. They are clearly focused on dicing it into smaller, uniform pieces, which is a common next step after making initial slices. The goal is to have all the vegetables prepped and ready for cooking, so the logical next action is to continue cutting the onion into the desired size. I will tell them to keep slicing.</thinking><answer>You should keep slicing the white vegetable into smaller, uniform pieces.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/234/234_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/234/234_clip_02.mp4",
         "parent_video_int": "234",
         "raw_parent_uuid": "a3c4eb3f-2d62-4730-8476-6c161d0a75ea.mp4",
         "clip_index": 2,
@@ -2380,13 +2380,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/391/391_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/391/391_clip_01.mp4",
     "question": "I'm practicing my drumming technique, and I've just finished setting up and doing some basic beats. What should I do next to improve my skills?",
     "ground_truth": "<thinking>At this moment, I can see the user is seated in front of a drum set in a music studio. The drum set includes a snare drum, toms, cymbals, and a bass drum, all positioned for playing. The user is holding drumsticks, one in each hand, and is wearing a dark shirt and pants. To the left, there’s a yellow foam roller on the floor, a guitar resting against an amplifier, and a patterned rug on the tiled floor. The user has just finished a sequence of playing, as evidenced by the recent motion blur on the drumsticks and the slight movement of the cymbals. They were previously adjusting equipment and then started playing a steady rhythm on the snare and cymbals. Given that they are in a practice session, their next logical step would be to focus on a specific technique or pattern to build upon the foundation they’ve just established. They might want to work on coordination, speed, or transitioning between different parts of the kit. The environment is set up for focused practice, so suggesting a targeted exercise or drill would be appropriate. Okay, I see the user is now focusing on the snare drum. After the initial warm-up, they are practicing a specific sticking pattern, alternating between their left and right hands with precision. The goal is to build muscle memory and control. The next logical step is to continue this focused repetition on the snare to solidify the technique before moving on to more complex patterns or incorporating the other drums and cymbals. I will tell them to keep practicing this alternating pattern on the snare.</thinking><answer>You should keep practicing that alternating left-right pattern on the snare drum. Focus on keeping your hits even and consistent to build up your control and muscle memory.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/391/391_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/391/391_clip_01.mp4",
         "parent_video_int": "391",
         "raw_parent_uuid": "e9cee46e-37c9-4e8f-a51b-2530415889c3.mp4",
         "clip_index": 1,
@@ -2408,13 +2408,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1162/1162_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1162/1162_clip_03.mp4",
     "question": "What is that large metal bowl on the floor to my left filled with?",
     "ground_truth": "<thinking>At the end of the video, my view is directed downwards towards the floor. To my left, there is a large, round, silver-colored metal bowl. Inside this bowl, there is a pile of green, leafy vegetables that have been chopped into small pieces. This matches the task I was performing, which involved chopping vegetables and placing the prepared pieces into a basin. The object list confirms the presence of a \"basin,\" and visually, this metal bowl is serving as that basin for collecting the chopped vegetables. Therefore, I can confidently identify the contents of the bowl based on its appearance and the context of the ongoing task.</thinking><answer>That is a basin, and it's filled with the chopped green vegetables you've been preparing.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1162/1162_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1162/1162_clip_03.mp4",
         "parent_video_int": "1162",
         "raw_parent_uuid": "d5f74b8a-7636-45c3-9c1b-9e0a596c2b56.mp4",
         "clip_index": 3,
@@ -2436,13 +2436,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/928/928_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/928/928_clip_02.mp4",
     "question": "What is the large drum directly in front of me that I'm hitting with the drumsticks?",
     "ground_truth": "<thinking>At this moment, I'm looking down at the drum kit from the player's perspective. The large drum positioned centrally and directly in front of the user, which is being struck by both drumsticks, is the snare drum. Its location is between the user's legs, and its visual characteristics—a shallow, cylindrical shell with a white drumhead and visible tension rods—are consistent with a standard snare drum. The object list for this task includes \"snare drum,\" which confirms the identity of this central instrument. The user is actively playing it, which is its primary function. Therefore, the object in question is the snare drum.</thinking><answer>That is the snare drum. It's the main drum you hit with the sticks, located right in front of you between your legs.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/928/928_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/928/928_clip_02.mp4",
         "parent_video_int": "928",
         "raw_parent_uuid": "1abf7c2c-5052-444a-bd49-72e97d3c974b.mp4",
         "clip_index": 2,
@@ -2464,13 +2464,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1280/1280_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1280/1280_clip_03.mp4",
     "question": "What is the plate I'm holding in my right hand?",
     "ground_truth": "<thinking>At the end of the video, the user is standing in the kitchen, having just taken a plate from the open cabinet. The plate is held in their right hand, and its design is clearly visible: it is white with a distinctive blue, radiating line pattern around the rim. The object list provided for this task includes \"plate,\" which accurately describes this item. The user is asking for identification of this specific object they are currently holding. Based on its visual characteristics and the context of being retrieved from a dish cabinet, it is unequivocally a plate.</thinking><answer>That is a plate. It's white with a blue pattern around the edge, and you're holding it in your right hand.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1280/1280_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1280/1280_clip_03.mp4",
         "parent_video_int": "1280",
         "raw_parent_uuid": "3c3f2a57-c5c5-4d63-9d7a-fdb7faf48170.mp4",
         "clip_index": 3,
@@ -2492,13 +2492,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/888/888_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/888/888_clip_03.mp4",
     "question": "What is that green cup on the counter to my right?",
     "ground_truth": "<thinking>At the end of the video, I'm standing at the sink, having just finished rinsing a utensil. My gaze is directed downwards into the sink, but I can see the counter to my right in my peripheral vision. On that counter, there is a distinct green cup, which appears to be a ceramic mug, sitting next to a dish rack. The object list for this task includes a \"green cup,\" which perfectly matches the visual I'm seeing. Given its location and appearance, it's clearly a drinking vessel. The user is asking for identification, so I will confirm its identity and location.</thinking><answer>That is a green cup. It's sitting on the counter to your right, next to the dish rack.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/888/888_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/888/888_clip_03.mp4",
         "parent_video_int": "888",
         "raw_parent_uuid": "188085b1-9719-4fe9-b505-6171370e92f2.mp4",
         "clip_index": 3,
@@ -2520,13 +2520,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/267/267_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/267/267_clip_02.mp4",
     "question": "I'm trying to fry grilled zucchini and just finished covering the pot on the stove, what step should I do next?",
     "ground_truth": "<thinking>At this moment, the scene shows a cluttered kitchen counter with various cooking utensils and ingredients. The user is standing in front of the stove, where a pot with a lid is placed on one burner, and an empty frying pan is on the other. To the right of the stove, there's a plate with what appears to be raw chicken pieces covered in plastic wrap, along with a bottle of water and some other containers. The user's hands are visible, and they have just finished placing the lid on the pot. Based on the sequence of actions, the user was previously handling the pot, covering it, and now seems to be preparing for the next step in their cooking process. The goal is to fry grilled zucchini, and since the pot is now covered, the logical next step would involve preparing the zucchini or the frying pan for the frying process. The user might need to retrieve the zucchini, heat oil in the frying pan, or adjust the stove settings. The environment suggests that the user is in the middle of a multi-step cooking task, and the next action should align with progressing towards frying the zucchini. Okay, I see the user is now reaching for the cabinet under the stove. They are opening it and retrieving a bottle of oil. This makes sense because to fry the zucchini, they need to add oil to the pan first. The next logical step is to pour some oil into the frying pan to get it ready for cooking. I will tell them to do that now.</thinking><answer>You should pour some oil into the frying pan to get it ready for frying the zucchini.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/267/267_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/267/267_clip_02.mp4",
         "parent_video_int": "267",
         "raw_parent_uuid": "1e64cbac-80af-4aa8-86bd-cc03c081ab1a.mp4",
         "clip_index": 2,
@@ -2548,13 +2548,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/391/391_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/391/391_clip_04.mp4",
     "question": "I'm practicing on the drum set, what should I do next to improve my rhythm?",
     "ground_truth": "<thinking>At this moment, I can see the user is seated at a drum set in a room that looks like a music studio. The drum set, with its snare, toms, and cymbals, is directly in front of them, and they are holding drumsticks in both hands. To the left, there's a yellow foam roller on the floor, a patterned rug, and some guitars and equipment in the background. The user has been actively playing, as evidenced by the motion blur of the sticks in the final frames, and they have just paused, likely after completing a sequence or pattern. Given that they are in a practice session, their immediate need is likely to continue their practice in a structured way, perhaps by focusing on a specific aspect like rhythm, timing, or a new beat. The next logical step would be to suggest a drill or a focus area to help them progress. Okay, I see the user has just finished a sequence and is now resetting their hands, ready to start again. The most effective way to improve rhythm is to practice with a steady, consistent beat. In the video, I can see they are about to start a new pattern, focusing on the snare drum and hi-hat. They should start by playing a simple, steady beat on the hi-hat with their right hand and the snare with their left, keeping a consistent tempo. This will help lock in their timing and improve their overall rhythm.</thinking><answer>You should start by playing a simple, steady beat on the hi-hat with your right hand and the snare with your left hand to lock in your timing.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/391/391_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/391/391_clip_04.mp4",
         "parent_video_int": "391",
         "raw_parent_uuid": "e9cee46e-37c9-4e8f-a51b-2530415889c3.mp4",
         "clip_index": 4,
@@ -2576,13 +2576,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/799/799_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/799/799_clip_04.mp4",
     "question": "I'm trying to cook a meal with the fried eggplant and the paste I just added, what should I do next?",
     "ground_truth": "<thinking>At this moment, the scene is focused on the stovetop. The user is holding a clear plastic container with a light-colored paste in their left hand and a spoon in their right, having just scooped some paste and added it to a black frying pan. The pan, sitting on the front right burner, contains sliced eggplant that is being cooked. To the left of the stove, on the white countertop, there is a small black bowl, a plate with what looks like scrambled eggs, and a coffee maker. In the background, a microwave and other kitchen items are visible. The user has just finished adding the paste to the eggplant, which was the last action in the sequence. The goal is to prepare a complete dish, so the logical next step would involve mixing the paste with the eggplant to ensure it's evenly coated and continues to cook properly. The user is likely pausing to decide on the next move to complete the cooking process. Okay, I see the user is holding the spoon right over the pan after adding the paste. The most immediate and necessary action is to stir everything together. This will help the paste coat the eggplant evenly and prevent it from burning on the bottom of the pan. I should tell them to stir the eggplant and paste together now.</thinking><answer>You should stir the paste into the eggplant in the pan to mix them together.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/799/799_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/799/799_clip_04.mp4",
         "parent_video_int": "799",
         "raw_parent_uuid": "7006d643-836f-4581-8c9b-5f51f6725d65.mp4",
         "clip_index": 4,
@@ -2604,13 +2604,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1359/1359_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1359/1359_clip_01.mp4",
     "question": "I'm trying to do the laundry, and I've just put the first item of clothing into the machine. What should I do next?",
     "ground_truth": "<thinking>At this moment, I see the user's hands holding a grey, textured cloth item, which they are in the process of placing into the open drum of a silver LG front-loading washing machine. The machine is built into a wooden cabinet under a speckled granite countertop. To the left, a white laundry basket filled with more clothes sits on the wooden floor. The user's right hand is holding the washing machine door open, while their left hand is pushing the grey cloth inside. The scene indicates the user is actively loading the machine. Based on the overall context of the task, which involves putting clothes in the machine, adding detergent, and turning it on, the user has just begun the loading phase. They have successfully opened the machine and are placing the first item inside, which means the next logical step is to continue loading the rest of the clothes from the basket into the washing machine before proceeding to add detergent and start the cycle. Okay, I can see the user is now reaching back into the laundry basket to grab more clothes. They are pulling out a large, grey, waffle-textured blanket or towel. Since they are still in the process of loading, the next step is to keep adding the remaining items from the basket into the machine. I'll tell them to do that now.</thinking><answer>You should keep loading the rest of the clothes from the basket into the washing machine.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1359/1359_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1359/1359_clip_01.mp4",
         "parent_video_int": "1359",
         "raw_parent_uuid": "141b24d2-2fc1-4f9d-89ef-8dc3055213f7.mp4",
         "clip_index": 1,
@@ -2632,13 +2632,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/895/895_clip_02.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/895/895_clip_02.mp4",
     "question": "What is that white t-shirt I'm holding, and what should I do with it next?",
     "ground_truth": "<thinking>At this moment, I see the user holding a white t-shirt with a colorful graphic print in both hands, having just removed it from the drying rack. The t-shirt is the central focus of their attention. Based on the task description, which involves un-hanging, folding, and placing clothes in a closet, the next logical step after removing the garment is to fold it. The user is currently in the process of folding it, as they are holding it up and aligning the edges. Therefore, the object is a t-shirt, and the next action is to complete the folding before moving to the closet.</thinking><answer>That is a white t-shirt with a colorful graphic. You should finish folding it neatly, and then you can put it away in the closet.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/895/895_clip_02.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/895/895_clip_02.mp4",
         "parent_video_int": "895",
         "raw_parent_uuid": "01ce4fd6-197a-4792-8778-775b03780369.mp4",
         "clip_index": 2,
@@ -2660,13 +2660,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/409/409_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/409/409_clip_03.mp4",
     "question": "What is that small white dog doing near the door?",
     "ground_truth": "<thinking>At the end of the video, the scene is a cluttered kitchen corner with a microwave on a cart. My view is partially obstructed by the user's body, but I can clearly see a small, fluffy white dog sitting on the floor near the bottom right of the frame, close to a doorway. The dog is looking up towards the user, and its tail is wagging gently. Given the context of being in a kitchen and the dog's attentive posture, it appears to be waiting for something, perhaps food or attention. I will describe its action as sitting and looking up.</thinking><answer>That's a small white dog, and it's sitting on the floor near the door, looking up at you with its tail wagging.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/409/409_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/409/409_clip_03.mp4",
         "parent_video_int": "409",
         "raw_parent_uuid": "a6b81d4e-484a-4987-85bf-f1582b66ed0c.mp4",
         "clip_index": 3,
@@ -2688,13 +2688,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1463/1463_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1463/1463_clip_04.mp4",
     "question": "What is the black pan I'm holding in my left hand?",
     "ground_truth": "<thinking>At the end of the video, the user is holding a black, round, shallow cooking vessel with a long handle in their left hand. This object is visually consistent with a standard frying pan, which is also listed in the Object List. The user has just finished using it to transfer cooked food onto plates, which is a common function for a frying pan. Therefore, the object in their hand is a frying pan.</thinking><answer>That is a frying pan. It's black and you're holding it in your left hand after using it to serve the food.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1463/1463_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1463/1463_clip_04.mp4",
         "parent_video_int": "1463",
         "raw_parent_uuid": "02c9f4ca-88f3-4439-ae42-a819cedc67e2.mp4",
         "clip_index": 4,
@@ -2716,13 +2716,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/279/279_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/279/279_clip_03.mp4",
     "question": "What is that white container I'm holding in my right hand, and what am I doing with it?",
     "ground_truth": "<thinking>At the end of the video, I am standing in the kitchen, looking down at the stove where a pan of food is cooking. In my right hand, I am holding a small, white, cylindrical container with a lid. Based on the context of cooking and the action of tilting it over the pan, I recognize this as a spice jar. I am in the process of seasoning the food by shaking the contents of the jar onto the dish. The object list confirms the presence of a \"spice jar,\" which matches the visual evidence perfectly. The action of shaking it indicates I am adding seasoning, which is a common step in cooking.</thinking><answer>That's a spice jar. You're holding it in your right hand and shaking it to sprinkle seasoning onto the food you're cooking in the pan.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/279/279_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/279/279_clip_03.mp4",
         "parent_video_int": "279",
         "raw_parent_uuid": "676ef0a7-a390-4128-8237-df5c99feb498.mp4",
         "clip_index": 3,
@@ -2744,13 +2744,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/573/573_clip_01.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/573/573_clip_01.mp4",
     "question": "I'm trying to play a tune on the keyboard and I've just finished playing with my right hand, what should I do next?",
     "ground_truth": "<thinking>At this moment, I see the user sitting in front of a black electronic keyboard with white and black keys, which is positioned on a stand. The keyboard has a control panel with various buttons and sliders above the keys. The user’s right hand is resting on or near the keys, having just completed a sequence of playing. The surrounding environment includes a tiled floor and a wall with a light switch plate. Based on the video, the user has been actively using their right hand to press keys in a musical sequence, suggesting they are practicing or performing a tune. They have just finished a phrase or section, and their hand is now in a resting position, indicating a natural pause in the activity. The logical next step would involve either continuing the melody, adjusting a setting on the keyboard, or preparing for a different part of the piece. Okay, I see the user is looking for the next step after their right-hand phrase. Since they’ve paused, the most immediate and natural action is to continue the musical piece. In the video, the user’s right hand immediately begins to move again, pressing a new sequence of keys to continue the tune. This suggests the next step is to simply pick up where they left off and play the next part of the melody with their right hand.</thinking><answer>You should continue playing the next part of the tune with your right hand.</answer>",
     "category": "Future/Planning",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/573/573_clip_01.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/573/573_clip_01.mp4",
         "parent_video_int": "573",
         "raw_parent_uuid": "a7130a1c-5dc7-4f9c-ac2b-3ecdb9bcc7ae.mp4",
         "clip_index": 1,
@@ -2772,13 +2772,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/208/208_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/208/208_clip_04.mp4",
     "question": "What is that white towel hanging on the cabinet handle for?",
     "ground_truth": "<thinking>At the end of the video, I can see a white towel hanging on the handle of the upper cabinet, which is positioned directly above the microwave. The user has just finished placing food items, including a bowl with sliced lemons, onto the microwave's pull-out tray. Given the context of meal preparation, which involves handling various dishes and potentially hot items, this towel is most likely for practical kitchen use. It's a common practice to keep a towel handy for wiping hands, cleaning up small spills, or handling hot cookware. The towel is clearly visible and its location makes it easily accessible for these purposes. I recognize this as the 'towel' mentioned in the task context, which the user utilized during meal preparation.</thinking><answer>That's a towel. It's hanging there for you to use to wipe your hands, clean up any small spills, or handle hot dishes safely while you're preparing your meal.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/208/208_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/208/208_clip_04.mp4",
         "parent_video_int": "208",
         "raw_parent_uuid": "640fec89-baf1-4fee-8d64-89d7ff478ad1.mp4",
         "clip_index": 4,
@@ -2800,13 +2800,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1218/1218_clip_04.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/1218/1218_clip_04.mp4",
     "question": "What is the name of the large string instrument I'm playing?",
     "ground_truth": "<thinking>At this moment, I'm looking down at the instrument positioned between my legs. It's a large, wooden, cello-sized instrument with a curved body and four strings running along a long neck. My left hand is pressing down on the strings on the fingerboard, and my right hand is holding the bow, drawing it across the strings. Given its size, shape, and the way it's being played, it is clearly a cello. The task context confirms the user is playing a violin, but visually, this is a cello, which is a member of the violin family. I will identify it as a cello based on its distinct visual characteristics.</thinking><answer>That is a cello. It's a large, wooden string instrument from the violin family, and you're playing it by drawing the bow across its strings while pressing the strings with your other hand on the fingerboard.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/1218/1218_clip_04.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/1218/1218_clip_04.mp4",
         "parent_video_int": "1218",
         "raw_parent_uuid": "17310b46-54f8-4400-8a84-dd8a3943c410.mp4",
         "clip_index": 4,
@@ -2828,13 +2828,13 @@
     ]
   },
   {
-    "video": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/685/685_clip_03.mp4",
+    "video": "videos/full_data_Ego4d/video_clips/685/685_clip_03.mp4",
     "question": "What is the book I just placed on the shelf?",
     "ground_truth": "<thinking>At the end of the video, the user's hands are seen finishing the action of placing a book onto a crowded shelf. The book is positioned vertically, nestled between a red-covered book on the left and other stacked books on the right. Its cover is a plain, light beige or off-white color, and it appears to be a standard hardcover. Based on the task context which involves arranging books, this object is clearly one of the \"books\" from the provided list. I can identify it as a book based on its shape, size, and the context of the user's activity. The user is asking for identification of this specific item they have just handled and placed.</thinking><answer>That is a book. It has a plain, light beige cover and you've just placed it on the shelf between a red book and a stack of other books.</answer>",
     "category": "Factual/Past",
     "ego4d_mapping": [
       {
-        "clip_path": "pause-and-think-code/full_data/full_data_Ego4d/video_clips/685/685_clip_03.mp4",
+        "clip_path": "videos/full_data_Ego4d/video_clips/685/685_clip_03.mp4",
         "parent_video_int": "685",
         "raw_parent_uuid": "cd663385-fe88-4192-b286-b08f5d0fee8d.mp4",
         "clip_index": 3,

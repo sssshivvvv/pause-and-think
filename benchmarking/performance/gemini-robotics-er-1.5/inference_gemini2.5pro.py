@@ -141,7 +141,7 @@ def process_single_video_item(item, write_lock, output_file, processed_videos_lo
 def main(max_num_workers=5):  # Reduced default workers since Qwen might be resource intensive
     """Main function with multithreading support and resume capability"""
     
-    input_file = "pause-and-think-code/benchmarking/benchmark_300_files.json"
+    input_file = "benchmarking/benchmark_300_files.json"
     output_file = '300_performance_gemini-er.json'
     
     write_lock = Lock()

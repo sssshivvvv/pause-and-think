@@ -33,9 +33,11 @@ truth, and the `videos` / `video` paths each sample expects.
 - **Benchmark manifest**: already in this repo at
   [`benchmarking/benchmark_300_files.json`](../benchmarking/benchmark_300_files.json).
 
-The `videos` / `video` strings in those files carry the prefix
-`pause-and-think-code/full_data/…`; the regeneration script writes clips to the
-same relative layout under your chosen `--out-root`, so the paths resolve.
+The `videos` / `video` strings in those files are **relative paths** of the form
+`videos/…`. They are not files you need to download — they are where the
+regenerated clips should live. The regeneration script writes each clip to
+`<out-root>/videos/…`, so point your trainer / benchmark scripts at the same
+`--out-root` (e.g. run them from that directory) and the paths resolve.
 
 ## Step 2 — Download the raw source videos
 
@@ -65,24 +67,26 @@ To map a second to a frame index at a given fps: `frame = round(time_sec * fps)`
 python regenerate_clips.py \
   --mapping mappings/EK_training_data_mapping.json \
   --ek-root  /path/to/EPIC-KITCHENS \
-  --out-root /path/to/output_videos
+  --out-root /path/to/data_root
 
 # Ego4D (benchmark)
 python regenerate_clips.py \
   --mapping mappings/Ego4d_benchmark_data_mapping.json \
   --ego4d-root /path/to/ego4d/v2/full_scale \
-  --out-root   /path/to/output_videos
+  --out-root   /path/to/data_root
 
 # Assembly101 (training)
 python regenerate_clips.py \
   --mapping mappings/Assembly_training_data_mapping.json \
   --assembly-root /path/to/Assembly101 \
-  --out-root      /path/to/output_videos
+  --out-root      /path/to/data_root
 ```
 
-Run the same command for each of the six mapping files (training + benchmark for
-all three datasets), pointing every dataset at its raw root and a **shared**
-`--out-root`. Useful flags:
+Each clip is written to `<out-root>/videos/…` (the exact path used in the
+JSONs). Run the same command for each of the six mapping files (training +
+benchmark for all three datasets), pointing every dataset at its raw root and a
+**shared** `--out-root`, then run training / benchmark inference from that
+`--out-root` so the `videos/…` paths resolve. Useful flags:
 
 - `--dry-run` — print the ffmpeg commands without cutting anything.
 - `--limit N` — process only the first N clips (quick sanity check).

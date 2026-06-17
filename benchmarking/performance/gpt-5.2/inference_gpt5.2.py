@@ -203,7 +203,7 @@ def main(max_num_workers=10):
 
     
     # Load benchmark file
-    with open("pause-and-think-code/benchmarking/benchmark_300_files.json", 'r') as f:
+    with open("benchmarking/benchmark_300_files.json", 'r') as f:
         file = json.load(f)
     
     output_file = '300_performance_gpt5.2_again.json'

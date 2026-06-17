@@ -13,22 +13,27 @@ frame rate the released clips were encoded at (EK/Ego4d = 15 fps,
 Assembly101 = 30 fps). Timestamps are fps-invariant, so the seconds in the
 mapping apply directly to the raw video regardless of its native fps.
 
+Each clip is written to <out-root>/<clip_path>, where clip_path is the exact
+`videos/...` string used in the training / benchmark JSONs. Point your trainer
+or the benchmark inference scripts at the same <out-root> (e.g. run them from
+that directory) and the `videos/...` paths resolve.
+
 Usage
 -----
     python regenerate_clips.py \
         --mapping mappings/EK_training_data_mapping.json \
         --ek-root  /path/to/EPIC-KITCHENS \
-        --out-root /path/to/output_videos
+        --out-root /path/to/data_root
 
     python regenerate_clips.py \
         --mapping mappings/Ego4d_benchmark_data_mapping.json \
         --ego4d-root /path/to/ego4d/v2/full_scale \
-        --out-root   /path/to/output_videos
+        --out-root   /path/to/data_root
 
     python regenerate_clips.py \
         --mapping mappings/Assembly_training_data_mapping.json \
         --assembly-root /path/to/Assembly101 \
-        --out-root      /path/to/output_videos
+        --out-root      /path/to/data_root
 
 Add --dry-run to print the ffmpeg commands without running them.
 """
@@ -44,8 +49,10 @@ from pathlib import Path
 # Frame rate the released clips were encoded at, per dataset.
 TARGET_FPS = {"EK": 15, "Ego4d": 15, "Assembly": 30}
 
-# Prefix carried by every clip_path / video field in the released JSONs.
-DEFAULT_PREFIX = "pause-and-think-code/full_data/"
+# By default we write each clip at exactly the path used in the JSONs
+# (e.g. videos/...), rooted at --out-root. Set --strip-prefix to drop a leading
+# component if you want a flatter output layout.
+DEFAULT_PREFIX = ""
 
 
 def detect_dataset(mapping_path: Path, rows: list) -> str:
@@ -188,7 +195,7 @@ def main() -> None:
     ap.add_argument("--ego4d-root", help="Root containing Ego4d v2 full_scale UUID mp4s")
     ap.add_argument("--assembly-root", help="Root of Assembly101 recordings (<recording>/C10118_rgb.mp4)")
     ap.add_argument("--fps", type=int, default=None, help="Override target fps (default: EK/Ego4d=15, Assembly=30)")
-    ap.add_argument("--strip-prefix", default=DEFAULT_PREFIX, help="Prefix removed from clip_path to form output path")
+    ap.add_argument("--strip-prefix", default=DEFAULT_PREFIX, help="Optional leading path component to drop from clip_path (default: keep full path, e.g. videos/...)")
     ap.add_argument("--limit", type=int, default=None, help="Only process the first N clips (for testing)")
     ap.add_argument("--overwrite", action="store_true", help="Re-cut clips that already exist")
     ap.add_argument("--dry-run", action="store_true", help="Print ffmpeg commands without running them")

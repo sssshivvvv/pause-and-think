@@ -2,6 +2,8 @@
 
 This repository contains the code accompanying the paper **"Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion"** by Shivam Singh, Saptarshi Majumdar, Pratik Prabhanjan, Zicheng Liu, and Emad Barsoum (AMD).
 
+> **Accepted at IROS 2026** (IEEE/RSJ International Conference on Intelligent Robots and Systems).
+
 > Recent Vision-Language Models (VLMs) struggle with grounded reasoning, temporal consistency, and context-aware planning in videos. We introduce **pause-and-think-T**, a reasoning-centric training dataset that encourages models to pause, reason over visual evidence, and produce concise, actionable responses. A fine-tuned compact **4B-parameter** model achieves **58.0%** accuracy on our **pause-and-think-B** benchmark — **59× fewer parameters than Qwen3-VL-235B (58.9%)** — matching GPT-5.2 on scene understanding and surpassing GPT-4o.
 
 ## Links
@@ -9,7 +11,6 @@ This repository contains the code accompanying the paper **"Pause and Think: A D
 - **Paper (this repo):** [`pause-and-think-arxiv-amd.pdf`](./pause-and-think-arxiv-amd.pdf)
 - **Fine-tuned checkpoint (Hugging Face):** [shivammmmm/pause-and-think-best-checkpoint-hf](https://huggingface.co/shivammmmm/pause-and-think-best-checkpoint-hf)
 - **Dataset clip mappings + regeneration tool:** [`dataset/`](./dataset) (see [Dataset: download & regenerate](#dataset-download--regenerate))
-- **Conversation / annotation JSONs (training + splits):** *To be released soon on Hugging Face.*
 
 ## Repository Structure
 
@@ -50,7 +51,7 @@ This release covers three components of the paper:
 2. **Benchmark inference** (`benchmarking/performance/`) — scripts to run each evaluated model (GPT-5.2, Gemini-Robotics-ER-1.5, Qwen3-VL-235B, and our fine-tuned Qwen3-VL-4B) on the 300-sample pause-and-think-B benchmark.
 3. **Automated evaluation** (`benchmarking/evaluation/`) — the GPT-5.1-based evaluator that performs binary validity scoring against ground truth, as described in Section 4.1.4 of the paper.
 
-The **conversation / annotation JSONs** (the `messages` with `<thinking>` supervision, questions, and ground truth) will be uploaded to Hugging Face shortly. The **video clips** are not redistributed; instead `dataset/` provides mapping files and a tool to regenerate every clip from the original EPIC-KITCHENS / Ego4D / Assembly101 videos — see [Dataset: download & regenerate](#dataset-download--regenerate).
+The **conversation / annotation data** (the `messages` with `<thinking>` supervision and the per-clip `videos`) ships directly in this repo inside the training mapping files under [`dataset/mappings/`](./dataset/mappings); the benchmark questions and ground truth are in [`benchmarking/benchmark_300_files.json`](./benchmarking/benchmark_300_files.json). The **video clips** are not redistributed — instead `dataset/` provides a tool to regenerate every clip from the original EPIC-KITCHENS / Ego4D / Assembly101 videos using the included timestamps. See [Dataset: download & regenerate](#dataset-download--regenerate).
 
 ## Quick Start
 
@@ -108,10 +109,12 @@ Both the **training set (pause-and-think-T)** and the **benchmark (pause-and-thi
 > | Ego4D | **15** | 30 | `raw_parent_uuid` (v2 `full_scale` UUID) |
 > | Assembly101 | **30** | 60 | `raw_session_recording` + `raw_session_view` (`C10118_rgb.mp4`) |
 
-### 1. Get the conversation / annotation JSONs
+### 1. Get the conversation / annotation data
 
-- **Training** (`all_training_data_alpaca_thinking.json` + scene/goal splits): released on Hugging Face (link will be added above under **Links** once live).
-- **Benchmark**: already in this repo at [`benchmarking/benchmark_300_files.json`](./benchmarking/benchmark_300_files.json).
+Both are already in this repo — nothing to download:
+
+- **Training**: the training mapping files under [`dataset/mappings/`](./dataset/mappings) (`{EK,Ego4d,Assembly}_training_data_mapping.json`) carry, per sample, the `messages` (with `<thinking>` supervision) and the `videos` paths alongside the clip→raw-video mapping.
+- **Benchmark**: [`benchmarking/benchmark_300_files.json`](./benchmarking/benchmark_300_files.json) (questions + ground truth), with windows in the `*_benchmark_data_mapping.json` files.
 
 ### 2. Download the raw source videos
 
@@ -156,11 +159,12 @@ Our 4B model is **Pareto-optimal among open-weight models** and generalises out-
 If you use this code, the dataset, or the released checkpoint, please cite:
 
 ```bibtex
-@article{singh2026pauseandthink,
-  title   = {Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion},
-  author  = {Singh, Shivam and Majumdar, Saptarshi and Prabhanjan, Pratik and Liu, Zicheng and Barsoum, Emad},
-  year    = {2026},
-  note    = {Work done during internship at AMD}
+@inproceedings{singh2026pauseandthink,
+  title     = {Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion},
+  author    = {Singh, Shivam and Majumdar, Saptarshi and Prabhanjan, Pratik and Liu, Zicheng and Barsoum, Emad},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year      = {2026},
+  note      = {Work done during internship at AMD}
 }
 ```
 

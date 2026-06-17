@@ -2,10 +2,11 @@
 
 We do **not** redistribute the source video clips (they are derived from
 EPIC-KITCHENS, Assembly101, and Ego4D, each with its own license). Instead this
-folder ships **mapping files** that tell you, for every clip referenced by the
-training / benchmark JSONs, exactly which **raw source video** it came from and
-the **wall-clock window (in seconds)** to cut. After you download the raw
-datasets and the conversation/annotation JSONs, you regenerate the clips locally
+folder ships **mapping files** that tell you, for every clip, exactly which
+**raw source video** it came from and the **wall-clock window (in seconds)** to
+cut. The training mappings also carry the full `messages` (with `<thinking>`
+supervision) and `videos` for each sample, so the annotation data lives in this
+repo — you only need to download the raw videos and regenerate the clips locally
 with [`regenerate_clips.py`](./regenerate_clips.py).
 
 ```
@@ -21,17 +22,16 @@ dataset/
 └── README.md   (this file)
 ```
 
-## Step 1 — Get the conversation / annotation files
+## Step 1 — Get the conversation / annotation data
 
-These contain the `messages` (with `<thinking>` supervision), questions, ground
-truth, and the `videos` / `video` paths each sample expects.
+Both are already in this repo — nothing to download:
 
-- **Training set** (`all_training_data_alpaca_thinking.json`) and the
-  **train/val scene & goal splits**: *released on Hugging Face* (see the
-  **Training / evaluation / benchmark data** link in the top-level
-  [`README.md`](../README.md)).
-- **Benchmark manifest**: already in this repo at
-  [`benchmarking/benchmark_300_files.json`](../benchmarking/benchmark_300_files.json).
+- **Training**: the `*_training_data_mapping.json` files in [`mappings/`](./mappings)
+  carry, per sample, the `messages` (with `<thinking>` supervision), the `videos`
+  paths, and the clip→raw-video mapping.
+- **Benchmark**: [`benchmarking/benchmark_300_files.json`](../benchmarking/benchmark_300_files.json)
+  (questions + ground truth), with the corresponding windows in the
+  `*_benchmark_data_mapping.json` files.
 
 The `videos` / `video` strings in those files are **relative paths** of the form
 `videos/…`. They are not files you need to download — they are where the

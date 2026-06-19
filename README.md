@@ -1,6 +1,6 @@
 # Pause-and-Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion
 
-This repository contains the code accompanying the paper **"Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion"** by Shivam Singh, Saptarshi Majumdar, Pratik Prabhanjan, Zicheng Liu, and Emad Barsoum (AMD).
+This repository contains the code accompanying the paper **"Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion"** by Shivam Singh, Saptarshi Majumder, Pratik Prabhanjan Brahma, Zicheng Liu, and Emad Barsoum (AMD).
 
 > **Accepted at IROS 2026** (IEEE/RSJ International Conference on Intelligent Robots and Systems).
 
@@ -161,10 +161,24 @@ If you use this code, the dataset, or the released checkpoint, please cite:
 ```bibtex
 @inproceedings{singh2026pauseandthink,
   title     = {Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion},
-  author    = {Singh, Shivam and Majumdar, Saptarshi and Prabhanjan, Pratik and Liu, Zicheng and Barsoum, Emad},
+  author    = {Singh, Shivam and Majumder, Saptarshi and Brahma, Pratik Prabhanjan and Liu, Zicheng and Barsoum, Emad},
   booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year      = {2026},
   note      = {Work done during internship at AMD}
+}
+```
+
+Or cite the arXiv preprint:
+
+```bibtex
+@misc{singh2026pausethinkdatasetbenchmark,
+      title={Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion}, 
+      author={Shivam Singh and Saptarshi Majumder and Pratik Prabhanjan Brahma and Zicheng Liu and Emad Barsoum},
+      year={2026},
+      eprint={2606.00616},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.00616}, 
 }
 ```
 

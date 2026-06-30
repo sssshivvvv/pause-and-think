@@ -8,7 +8,7 @@ This repository contains the code accompanying the paper **"Pause and Think: A D
 
 ## Links
 
-- **Paper (this repo):** [`pause-and-think-arxiv-amd.pdf`](./pause-and-think-arxiv-amd.pdf)
+- **Paper (this repo):** [`https://arxiv.org/pdf/2606.00616`](https://arxiv.org/pdf/2606.00616)
 - **Fine-tuned checkpoint (Hugging Face):** [shivammmmm/pause-and-think-best-checkpoint-hf](https://huggingface.co/shivammmmm/pause-and-think-best-checkpoint-hf)
 - **Dataset clip mappings + regeneration tool:** [`dataset/`](./dataset) (see [Dataset: download & regenerate](#dataset-download--regenerate))
 
